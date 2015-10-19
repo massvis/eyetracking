@@ -40,3 +40,7 @@ Eye movements:
 Text description:
 * `userdata(j).description` contains the original text created by the user and collected during the recall phase of our visualization studies (Borkin, Bylinskii, et al. 2015)
 * `userdata(j).coded_desc` is the manually rated description text (Borkin, Bylinskii, et al. 2015)
+
+###[fixationsByVis.zip](https://github.com/massvis/eyetracking/blob/master/fixationsByVis.zip)
+
+For each filename corresponding to one of the 393 visualizations, and for both the encoding and recognition phases of our visualization studies (Borkin, Bylinskii, et al. 2015), there is a directory of user fixations. A comma-separated file corresponds to each user. Each line of the file corresponds to a single fixation and is formatted as follows: fixation number (order within fixation sequence), x and y locations of fixation in the image, fixation duration in ms. So, for example, fixationsByVis/wsj612/enc/wab.csv contains the fixations (during the encoding phase) of user labeled "wab" on visualizations labeled "wsj612".
