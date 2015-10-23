@@ -53,5 +53,53 @@ plotFixationHeatmap(im, fixations, params);
 
 plotCoverageMap(im, fixations, params); 
    
+%% plot coverage at different thresholds
+
+for i = 1:2:10
+    params.thresh = i/10;
+    plotCoverageMap(im, fixations, params); 
+end
+
+%% plot the ordered sequence of fixations for a particular observer
+% on a particular visualization
+whichuser = 5;
+
+fix = allImages(whichim).userdata(whichuser).fixations.(whichfix);
+nfix = size(fix,1);
+
+im = imread(allImages(whichim).impath);
+%im_cur = rgb2gray(im);
+im_cur = im;
+
+% plot fixations in a sequence with numbers indicating order of fixations, 
+% and lines connecting consecutive fixations
+figure; cols = colormap(autumn(nfix));
+imshow(im_cur);
+hold on;
+for f = 1:(nfix-1)
+    plot(fix(f:(f+1),1),fix(f:(f+1),2),'LineWidth',5,'color',cols(f,:))
+end
+for f = 1:nfix
+    text(fix(f,1),fix(f,2),['{\color{black}\bf', num2str(f), '}'],...
+        'FontSize', 16, 'BackgroundColor', cols(f,:));
+end
+
+%% plot the fixations of a single observer on current visualization
+
+if strcmp(whichfix,'enc')
+    plotFixationsOnIm(whichim,allImages,1,0,whichuser,1)
+else
+    plotFixationsOnIm(whichim,allImages,2,0,whichuser,1)
+end
+
+
+%% plot the fixations of a group of observers on current visualization, 
+% pausing between observers
+
+if strcmp(whichfix,'enc')
+    plotFixationsOnIm(whichim,allImages,1,1,whichusers,1)
+else
+    plotFixationsOnIm(whichim,allImages,2,1,whichusers,1)
+end
 
      
