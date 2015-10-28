@@ -7,6 +7,7 @@ Beyond Memorability: Visualization Recognition and Recall.
 Borkin, M., Bylinskii, Z., Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.
 IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2015)
 ```
+[paper pdf](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf)
 
 Please cite this paper if you use this data.
 

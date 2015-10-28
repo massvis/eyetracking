@@ -7,6 +7,7 @@ Beyond Memorability: Visualization Recognition and Recall.
 Borkin, M., Bylinskii, Z., Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.
 IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2015)
 ```
+[paper pdf](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf)
 
 Please cite this paper if you use this data.
 
@@ -33,12 +34,12 @@ This is a Matlab allImages struct, which contains all the fields as described in
 Here we describe what you can find in the `allImages(i).userdata` field for the i-th image. To access the data for the j-th user on the i-th image: `allImages(i).userdata(j)`
 
 Eye movements:
-* `userdata(j).fixations` contains the (x,y) fixation locations collected during the encoding (`enc`) and recognition (`rec`) phases of our visualization studies (Borkin, Bylinskii, et al. 2015)
+* `userdata(j).fixations` contains the (x,y) fixation locations collected during the encoding (`enc`) and recognition (`rec`) phases of our visualization studies ([Borkin, Bylinskii, et al. 2015](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf))
 * `userdata(j).fix_durations` contains the durations (in ms) of each fixation listed in `userdata(j).fixations` (e.g. the r-th row of userdata(j).fixations corresponds to the r-th row of userdata(j).fix_durations)
 
 Text description:
-* `userdata(j).description` contains the original text created by the user and collected during the recall phase of our visualization studies (Borkin, Bylinskii, et al. 2015)
-* `userdata(j).coded_desc` is the manually coded description text (Borkin, Bylinskii, et al. 2015)
+* `userdata(j).description` contains the original text created by the user and collected during the recall phase of our visualization studies ([Borkin, Bylinskii, et al. 2015](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf))
+* `userdata(j).coded_desc` is the manually coded description text ([Borkin, Bylinskii, et al. 2015](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf))
 
 The `coded_desc` field has a number of properties. We describe there here:
 Text coding:
@@ -62,6 +63,7 @@ Eye Fixation Metrics for Large Scale Analysis of Information Visualizations
 Bylinskii, Z., Borkin, M.
 First Workshop on Eyetracking and Visualizations (ETVIS 2015) in conjunction with IEEE VIS 2015
 ```
+[paper pdf](http://web.mit.edu/zoya/www/Bylinskii_eyefixations_small.pdf)
 
 Please cite this paper if you use this code.
 
