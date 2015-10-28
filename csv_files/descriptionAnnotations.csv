@@ -1,0 +1,2838 @@
+filename,user,description quality,extra insight,inaccurate,confusion with other,title mention,visual element mention,data element mention,elements mentioned
+economist_daily_chart_103.png, pi, 3, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_103.png, mg, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_103.png, wab, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_103.png, abl, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_103.png, rk, 0, 0, 0, 0, 0, 0, 1, 
+economist_daily_chart_106.png, ls, 0, 0, 0, 1, 0, 0, 0, 
+economist_daily_chart_106.png, em, 2, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_106.png, mg, 3, 0, 0, 0, 0, 0, 1, 
+economist_daily_chart_106.png, wab, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_106.png, abl, 3, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_106.png, rb, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_110.png, sok, 2, 0, 0, 0, 0, 0, 0, Paragraph
+economist_daily_chart_110.png, db, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_110.png, mg, 3, 0, 0, 0, 1, 0, 1, 
+economist_daily_chart_110.png, ra, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_110.png, ad, 2, 1, 0, 0, 0, 0, 1, Annotations, Legend
+economist_daily_chart_110.png, abl, 3, 1, 0, 0, 1, 0, 1, Annotations
+economist_daily_chart_110.png, md, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_110.png, rb, 0, 0, 1, 1, 0, 0, 1, 
+economist_daily_chart_116.png, wab, 3, 0, 1, 0, 1, 0, 0, Legend, Data
+economist_daily_chart_116.png, sok, 3, 0, 0, 0, 1, 0, 1, Legend
+economist_daily_chart_116.png, db, 2, 1, 0, 0, 1, 0, 1, Legend
+economist_daily_chart_116.png, em, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_116.png, mg, 3, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_116.png, mrc, 1, 0, 0, 0, 0, 0, 1, 
+economist_daily_chart_116.png, ad, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_116.png, abl, 3, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_124.png, cmb, 3, 0, 0, 0, 1, 0, 1, 
+economist_daily_chart_124.png, ls, 2, 0, 0, 0, 1, 0, 1, Legend, Paragraph
+economist_daily_chart_124.png, wab, 2, 0, 0, 0, 1, 0, 1, Legend, Paragraph
+economist_daily_chart_124.png, pi, 3, 1, 0, 0, 1, 0, 1, Legend, Paragraph
+economist_daily_chart_124.png, db, 3, 0, 0, 0, 1, 0, 1, 
+economist_daily_chart_124.png, mc, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_124.png, abl, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_124.png, am, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_124.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_124.png, rb, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_124.png, rk, 1, 0, 0, 0, 0, 0, 1, 
+economist_daily_chart_129.png, cmb, 1, 0, 1, 0, 0, 0, 0, Data, Labels, Legend
+economist_daily_chart_129.png, pi, 2, 1, 0, 0, 0, 0, 1, 
+economist_daily_chart_129.png, mc, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_129.png, mg, 3, 1, 0, 0, 1, 0, 0, 
+economist_daily_chart_129.png, vm, 2, 0, 0, 0, 0, 0, 1, Axis
+economist_daily_chart_129.png, ad, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_129.png, abl, 2, 1, 0, 0, 0, 0, 1, Annotation, Axis
+economist_daily_chart_129.png, am, 1, 1, 0, 0, 0, 0, 0, Annotation, Axis
+economist_daily_chart_153.png, cmb, 2, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_153.png, ls, 2, 0, 0, 0, 1, 0, 1, Data, Labels, Legend, Axis
+economist_daily_chart_153.png, jm, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_153.png, ch, 2, 0, 0, 0, 1, 0, 1, Legend
+economist_daily_chart_153.png, em, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_153.png, rs, 3, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_153.png, abl, 2, 0, 0, 0, 0, 0, 0, Legend
+economist_daily_chart_153.png, rb, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_165.png, cmb, 0, 0, 0, 0, 0, 0, 0, Axis
+economist_daily_chart_165.png, sk, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+economist_daily_chart_165.png, wab, 3, 0, 1, 0, 1, 0, 1, Legend, Axis, Data
+economist_daily_chart_165.png, pi, 3, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_165.png, sok, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_165.png, dn, 2, 0, 0, 0, 1, 0, 1, Axis
+economist_daily_chart_165.png, mc, 3, 1, 0, 0, 1, 0, 1, Legend, Axis
+economist_daily_chart_165.png, ag, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_165.png, lcm, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_167.png, db, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_167.png, mc, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_167.png, mg, 2, 0, 0, 0, 0, 0, 0, Paragraph
+economist_daily_chart_167.png, ms, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_167.png, abl, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_18.png, pi, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_18.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_18.png, em, 2, 0, 0, 0, 1, 0, 0, Paragraph
+economist_daily_chart_18.png, mg, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_18.png, vm, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_18.png, lcm, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_187.png, wab, 3, 0, 0, 0, 1, 0, 0, Axis, Header Row, Data
+economist_daily_chart_187.png, pi, 2, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_187.png, sok, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_187.png, jm, 3, 0, 0, 0, 1, 0, 0, Axis, Header Row, Data
+economist_daily_chart_187.png, em, 2, 0, 0, 0, 1, 0, 0, Axis Label
+economist_daily_chart_187.png, mg, 3, 1, 0, 0, 1, 0, 1, 
+economist_daily_chart_187.png, ra, 2, 0, 0, 0, 0, 0, 0, Paragraph
+economist_daily_chart_187.png, vm, 2, 1, 0, 0, 1, 0, 0, 
+economist_daily_chart_187.png, abl, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_202.png, pi, 3, 0, 0, 0, 1, 0, 1, Axis Label, Axis, Data, Label
+economist_daily_chart_202.png, db, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_202.png, mg, 3, 0, 0, 0, 1, 0, 1, Annotations
+economist_daily_chart_202.png, am, 3, 0, 0, 0, 1, 0, 1, Annotations
+economist_daily_chart_202.png, lcm, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_202.png, rk, 2, 0, 0, 0, 1, 0, 1, Annotation
+economist_daily_chart_215.png, sok, 3, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_215.png, mg, 3, 1, 0, 0, 1, 0, 1, Annotation
+economist_daily_chart_215.png, rs, 2, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_215.png, abl, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_215.png, lcm, 2, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_215.png, rb, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_215.png, rk, 2, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_219.png, cmb, 3, 0, 0, 0, 0, 0, 1, Legend, Label, Data
+economist_daily_chart_219.png, wab, 3, 0, 0, 0, 0, 0, 1, Legend, Label, Data
+economist_daily_chart_219.png, pi, 3, 0, 0, 0, 1, 0, 1, Legend, Annotation
+economist_daily_chart_219.png, sok, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_219.png, mg, 3, 1, 0, 0, 0, 0, 1, Legend, Annotation
+economist_daily_chart_219.png, mrc, 2, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_219.png, abl, 1, 0, 0, 0, 0, 0, 1, Legend, Annotation
+economist_daily_chart_219.png, lcm, 3, 0, 0, 0, 0, 0, 1, Legend, Annotation
+economist_daily_chart_219.png, rb, 3, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_240.png, pi, 2, 0, 0, 0, 0, 0, 0, Legend
+economist_daily_chart_240.png, sok, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_240.png, mg, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_240.png, rb, 2, 0, 0, 0, 1, 0, 0, Axis Label
+economist_daily_chart_242.png, cmb, 1, 0, 1, 0, 0, 0, 1, Legend, Data
+economist_daily_chart_242.png, wab, 3, 0, 0, 0, 1, 0, 1, Data, Legend, Axis Label, Axis
+economist_daily_chart_242.png, sok, 2, 0, 0, 0, 1, 0, 0, Axis Label
+economist_daily_chart_242.png, mc, 2, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_242.png, mg, 3, 0, 0, 0, 1, 0, 0, Axis Label
+economist_daily_chart_242.png, rs, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_242.png, rb, 0, 0, 0, 1, 0, 0, 0, 
+economist_daily_chart_258.png, cmb, 0, 0, 0, 0, 0, 0, 1, Data, Label
+economist_daily_chart_258.png, ls, 1, 0, 0, 0, 1, 0, 1, Annotation
+economist_daily_chart_258.png, ch, 1, 0, 0, 0, 1, 0, 1, Annotation
+economist_daily_chart_258.png, db, 0, 0, 0, 1, 0, 0, 0, 
+economist_daily_chart_258.png, mg, 2, 0, 0, 0, 1, 0, 1, Annotation
+economist_daily_chart_258.png, ms, 1, 0, 1, 0, 1, 0, 0, 
+economist_daily_chart_258.png, wab, 1, 0, 0, 0, 1, 0, 1, 
+economist_daily_chart_258.png, abl, 1, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_258.png, am, 1, 0, 1, 0, 1, 0, 1, 
+economist_daily_chart_258.png, lcm, 0, 0, 0, 1, 0, 0, 0, 
+economist_daily_chart_258.png, rb, 1, 0, 0, 0, 1, 0, 1, Annotation
+economist_daily_chart_268.png, cmb, 3, 0, 1, 0, 1, 0, 0, Axis, Pictogram, Data
+economist_daily_chart_268.png, ls, 3, 0, 0, 0, 1, 0, 1, Axis, Pictogram, Data
+economist_daily_chart_268.png, wab, 3, 0, 0, 0, 1, 0, 0, Axis, Data
+economist_daily_chart_268.png, dn, 2, 0, 0, 0, 0, 0, 0, Paragraph, Axis Label
+economist_daily_chart_268.png, mc, 2, 1, 1, 0, 1, 0, 1, Paragraph, Axis Label
+economist_daily_chart_268.png, mg, 3, 1, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_268.png, tj, 3, 0, 0, 0, 0, 0, 1, Paragraph, Axis Label
+economist_daily_chart_268.png, abl, 3, 0, 0, 0, 0, 0, 1, Paragraph, Axis Label
+economist_daily_chart_268.png, lcm, 2, 0, 0, 0, 1, 0, 0, Paragraph
+economist_daily_chart_268.png, md, 3, 0, 0, 0, 0, 0, 1, Paragraph, Axis Label
+economist_daily_chart_268.png, rb, 2, 0, 0, 0, 1, 0, 0, Axis Label
+economist_daily_chart_268.png, rk, 3, 0, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_317.png, pi, 3, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_317.png, sok, 3, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_317.png, mg, 3, 1, 1, 0, 1, 0, 1, Legend
+economist_daily_chart_317.png, tj, 2, 1, 0, 0, 0, 0, 1, 
+economist_daily_chart_317.png, vm, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_317.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+economist_daily_chart_317.png, abl, 3, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_317.png, am, 3, 1, 0, 0, 1, 0, 1, Legend
+economist_daily_chart_317.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_317.png, rb, 2, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_324.png, sok, 2, 0, 1, 0, 0, 0, 0, Legend
+economist_daily_chart_324.png, mg, 1, 0, 0, 0, 0, 0, 1, Legend
+economist_daily_chart_35.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+economist_daily_chart_35.png, db, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_35.png, ag, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_35.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_380.png, ls, 2, 0, 0, 0, 1, 0, 1, Paragraph, Data, Label
+economist_daily_chart_380.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_380.png, mc, 2, 0, 1, 0, 1, 0, 0, Paragraph, Label
+economist_daily_chart_380.png, ag, 2, 0, 0, 0, 0, 0, 0, Label
+economist_daily_chart_390.png, cmb, 3, 0, 1, 0, 1, 0, 1, Data, Legend
+economist_daily_chart_390.png, wab, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_390.png, pi, 3, 1, 0, 0, 1, 0, 1, Legend
+economist_daily_chart_390.png, mg, 3, 1, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_390.png, lcm, 1, 0, 1, 1, 0, 0, 0, Legend
+economist_daily_chart_390.png, rb, 3, 0, 0, 0, 1, 0, 1, Legend
+economist_daily_chart_392.png, wab, 3, 0, 0, 0, 1, 0, 1, Data, Axis
+economist_daily_chart_392.png, sok, 1, 0, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_392.png, mg, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_392.png, rs, 2, 0, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_392.png, abl, 2, 0, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_392.png, lcm, 2, 0, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_392.png, rk, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_4.png, pi, 3, 0, 0, 0, 1, 0, 1, Label, Data, Axis
+economist_daily_chart_4.png, sh, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_4.png, tj, 2, 0, 0, 0, 1, 0, 1, Axis Label, Annotation
+economist_daily_chart_4.png, ad, 2, 0, 0, 0, 0, 0, 0, Paragraph
+economist_daily_chart_4.png, abl, 3, 0, 0, 0, 1, 0, 0, Axis Label
+economist_daily_chart_406.png, sok, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_406.png, jm, 3, 0, 1, 0, 1, 0, 0, Label, Legend
+economist_daily_chart_406.png, db, 1, 1, 0, 0, 0, 0, 1, Label
+economist_daily_chart_406.png, em, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_406.png, mc, 3, 0, 0, 0, 1, 0, 1, Legend, Label
+economist_daily_chart_406.png, mrc, 3, 0, 0, 0, 1, 0, 1, Label
+economist_daily_chart_406.png, ms, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_406.png, rk, 3, 0, 1, 0, 0, 0, 1, 
+economist_daily_chart_416.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+economist_daily_chart_416.png, mc, 2, 0, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_416.png, mg, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_416.png, tj, 2, 0, 0, 0, 1, 0, 0, Axis Label
+economist_daily_chart_430.png, wab, 1, 0, 0, 0, 1, 0, 0, Label
+economist_daily_chart_430.png, sok, 2, 0, 0, 0, 1, 0, 0, Labels
+economist_daily_chart_430.png, db, 1, 0, 0, 0, 0, 0, 1, 
+economist_daily_chart_430.png, mg, 3, 0, 0, 0, 1, 0, 1, Label, Paragraph
+economist_daily_chart_430.png, mrc, 1, 0, 0, 0, 0, 0, 1, 
+economist_daily_chart_430.png, vm, 1, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_439.png, ls, 0, 0, 0, 1, 0, 0, 0, 
+economist_daily_chart_439.png, sok, 1, 0, 0, 0, 0, 0, 0, Axis Label
+economist_daily_chart_439.png, mg, 3, 1, 1, 0, 1, 0, 1, Axis Label, Legend
+economist_daily_chart_439.png, rs, 3, 0, 0, 0, 1, 0, 1, Axis Label, Legend
+economist_daily_chart_439.png, lcm, 2, 1, 0, 0, 1, 0, 1, Axis Label, Legend
+economist_daily_chart_449.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_449.png, sok, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_449.png, db, 1, 0, 1, 0, 0, 0, 0, 
+economist_daily_chart_449.png, mg, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_449.png, abl, 2, 0, 1, 0, 2, 0, 1, Source, Axis Label
+economist_daily_chart_45.png, cmb, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data, Pictogram
+economist_daily_chart_45.png, pi, 3, 1, 0, 0, 1, 0, 1, Paragraph, Legend
+economist_daily_chart_45.png, sok, 2, 1, 0, 0, 0, 0, 0, Legend, Axis Label
+economist_daily_chart_45.png, jm, 3, 0, 0, 0, 1, 0, 0, Legend, Axis, Data, Pictogram
+economist_daily_chart_45.png, em, 2, 0, 0, 0, 0, 0, 0, Legend, Axis Label
+economist_daily_chart_45.png, sh, 2, 0, 0, 0, 0, 0, 0, Legend, Axis Label
+economist_daily_chart_45.png, vm, 2, 0, 0, 0, 0, 0, 0, Paragraph
+economist_daily_chart_45.png, wab, 2, 1, 1, 0, 0, 0, 1, Legend, Axis Label
+economist_daily_chart_45.png, abl, 3, 1, 0, 0, 0, 0, 0, Legend, Axis Label
+economist_daily_chart_45.png, rb, 3, 1, 0, 0, 0, 0, 1, Legend, Axis Label, Paragraph
+economist_daily_chart_453.png, cmb, 3, 0, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_453.png, wab, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_453.png, mg, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_453.png, sh, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_453.png, pk, 1, 0, 1, 0, 0, 0, 0, 
+economist_daily_chart_454.png, cmb, 0, 0, 0, 0, 0, 0, 0, Axis
+economist_daily_chart_454.png, ls, 1, 0, 1, 0, 0, 0, 0, Paragraph, Legend
+economist_daily_chart_454.png, db, 3, 1, 0, 0, 1, 0, 1, Axis Label, Legend
+economist_daily_chart_454.png, mg, 1, 1, 0, 0, 0, 0, 0, 
+economist_daily_chart_454.png, ad, 2, 0, 1, 0, 1, 0, 0, Paragraph
+economist_daily_chart_454.png, abl, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_46.png, cmb, 2, 1, 1, 0, 1, 0, 1, Table Header Row
+economist_daily_chart_46.png, ls, 2, 0, 0, 0, 1, 0, 1, Legend, Pictogram, Data
+economist_daily_chart_46.png, wab, 3, 0, 0, 0, 1, 0, 1, Legend,  Data
+economist_daily_chart_46.png, pi, 3, 1, 1, 0, 1, 0, 1, Table Header Row, Table
+economist_daily_chart_46.png, sok, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_46.png, db, 3, 0, 0, 0, 1, 0, 1, Legend
+economist_daily_chart_46.png, dn, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_46.png, mg, 2, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_46.png, ra, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_46.png, rs, 2, 1, 1, 0, 1, 0, 1, 
+economist_daily_chart_46.png, tj, 2, 0, 1, 0, 1, 0, 0, Legend
+economist_daily_chart_46.png, abl, 3, 1, 0, 0, 1, 0, 1, Legend, Table Header Row, Source
+economist_daily_chart_46.png, am, 2, 0, 0, 0, 1, 0, 1, Table Header Row
+economist_daily_chart_46.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_46.png, rb, 3, 0, 0, 0, 1, 0, 1, Table Header Row
+economist_daily_chart_46.png, rk, 2, 0, 0, 0, 1, 0, 0, Paragraph
+economist_daily_chart_475.png, cmb, 3, 0, 0, 0, 1, 0, 1, Annotations
+economist_daily_chart_475.png, ls, 2, 0, 0, 0, 1, 0, 0, Legend, Data
+economist_daily_chart_475.png, sk, 3, 0, 1, 0, 1, 0, 1, Legend, Data, Label
+economist_daily_chart_475.png, pi, 2, 1, 0, 0, 1, 0, 1, Annotations
+economist_daily_chart_475.png, sok, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_475.png, dn, 2, 0, 1, 0, 1, 0, 1, Annotations
+economist_daily_chart_475.png, mg, 2, 0, 1, 0, 1, 0, 1, Legend
+economist_daily_chart_475.png, ra, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_475.png, sh, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_475.png, tj, 2, 1, 1, 0, 1, 0, 1, Annotations
+economist_daily_chart_475.png, wab, 3, 0, 1, 0, 1, 0, 1, Legend, Annotations
+economist_daily_chart_475.png, abl, 3, 1, 1, 0, 1, 0, 1, Legend, Annotations
+economist_daily_chart_475.png, lcm, 2, 1, 0, 0, 1, 0, 1, Annotations
+economist_daily_chart_475.png, pj, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_475.png, pk, 2, 1, 1, 0, 1, 0, 1, Annotations
+economist_daily_chart_48.png, cmb, 2, 0, 0, 0, 1, 0, 1, Legend
+economist_daily_chart_48.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_48.png, wab, 2, 0, 0, 0, 1, 0, 1, Legend
+economist_daily_chart_48.png, mc, 2, 0, 1, 0, 1, 0, 1, Legend
+economist_daily_chart_48.png, mg, 3, 0, 0, 0, 1, 0, 1, Legend, Labels
+economist_daily_chart_48.png, ra, 2, 0, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_48.png, sh, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_48.png, ag, 2, 1, 0, 0, 1, 0, 1, Legend
+economist_daily_chart_48.png, lcm, 1, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_48.png, md, 2, 1, 0, 0, 1, 0, 1, Legend, Labels
+economist_daily_chart_48.png, pk, 3, 0, 0, 0, 1, 0, 1, Legend, Labels
+economist_daily_chart_48.png, rb, 3, 0, 0, 0, 1, 0, 1, Legend, Labels
+economist_daily_chart_48.png, rk, 2, 1, 0, 0, 1, 0, 1, Legend, Labels
+economist_daily_chart_490.png, pi, 3, 1, 0, 0, 1, 0, 1, Table, Paragraph
+economist_daily_chart_490.png, mg, 2, 1, 0, 0, 1, 0, 1, Table
+economist_daily_chart_490.png, lcm, 2, 0, 0, 0, 1, 0, 0, Paragraph
+economist_daily_chart_491.png, pi, 1, 0, 0, 0, 0, 0, 0, Axis
+economist_daily_chart_491.png, jm, 0, 0, 0, 1, 0, 0, 0, 
+economist_daily_chart_491.png, mg, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_491.png, ad, 3, 0, 0, 0, 1, 0, 0, Legend, Axis Label
+economist_daily_chart_491.png, lcm, 2, 0, 0, 0, 1, 0, 0, Axis Label
+economist_daily_chart_493.png, ls, 2, 0, 0, 0, 0, 0, 0, Legend
+economist_daily_chart_493.png, pi, 1, 0, 0, 0, 0, 0, 1, Legend
+economist_daily_chart_493.png, sok, 1, 0, 0, 0, 0, 0, 1, Legend
+economist_daily_chart_493.png, db, 1, 0, 0, 0, 0, 0, 1, 
+economist_daily_chart_493.png, mg, 1, 0, 0, 0, 0, 0, 1, 
+economist_daily_chart_493.png, mrc, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_493.png, tj, 3, 0, 0, 0, 0, 0, 1, Legend
+economist_daily_chart_493.png, wab, 1, 0, 0, 0, 0, 0, 1, Legend
+economist_daily_chart_493.png, ag, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_493.png, lcm, 1, 0, 1, 0, 0, 0, 1, 
+economist_daily_chart_493.png, pk, 3, 0, 0, 0, 0, 0, 1, Legend
+economist_daily_chart_493.png, rb, 2, 0, 0, 0, 0, 0, 1, Legend
+economist_daily_chart_5.png, cmb, 0, 0, 0, 0, 0, 0, 0, Axis, Data
+economist_daily_chart_5.png, sok, 3, 0, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_5.png, db, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_5.png, wab, 3, 1, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_5.png, abl, 3, 0, 1, 0, 1, 0, 1, Axis Label, Legend
+economist_daily_chart_516.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_516.png, sok, 0, 0, 1, 0, 0, 0, 0, 
+economist_daily_chart_516.png, mrc, 2, 0, 1, 0, 1, 0, 1, Axis Label
+economist_daily_chart_516.png, lcm, 0, 0, 1, 0, 0, 0, 0, 
+economist_daily_chart_516.png, pj, 0, 0, 1, 0, 0, 0, 0, 
+economist_daily_chart_516.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_520.png, mg, 1, 0, 0, 0, 0, 0, 0, Axis Label
+economist_daily_chart_520.png, vm, 1, 0, 1, 0, 0, 0, 0, Axis Label
+economist_daily_chart_521.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_521.png, mg, 2, 1, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_521.png, vm, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_529.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+economist_daily_chart_529.png, mg, 3, 0, 0, 0, 0, 0, 1, Axis Label
+economist_daily_chart_529.png, am, 2, 0, 0, 0, 0, 0, 0, Axis Label
+economist_daily_chart_529.png, lcm, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_53.png, cmb, 3, 0, 0, 0, 1, 0, 1, Data, Axis
+economist_daily_chart_53.png, pi, 2, 1, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_53.png, sok, 2, 1, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_53.png, cy, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_53.png, mc, 2, 0, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_53.png, mg, 2, 0, 0, 0, 1, 0, 0, Axis Label
+economist_daily_chart_53.png, abl, 3, 0, 0, 0, 1, 0, 0, Axis Label
+economist_daily_chart_54.png, cmb, 2, 0, 1, 0, 0, 0, 0, Legend, Pictogram
+economist_daily_chart_54.png, ls, 3, 0, 0, 0, 1, 0, 0, Axis Label, Pictogram
+economist_daily_chart_54.png, wab, 3, 0, 0, 0, 1, 0, 0, Data, Legend, Label
+economist_daily_chart_54.png, ch, 2, 0, 0, 0, 1, 0, 0, Pictogram, Legend
+economist_daily_chart_54.png, krm, 1, 0, 0, 0, 0, 0, 0, Pictogram
+economist_daily_chart_54.png, vm, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_54.png, ad, 3, 0, 0, 0, 1, 0, 0, Axis Label, Pictogram, Legend
+economist_daily_chart_66.png, wab, 1, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_66.png, pi, 2, 1, 1, 0, 1, 0, 1, Label
+economist_daily_chart_66.png, jm, 3, 0, 0, 0, 1, 0, 0, Paragraph, Label, Data
+economist_daily_chart_66.png, vm, 0, 0, 1, 0, 0, 0, 0, 
+economist_daily_chart_66.png, ad, 2, 0, 0, 0, 1, 0, 1, 
+economist_daily_chart_66.png, abl, 2, 0, 0, 0, 1, 0, 1, Axis Label, Legend, Label
+economist_daily_chart_66.png, md, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_69.png, cmb, 0, 0, 0, 1, 0, 0, 0, 
+economist_daily_chart_69.png, ls, 2, 0, 0, 0, 1, 0, 0, Legend, Axis Label
+economist_daily_chart_69.png, pi, 2, 0, 0, 0, 0, 0, 0, Legend
+economist_daily_chart_69.png, sok, 2, 0, 0, 0, 0, 0, 0, Legend
+economist_daily_chart_69.png, mg, 2, 1, 0, 0, 1, 0, 0, Legend
+economist_daily_chart_69.png, abl, 2, 0, 1, 0, 0, 0, 0, Legend
+economist_daily_chart_69.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_69.png, md, 1, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_69.png, pk, 1, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_69.png, rb, 2, 0, 0, 0, 1, 0, 0, Axis Label
+economist_daily_chart_69.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_75.png, mg, 3, 0, 1, 0, 0, 0, 1, Axis Label, Paragraph
+economist_daily_chart_75.png, wab, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_85.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_85.png, vm, 1, 1, 0, 0, 1, 0, 1, Axis Label
+economist_daily_chart_85.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+economist_daily_chart_89.png, cmb, 1, 0, 0, 0, 0, 0, 0, Label
+economist_daily_chart_89.png, ls, 1, 0, 0, 0, 0, 0, 0, Label
+economist_daily_chart_89.png, pi, 2, 0, 0, 0, 0, 0, 0, Legend, Label
+economist_daily_chart_89.png, jm, 1, 0, 0, 0, 0, 0, 0, Data, Label
+economist_daily_chart_89.png, cy, 1, 1, 0, 0, 0, 0, 0, Legend, Label
+economist_daily_chart_89.png, mg, 2, 0, 0, 0, 1, 0, 1, Legend
+economist_daily_chart_89.png, wab, 2, 0, 1, 0, 1, 0, 1, Legend, Label
+economist_daily_chart_89.png, ag, 2, 0, 0, 0, 0, 0, 0, Paragraph, Label
+economist_daily_chart_89.png, lcm, 1, 0, 0, 0, 0, 0, 0, Legend
+economist_daily_chart_99.png, cmb, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_99.png, db, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_99.png, em, 2, 0, 0, 0, 1, 0, 0, Paragraph
+economist_daily_chart_99.png, krm, 1, 0, 1, 0, 1, 0, 0, Legend
+economist_daily_chart_99.png, mg, 1, 0, 0, 0, 0, 0, 1, 
+economist_daily_chart_99.png, mrc, 1, 1, 0, 0, 1, 0, 1, Legend
+economist_daily_chart_99.png, ms, 1, 0, 1, 0, 1, 0, 0, 
+economist_daily_chart_99.png, sh, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_99.png, wab, 0, 0, 1, 1, 0, 0, 0, 
+economist_daily_chart_99.png, abl, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_99.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_99.png, md, 2, 0, 0, 0, 1, 0, 0, 
+economist_daily_chart_99.png, rb, 3, 0, 0, 0, 1, 0, 1, Legend
+np_48.png, cmb, 2, 0, 0, 0, 1, 0, 1, Paragraph
+np_48.png, ls, 2, 0, 0, 0, 1, 0, 0, Label
+np_48.png, wab, 3, 0, 0, 0, 1, 0, 0, Paragraph, Data, Label
+np_48.png, em, 2, 0, 0, 0, 1, 0, 0, Paragraph
+np_48.png, mg, 2, 1, 0, 0, 1, 0, 1, Label
+np_48.png, lcm, 2, 1, 0, 0, 0, 0, 1, Paragraph
+np_48.png, rb, 2, 1, 0, 0, 0, 0, 1, Paragraph
+treasuryA10.png, pi, 3, 0, 0, 0, 1, 0, 0, Paragraph
+treasuryA10.png, sok, 2, 0, 1, 0, 1, 0, 0, Axis Label
+treasuryA10.png, db, 0, 0, 0, 0, 0, 0, 0, 
+treasuryA10.png, mg, 2, 0, 1, 0, 1, 0, 0, 
+treasuryA10.png, wab, 1, 0, 0, 0, 1, 0, 0, 
+treasuryB04.png, sok, 1, 1, 0, 0, 0, 0, 0, Axis Label
+treasuryB04.png, mg, 1, 1, 0, 0, 0, 0, 0, Paragraph
+treasuryB04.png, rs, 1, 0, 0, 0, 1, 0, 0, 
+treasuryB04.png, vm, 1, 1, 0, 0, 0, 0, 0, Axis Label, Label
+treasuryB04.png, lcm, 1, 1, 0, 0, 0, 0, 0, Label
+treasuryB10.png, pi, 2, 1, 0, 0, 0, 0, 0, 
+treasuryB10.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+treasuryB15.png, cmb, 3, 0, 0, 0, 1, 0, 0, Data, Label
+treasuryB15.png, pi, 2, 0, 0, 0, 1, 0, 0, 
+treasuryB15.png, tj, 1, 0, 0, 0, 0, 0, 1, Label, Axis Label
+treasuryB15.png, wab, 2, 0, 0, 0, 1, 0, 1, Annotation, Axis Label
+treasuryB15.png, rb, 2, 1, 0, 0, 0, 0, 0, 
+treasuryD04_3.png, pi, 0, 0, 0, 1, 0, 0, 0, 
+treasuryD04_3.png, mg, 1, 0, 0, 0, 0, 0, 0, Paragraph
+treasuryD04_3.png, abl, 1, 0, 0, 0, 0, 0, 0, Paragraph, Table
+treasuryD05_1.png, mrc, 0, 0, 0, 0, 0, 0, 0, 
+treasuryD08.png, wab, 1, 0, 0, 0, 1, 0, 0, 
+treasuryD08.png, dn, 1, 0, 0, 0, 0, 0, 0, Table
+treasuryD08.png, abl, 1, 0, 0, 0, 0, 0, 0, Table
+treasuryD08.png, lcm, 1, 0, 0, 0, 0, 0, 0, Table
+treasuryD08.png, rb, 1, 0, 0, 0, 0, 0, 0, Table
+treasuryG01_2.png, sok, 0, 0, 0, 1, 0, 0, 0, 
+treasuryG01_2.png, db, 0, 0, 0, 0, 0, 0, 0, 
+treasuryG01_2.png, em, 0, 0, 0, 0, 0, 0, 0, Table
+treasuryG01_2.png, mg, 3, 0, 0, 0, 1, 0, 1, Paragraph
+treasuryG01_2.png, abl, 1, 0, 0, 0, 0, 0, 1, Table
+treasuryG02_2.png, mc, 0, 0, 0, 0, 0, 0, 0, 
+treasuryG02_2.png, mg, 1, 1, 0, 0, 0, 0, 0, 
+treasuryG02_2.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+treasuryG05_1.png, wab, 1, 0, 0, 0, 0, 0, 0, 
+treasuryG06_2.png, wab, 1, 0, 0, 0, 1, 0, 0, 
+treasuryG06_2.png, pi, 1, 0, 0, 0, 1, 0, 0, 
+treasuryG06_2.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+treasuryG06_2.png, db, 0, 0, 0, 0, 0, 0, 0, 
+treasuryG06_2.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+treasuryG06_2.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+treasuryG06_2.png, pk, 2, 0, 0, 0, 1, 0, 0, 
+treasuryG07_2.png, cmb, 0, 0, 0, 0, 0, 0, 0, 
+treasuryG07_2.png, ls, 0, 0, 0, 0, 0, 0, 0, 
+treasuryG07_2.png, mg, 1, 0, 0, 0, 0, 0, 0, Paragraph
+treasuryG07_2.png, abl, 1, 1, 0, 0, 0, 0, 0, 
+treasuryI01_2.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+treasuryI01_2.png, mg, 2, 1, 0, 0, 1, 0, 0, Legend
+treasuryI01_2.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+treasuryI02_1.png, ls, 1, 0, 0, 0, 1, 0, 0, 
+treasuryI02_1.png, pi, 2, 0, 0, 0, 1, 0, 0, Legend
+treasuryI02_1.png, sok, 2, 0, 1, 0, 1, 0, 0, 
+treasuryI02_1.png, mg, 2, 0, 0, 0, 0, 0, 0, Legend, Axis Label
+treasuryI02_1.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+treasuryI02_1.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+treasuryK01.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+treasuryK01.png, jm, 2, 0, 0, 0, 1, 0, 0, Data
+treasuryK01.png, mg, 2, 1, 0, 0, 1, 0, 0, 
+treasuryK01.png, wab, 2, 0, 0, 0, 1, 0, 0, 
+treasuryK01.png, lg, 2, 1, 0, 0, 1, 0, 0, Label
+treasuryK01.png, ag, 1, 0, 0, 0, 0, 0, 0, Label
+treasuryK01.png, lcm, 1, 0, 0, 0, 0, 0, 0, 
+treasuryK01.png, rb, 2, 0, 0, 0, 1, 0, 0, 
+treasuryK03_2.png, ls, 1, 0, 0, 0, 1, 0, 0, 
+treasuryK03_2.png, sok, 1, 0, 0, 0, 0, 0, 0, 
+treasuryK03_2.png, mg, 1, 0, 0, 0, 1, 0, 0, Paragraph
+treasuryK03_3.png, sok, 1, 0, 0, 0, 0, 0, 0, 
+treasuryK03_3.png, mg, 1, 1, 0, 0, 0, 0, 0, 
+treasuryK03_3.png, vm, 1, 1, 0, 0, 0, 0, 0, Axis Label
+treasuryK03_3.png, wab, 1, 1, , 0, 0, 0, 0, Axis Label
+treasuryK05_1.png, pi, 0, 0, 0, 0, 0, 0, 0, 
+treasuryK05_1.png, sok, 1, 0, 0, 0, 1, 0, 0, 
+treasuryK05_1.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+treasuryK05_1.png, ms, 0, 0, 0, 0, 0, 0, 0, 
+treasuryK05_1.png, wab, 1, 0, 0, 0, 0, 0, 0, 
+treasuryK05_1.png, lcm, 1, 0, 0, 0, 0, 0, 0, 
+treasuryK06.png, mg, 2, 0, 0, 0, 1, 0, 0, Axis Label
+treasuryK06.png, wab, 1, 1, 0, 0, 0, 0, 0, Axis Label
+treasuryK06.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+treasuryL03_2.png, cmb, 2, 0, 0, 0, 1, 0, 0, 
+treasuryL03_2.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+treasuryL03_2.png, sok, 3, 0, 0, 0, 1, 0, 1, Data, Label
+treasuryL03_2.png, jm, 2, 0, 0, 0, 1, 0, 0, Paragraph
+treasuryL03_2.png, db, 1, 0, 0, 0, 0, 0, 0, Annotation
+treasuryL03_2.png, krm, 1, 0, 0, 0, 0, 0, 0, Annotation
+treasuryL03_2.png, mg, 3, 1, 0, 0, 1, 0, 0, Paragraph
+treasuryL03_2.png, sh, 2, 0, 0, 0, 1, 0, 0, 
+treasuryL03_2.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+treasuryL03_2.png, rb, 2, 1, 0, 0, 1, 0, 0, 
+treasuryL04_1.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+treasuryL04_1.png, db, 0, 0, 0, 0, 0, 0, 0, 
+treasuryL04_1.png, mg, 2, 1, 0, 0, 0, 0, 1, Table
+treasuryL04_1.png, vm, 0, 0, 0, 1, 0, 0, 0, 
+treasuryL10_1.png, ls, 0, 0, 0, 0, 0, 0, 0, 
+treasuryL11_2.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+treasuryL11_2.png, mg, 1, 0, 0, 0, 0, 0, 1, Label
+treasuryL11_2.png, ms, 0, 0, 0, 1, 0, 0, 0, 
+treasuryL13.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+treasuryL16.png, wab, 3, 0, 0, 0, 1, 0, 1, Legend, Data, Axis
+treasuryL16.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+treasuryL16.png, db, 0, 0, 0, 0, 0, 0, 0, 
+treasuryL16.png, mg, 2, 1, 0, 0, 1, 0, 0, Legend
+treasuryL16.png, ad, 2, 0, 0, 0, 1, 0, 0, Legend
+treasuryL16.png, lcm, 2, 0, 0, 0, 1, 0, 0, Legend, Axis Label
+v482_n7386_5_f5.png, cmb, 1, 1, 0, 0, 0, 0, 0, 
+v482_n7386_5_f5.png, wab, 1, 1, 0, 0, 0, 0, 0, 
+v482_n7386_5_f5.png, pi, 2, 1, 0, 0, 0, 0, 0, Annotation
+v482_n7386_5_f5.png, ch, 2, 1, 0, 0, 0, 0, 0, 
+v482_n7386_5_f5.png, db, 2, 1, 0, 0, 0, 0, 0, Annotation
+v482_n7386_5_f5.png, mc, 2, 1, 0, 0, 0, 0, 0, Annotation
+v482_n7386_5_f5.png, mg, 1, 1, 0, 0, 0, 0, 0, 
+v482_n7386_5_f5.png, mrc, 1, 1, 0, 0, 0, 0, 0, 
+v482_n7386_5_f5.png, rs, 2, 1, 0, 0, 0, 0, 0, Annotation
+v482_n7386_5_f5.png, sh, 1, 1, 0, 0, 0, 0, 0, 
+v482_n7386_5_f5.png, abl, 1, 1, 0, 0, 0, 0, 0, Annotation
+v482_n7386_5_f5.png, lcm, 1, 1, 0, 0, 0, 0, 0, 
+v482_n7386_5_f5.png, rb, 1, 1, 0, 0, 0, 0, 0, Annotation
+v482_n7386_7_f2.png, pi, 2, 1, 0, 0, 0, 0, 0, Annotation
+v482_n7386_7_f2.png, sok, 3, 1, 0, 0, 0, 1, 0, 
+v482_n7386_7_f2.png, mc, 1, 1, 0, 0, 0, 0, 0, 
+v482_n7386_7_f2.png, mg, 2, 0, 1, 0, 0, 0, 0, Annotation
+v482_n7386_7_f2.png, rs, 0, 0, 0, 0, 0, 0, 0, 
+v482_n7386_7_f2.png, ad, 0, 0, 1, 0, 0, 0, 0, 
+v482_n7386_7_f2.png, abl, 1, 1, 0, 0, 0, 0, 0, 
+v482_n7386_7_f2.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7387_20_f2.png, cmb, 1, 1, 0, 0, 0, 0, 1, Annotation
+v483_n7387_20_f2.png, pi, 2, 1, 0, 0, 0, 0, 0, 
+v483_n7387_20_f2.png, mg, 3, 1, 0, 0, 0, 0, 0, Annotation
+v483_n7387_20_f2.png, tj, 1, 1, 0, 0, 0, 0, 0, 
+v483_n7387_20_f2.png, wab, 3, 1, 0, 0, 0, 0, 0, Annotation
+v483_n7387_20_f2.png, abl, 2, 1, 0, 0, 0, 0, 1, Annotation
+v483_n7387_20_f2.png, lcm, 1, 1, 0, 0, 0, 0, 0, 
+v483_n7387_20_f2.png, rb, 2, 1, 0, 0, 0, 0, 1, Annotation
+v483_n7387_5_f1.png, cmb, 0, 0, 0, 0, 0, 1, 0, 
+v483_n7387_5_f1.png, sok, 1, 1, 0, 0, 0, 0, 0, 
+v483_n7387_5_f1.png, mc, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7387_5_f1.png, mg, 1, 1, 1, 0, 0, 0, 0, Axis Label
+v483_n7387_5_f1.png, rs, 2, 0, 0, 0, 0, 0, 0, Axis Label
+v483_n7387_7_f4.png, wab, 1, 1, 0, 0, 0, 0, 1, Legend, Label
+v483_n7387_7_f4.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7387_7_f4.png, vm, 0, 0, 1, 1, 0, 0, 0, 
+v483_n7387_7_f4.png, abl, 0, 0, 1, 1, 0, 0, 0, 
+v483_n7387_7_f4.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7388_11_f2.png, sok, 0, 0, 1, 1, 0, 0, 0, 
+v483_n7388_11_f2.png, db, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7388_11_f2.png, krm, 0, 0, 0, 0, 0, 0, 0, Axis Label
+v483_n7388_11_f2.png, mg, 0, 0, 1, 1, 0, 0, 0, 
+v483_n7388_14_f3.png, cmb, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7388_14_f3.png, wab, 2, 1, 0, 0, 0, 0, 1, Data, Legend
+v483_n7388_14_f3.png, pi, 3, 1, 0, 0, 0, 0, 1, Legend, Axis Label
+v483_n7388_14_f3.png, db, 0, 0, 0, 0, 0, 1, 0, 
+v483_n7388_14_f3.png, mc, 1, 0, 0, 0, 0, 1, 0, Legend
+v483_n7388_14_f3.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7388_14_f3.png, abl, 1, 0, 0, 0, 0, 0, 0, Legend
+v483_n7388_14_f3.png, am, 1, 0, 0, 0, 0, 0, 0, Legend
+v483_n7388_14_f3.png, lcm, 1, 0, 0, 0, 0, 0, 0, Legend
+v483_n7388_14_f3.png, rb, 3, 1, 0, 0, 0, 0, 1, Legend
+v483_n7389_24_f3.png, cmb, 1, 1, 0, 0, 0, 0, 1, Data, Label, Text
+v483_n7389_24_f3.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7389_24_f3.png, sok, 1, 1, 0, 0, 0, 0, 0, 
+v483_n7389_24_f3.png, jm, 0, 0, 0, 0, 0, 0, 0, Label
+v483_n7389_24_f3.png, mc, 2, 1, 0, 0, 0, 0, 0, Annotation
+v483_n7389_24_f3.png, sh, 1, 1, 0, 0, 0, 0, 0, 
+v483_n7389_24_f3.png, vm, 0, 0, 1, 1, 0, 0, 0, 
+v483_n7389_24_f3.png, ad, 2, 1, 0, 0, 0, 0, 0, 
+v483_n7389_24_f3.png, lcm, 1, 1, 0, 0, 0, 0, 0, 
+v483_n7389_24_f3.png, rb, 2, 1, 0, 0, 0, 0, 0, Annotation
+v483_n7390_14_f2.png, wab, 0, 1, 0, 0, 0, 0, 1, 
+v483_n7390_14_f2.png, pi, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7390_14_f2.png, db, 0, 0, 0, 0, 0, 1, 0, 
+v483_n7390_14_f2.png, krm, 0, 0, 0, 0, 0, 1, 0, 
+v483_n7390_14_f2.png, mg, 1, 0, 1, 0, 0, 1, 0, Axis Label
+v483_n7390_14_f2.png, mrc, 0, 0, 0, 0, 0, 1, 0, 
+v483_n7390_14_f2.png, sh, 0, 0, 0, 0, 0, 1, 0, 
+v483_n7390_14_f2.png, ad, 0, 1, 0, 0, 0, 1, 0, 
+v483_n7390_14_f2.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7390_14_f2.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7390_21_f4.png, cmb, 1, 0, 1, 0, 0, 0, 0, Annotation
+v483_n7390_21_f4.png, wab, 2, 1, 0, 0, 0, 0, 0, Label, Data
+v483_n7390_21_f4.png, sok, 3, 1, 0, 0, 0, 0, 0, 
+v483_n7390_21_f4.png, mg, 2, 1, 1, 0, 0, 0, 0, Annotation
+v483_n7390_21_f4.png, ms, 1, 1, 0, 0, 0, 0, 0, 
+v483_n7390_21_f4.png, abl, 2, 1, 1, 0, 0, 0, 0, Annotation
+v483_n7390_21_f4.png, am, 1, 0, 0, 0, 0, 0, 0, Annotation
+v483_n7390_21_f4.png, lcm, 1, 1, 0, 0, 0, 0, 0, 
+v483_n7390_21_f4.png, rk, 1, 1, 0, 0, 0, 0, 0, 
+v483_n7390_8_f1.png, ad, 1, 0, 0, 0, 0, 0, 0, Annotation
+v483_n7391_1_f1.png, wab, 1, 0, 0, 0, 0, 0, 0, Legend, Data
+v483_n7391_1_f1.png, jm, 1, 0, 0, 0, 0, 0, 0, Legend, Data
+v483_n7391_1_f1.png, db, 3, 1, 0, 0, 0, 0, 1, Label
+v483_n7391_1_f1.png, mg, 2, 1, 0, 0, 0, 0, 1, 
+v483_n7391_1_f1.png, lcm, 3, 1, 0, 0, 0, 0, 1, 
+v483_n7391_1_f1.png, rk, 1, 1, 0, 0, 0, 0, 1, 
+v483_n7391_3_f5.png, cmb, 3, 1, 0, 0, 0, 0, 0, Legend
+v483_n7391_3_f5.png, pi, 2, 1, 0, 0, 0, 0, 0, 
+v483_n7391_3_f5.png, sok, 2, 1, 0, 0, 0, 0, 0, 
+v483_n7391_3_f5.png, em, 2, 1, 0, 0, 0, 0, 0, 
+v483_n7391_3_f5.png, mc, 1, 1, 0, 0, 0, 0, 0, Legend
+v483_n7391_3_f5.png, ms, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7391_3_f5.png, sh, 2, 1, 1, 0, 0, 0, 0, Legend
+v483_n7391_3_f5.png, vm, 2, 1, 0, 0, 0, 0, 0, 
+v483_n7391_3_f5.png, wab, 2, 1, 0, 0, 0, 0, 0, 
+v483_n7391_3_f5.png, abl, 2, 1, 0, 0, 0, 0, 0, Axis Label
+v483_n7391_3_f5.png, lcm, 2, 1, 0, 0, 0, 0, 0, 
+v483_n7391_3_f5.png, rb, 2, 1, 0, 0, 0, 0, 0, 
+v483_n7391_3_f5.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7391_8_f1.png, cmb, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7391_8_f1.png, sok, 1, 1, 0, 0, 0, 0, 0, 
+v483_n7391_8_f1.png, db, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7391_8_f1.png, mg, 1, 1, 0, 0, 0, 0, 0, 
+v483_n7391_8_f1.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7391_8_f1.png, abl, 0, 0, 1, 1, 0, 0, 0, 
+v483_n7391_8_f1.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v483_n7391_8_f1.png, pj, 0, 0, 0, 0, 0, 0, 0, 
+v484_n7392_14_f3.png, cmb, 3, 1, 0, 0, 0, 0, 1, Axis Label
+v484_n7392_14_f3.png, wab, 2, 1, 0, 0, 0, 0, 0, Legend, Pictrogram, Data
+v484_n7392_14_f3.png, cy, 2, 0, 0, 0, 0, 0, 1, Axis Label
+v484_n7392_14_f3.png, krm, 2, 1, 0, 0, 0, 0, 1, Axis Label
+v484_n7392_14_f3.png, mg, 1, 0, 0, 0, 0, 0, 1, Pictogram, Label
+v484_n7392_14_f3.png, mrc, 0, 0, 0, 0, 0, 0, 1, Pictogram
+v484_n7392_14_f3.png, ra, 2, 1, 0, 0, 0, 0, 1, Axis Label
+v484_n7392_14_f3.png, sh, 2, 1, 0, 0, 0, 0, 1, Axis Label
+v484_n7392_14_f3.png, abl, 3, 1, 0, 0, 0, 0, 1, Axis Label, Label
+v484_n7392_14_f3.png, lcm, 1, 0, 0, 0, 0, 0, 1, Pictogram
+v484_n7392_14_f3.png, md, 3, 1, 0, 0, 0, 0, 1, Axis Label, Label, Pictogram
+v484_n7392_14_f3.png, pk, 1, 0, 0, 0, 0, 0, 1, Pictogram
+v484_n7392_14_f3.png, rb, 3, 1, 0, 0, 0, 0, 1, Axis Label
+v484_n7392_14_f3.png, rk, 1, 0, 1, 0, 0, 0, 0, Axis Label
+v484_n7393_20_f1.png, cmb, 0, 0, 0, 0, 0, 1, 0, 
+v484_n7393_20_f1.png, sk, 1, 1, 0, 0, 0, 0, 0, 
+v484_n7393_20_f1.png, pi, 1, 1, 0, 0, 0, 0, 0, 
+v484_n7393_20_f1.png, em, 2, 1, 0, 0, 0, 0, 0, Annotation
+v484_n7393_20_f1.png, mc, 1, 1, 0, 0, 0, 0, 0, 
+v484_n7393_20_f1.png, mg, 1, 1, 0, 0, 0, 0, 0, 
+v484_n7393_20_f1.png, ad, 2, 1, 0, 0, 0, 0, 0, Annotation
+v484_n7393_20_f1.png, abl, 2, 1, 0, 0, 0, 0, 0, Annotation
+v484_n7393_20_f1.png, lcm, 1, 1, 0, 0, 0, 0, 0, 
+v484_n7393_20_f1.png, md, 1, 0, 0, 0, 0, 0, 0, 
+v484_n7393_20_f1.png, rb, 3, 1, 0, 0, 0, 0, 0, 
+v484_n7393_20_f1.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+v484_n7393_6_f4.png, cmb, 0, 0, 0, 0, 0, 1, 0, 
+v484_n7393_6_f4.png, pi, 2, 1, 0, 0, 0, 0, 0, 
+v484_n7393_6_f4.png, sok, 1, 1, 0, 0, 0, 0, 0, Axis Label
+v484_n7393_6_f4.png, em, 0, 0, 0, 0, 0, 1, 0, 
+v484_n7393_6_f4.png, mg, 0, 0, 0, 0, 0, 1, 0, Axis Label
+v484_n7393_6_f4.png, wab, 0, 0, 1, 1, 0, 0, 0, 
+v484_n7393_6_f4.png, abl, 0, 0, 0, 0, 0, 1, 0, 
+v484_n7393_6_f4.png, rb, 0, 0, 0, 0, 0, 0, 0, Axis Label
+v484_n7393_6_f4.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+v484_n7394_10_f4.png, cmb, 0, 0, 0, 0, 0, 1, 0, 
+v484_n7394_10_f4.png, ls, 1, 1, 0, 0, 0, 1, 0, Label, Axis Label
+v484_n7394_10_f4.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+v484_n7394_10_f4.png, pi, 2, 0, 0, 0, 0, 0, 0, Axis Label
+v484_n7394_10_f4.png, sok, 0, 0, 1, 1, 0, 0, 0, 
+v484_n7394_10_f4.png, mg, 1, 1, 0, 0, 0, 0, 0, Axis Label, Annotation
+v484_n7394_10_f4.png, ad, 2, 1, 0, 0, 0, 0, 0, Axis Label
+v484_n7394_5_f2.png, cmb, 0, 0, 0, 0, 0, 0, 0, 
+v484_n7394_5_f2.png, em, 1, 1, 0, 0, 0, 0, 0, Annotation
+v484_n7394_5_f2.png, mg, 0, 0, 0, 0, 0, 0, 0, Annotation
+v484_n7394_5_f2.png, rs, 0, 0, 0, 0, 0, 0, 0, Axis Label
+v484_n7394_5_f2.png, wab, 1, 1, 0, 0, 0, 0, 0, Annotation
+v484_n7394_5_f2.png, abl, 0, 0, 0, 0, 0, 0, 0, Legend
+v484_n7394_5_f2.png, rb, 1, 1, 0, 0, 0, 0, 0, Annotation
+v484_n7394_5_f5.png, ls, 0, 0, 0, 0, 0, 0, 0, Legend
+v484_n7394_5_f5.png, mg, 0, 0, 0, 0, 0, 0, 0, Label, Data
+v484_n7394_5_f5.png, wab, 1, 1, 0, 0, 0, 0, 0, 
+v484_n7394_8_f2.png, sok, 1, 0, 1, 0, 0, 0, 0, Axis Label, Legend
+v484_n7394_8_f2.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+v484_n7394_8_f2.png, vm, 2, 1, 1, 0, 0, 0, 0, Axis Label, Legend
+v484_n7394_8_f2.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+v484_n7394_8_f2.png, rb, 0, 0, 1, 1, 0, 0, 0, 
+v484_n7394_8_f4.png, pi, 0, 0, 0, 0, 0, 0, 0, Legend
+v484_n7394_8_f4.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+v484_n7394_8_f4.png, mg, 3, 1, 0, 0, 0, 0, 0, Axis Label, Legend, Annotation
+v484_n7394_8_f4.png, lcm, 0, 0, 0, 0, 0, 0, 0, Legend
+v484_n7395_11_f1.png, cmb, 0, 0, 0, 0, 0, 1, 0, Data
+v484_n7395_11_f1.png, wab, 0, 0, 0, 0, 0, 0, 1, Legend
+v484_n7395_11_f1.png, mc, 2, 1, 0, 0, 0, 0, 1, Label
+v484_n7395_11_f1.png, vm, 2, 1, 1, 1, 0, 0, 0, Legend
+v484_n7395_11_f1.png, abl, 2, 1, 1, 0, 0, 0, 1, Legend, Label
+v484_n7395_11_f1.png, lcm, 1, 1, 0, 0, 0, 0, 0, Legend
+v485_n7397_14_f3.png, sok, 3, 0, 0, 0, 0, 0, 0, Table
+v485_n7397_14_f3.png, db, 0, 0, 0, 0, 0, 0, 0, 
+v485_n7397_14_f3.png, mg, 0, 0, 1, 1, 0, 0, 0, 
+v485_n7397_14_f3.png, abl, 2, 0, 0, 0, 0, 0, 0, Table
+v485_n7397_14_f3.png, rb, 2, 0, 0, 0, 0, 0, 0, Table
+v485_n7397_15_f1.png, cmb, 0, 0, 0, 0, 0, 1, 0, 
+v485_n7397_15_f1.png, wab, 1, 0, 0, 0, 0, 0, 0, 
+v485_n7397_15_f1.png, pi, 0, 0, 0, 0, 0, 0, 0, Annotation
+v485_n7397_15_f1.png, sok, 1, 0, 0, 0, 0, 0, 0, 
+v485_n7397_15_f1.png, ch, 1, 1, 0, 0, 0, 0, 1, Legend
+v485_n7397_15_f1.png, mc, 0, 0, 0, 0, 0, 1, 0, 
+v485_n7397_15_f1.png, mg, 0, 0, 0, 0, 0, 1, 0, 
+v485_n7397_15_f1.png, abl, 1, 0, 0, 0, 0, 0, 0, Legend
+v485_n7397_15_f1.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v485_n7397_15_f1.png, rb, 1, 0, 0, 0, 0, 0, 0, 
+v485_n7397_15_f1.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+v485_n7397_6_f4.png, pi, 1, 1, 0, 0, 0, 0, 0, 
+v485_n7397_6_f4.png, rb, 2, 1, 0, 0, 0, 0, 0, Legend, Axis Label
+v485_n7399_13_f4.png, pi, 0, 0, 0, 0, 0, 0, 0, 
+v485_n7399_13_f4.png, sok, 2, 0, 0, 0, 0, 0, 0, Legend, Axis Label
+v485_n7399_13_f4.png, mc, 0, 0, 0, 0, 0, 0, 0, 
+v485_n7399_13_f4.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+v485_n7399_13_f4.png, wab, 2, 0, 0, 0, 0, 0, 0, Axis Label
+v485_n7399_13_f4.png, lcm, 1, 0, 0, 0, 0, 0, 0, 
+v485_n7399_9_f2.png, mg, 0, 0, 0, 0, 0, 0, 0, Axis Label
+v485_n7399_9_f2.png, wab, 1, 1, 1, 0, 0, 0, 0, Axis Label
+v485_n7399_9_f2.png, lg, 0, 0, 0, 0, 0, 0, 0, 
+v485_n7400_14_f1.png, pi, 2, 1, 0, 0, 0, 0, 1, Annotation
+v485_n7400_14_f1.png, cy, 0, 0, 0, 0, 0, 0, 1, Legend
+v485_n7400_14_f1.png, mg, 2, 0, 0, 0, 0, 0, 1, Legend
+v485_n7400_14_f1.png, vm, 1, 0, 0, 0, 0, 0, 1, Annotation
+v485_n7400_14_f1.png, abl, 1, 1, 0, 0, 0, 0, 0, 
+v485_n7400_14_f1.png, lcm, 2, 0, 0, 0, 0, 0, 1, Annotation
+v485_n7400_14_f1.png, rb, 3, 0, 0, 0, 0, 0, 1, Annotation
+v485_n7400_14_f2.png, sok, 1, 1, 0, 0, 0, 0, 0, 
+v485_n7400_14_f2.png, mg, 1, 1, 0, 0, 0, 0, 0, Annotation
+v485_n7400_14_f2.png, wab, 1, 1, 0, 0, 0, 0, 0, 
+v485_n7400_14_f2.png, lcm, 1, 1, 0, 0, 0, 0, 0, 
+v485_n7400_15_f2.png, cmb, 1, 0, 0, 0, 0, 1, 0, Pictogram
+v485_n7400_15_f2.png, ls, 0, 0, 0, 0, 0, 0, 0, Pictogram
+v485_n7400_15_f2.png, wab, 2, 0, 0, 0, 0, 0, 0, Data, Axis Label
+v485_n7400_15_f2.png, pi, 2, 0, 0, 0, 0, 0, 0, Data, Axis Label
+v485_n7400_15_f2.png, sok, 2, 1, 0, 0, 0, 0, 1, Pictogram
+v485_n7400_15_f2.png, jm, 0, 0, 0, 0, 0, 0, 0, 
+v485_n7400_15_f2.png, em, 0, 0, 0, 0, 0, 0, 1, Pictogram
+v485_n7400_15_f2.png, mg, 1, 0, 0, 0, 0, 0, 1, Pictogram, Axis Label
+v485_n7400_15_f2.png, ms, 0, 0, 0, 0, 0, 0, 1, Pictogram
+v485_n7400_15_f2.png, vm, 1, 0, 0, 0, 0, 0, 0, Pictogram
+v485_n7400_15_f2.png, abl, 0, 0, 1, 1, 0, 0, 1, 
+v485_n7400_15_f2.png, lcm, 2, 1, 0, 0, 0, 0, 1, Pictogram, Axis Label
+v485_n7400_15_f2.png, md, 2, 0, 0, 0, 0, 0, 0, Pictogram, Axis Label
+v485_n7400_15_f2.png, rb, 2, 1, 0, 0, 0, 0, 0, Pictogram, Axis Label
+v486_n7401_8_f1.png, pi, 1, 1, 0, 0, 0, 0, 0, Axis Label
+v486_n7401_8_f1.png, em, 1, 0, 0, 0, 0, 0, 0, Label
+v486_n7401_8_f1.png, lg, 0, 0, 0, 0, 0, 0, 0, 
+v486_n7401_8_f1.png, lcm, 2, 0, 0, 0, 0, 0, 0, Axis Label, Label
+v486_n7401_8_f1.png, rb, 1, 1, 0, 0, 0, 0, 0, 
+v486_n7401_8_f2.png, cmb, 2, 0, 0, 0, 0, 0, 1, Label, Legend, Data
+v486_n7401_8_f2.png, sok, 1, 0, 0, 0, 0, 0, 0, Legend
+v486_n7401_8_f2.png, mc, 2, 1, 0, 0, 0, 0, 1, Legend
+v486_n7401_8_f2.png, mg, 2, 1, 0, 0, 0, 0, 1, Legend
+v486_n7401_8_f2.png, wab, 2, 1, 0, 0, 0, 0, 1, Legend
+v486_n7401_8_f2.png, abl, 1, 0, 0, 0, 0, 0, 0, Legend
+v486_n7401_8_f2.png, lcm, 1, 1, 0, 0, 0, 0, 1, 
+v486_n7403_19_f2.png, cmb, 1, 1, 0, 0, 0, 0, 0, Legend
+v486_n7403_19_f2.png, mg, 2, 0, 0, 0, 0, 0, 0, Legend
+v486_n7403_19_f2.png, ra, 0, 0, 1, 1, 0, 0, 0, 
+v486_n7403_19_f2.png, wab, 1, 1, 0, 0, 0, 0, 0, 
+v486_n7403_19_f2.png, abl, 0, 0, 1, 1, 0, 0, 0, 
+v486_n7403_19_f2.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v486_n7403_19_f2.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+v486_n7403_1_f8.png, cmb, 0, 0, 0, 0, 0, 1, 0, Annotation
+v486_n7403_1_f8.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+v486_n7403_1_f8.png, sok, 2, 1, 0, 0, 0, 0, 0, Legend
+v486_n7403_1_f8.png, ch, 0, 0, 0, 0, 0, 1, 0, 
+v486_n7403_1_f8.png, db, 0, 0, 0, 0, 0, 0, 0, 
+v486_n7403_1_f8.png, em, 1, 0, 0, 0, 0, 1, 0, Legend, Annotation
+v486_n7403_1_f8.png, krm, 0, 0, 0, 0, 0, 0, 0, Legend
+v486_n7403_1_f8.png, mg, 0, 0, 1, 0, 0, 0, 0, Legend
+v486_n7404_1_f2.png, cmb, 3, 1, 0, 0, 0, 0, 1, Pictogram, Label, Text, Data, Paragraph
+v486_n7404_1_f2.png, wab, 3, 1, 0, 0, 0, 0, 1, Pictogram, Label, Text, Data
+v486_n7404_1_f2.png, pi, 3, 1, 0, 0, 0, 0, 0, Pictogram, Text
+v486_n7404_1_f2.png, sok, 3, 1, 0, 0, 0, 0, 1, Pictogram, Label, Text, Data, Paragraph
+v486_n7404_1_f2.png, mc, 3, 1, 0, 0, 0, 0, 0, Pictogram, Text
+v486_n7404_1_f2.png, mrc, 1, 0, 0, 0, 0, 0, 0, Pictogram
+v486_n7404_1_f2.png, ms, 2, 1, 0, 0, 0, 0, 0, Pictogram, Text
+v486_n7404_1_f2.png, vm, 1, 0, 0, 0, 0, 0, 0, Pictogram
+v486_n7404_1_f2.png, ad, 1, 0, 0, 0, 0, 0, 0, Pictogram
+v486_n7404_1_f2.png, abl, 0, 0, 1, 1, 0, 0, 0, 
+v486_n7404_1_f2.png, lcm, 1, 0, 0, 0, 0, 0, 0, Pictogram
+v486_n7404_1_f2.png, md, 3, 1, 0, 0, 0, 0, 0, Pictogram, Text
+v486_n7404_1_f2.png, pk, 0, 0, 0, 0, 0, 0, 0, Pictogram
+v486_n7404_1_f2.png, rb, 2, 0, 1, 0, 0, 0, 0, Text
+v486_n7404_1_f2.png, rk, 2, 0, 0, 0, 0, 0, 0, Pictogram, Text
+v486_n7404_20_f6.png, cmb, 0, 0, 0, 0, 0, 1, 0, 
+v486_n7404_20_f6.png, wab, 1, 0, 0, 0, 0, 0, 1, Data (Diagram)
+v486_n7404_20_f6.png, pi, 2, 1, 0, 0, 0, 0, 1, 
+v486_n7404_20_f6.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+v486_n7404_20_f6.png, vm, 0, 0, 1, 0, 0, 0, 0, 
+v486_n7404_20_f6.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v486_n7404_6_f1.png, cmb, 0, 0, 0, 0, 0, 1, 0, 
+v486_n7404_6_f1.png, sok, 1, 0, 0, 0, 0, 0, 0, 
+v486_n7404_6_f1.png, mg, 2, 0, 0, 0, 0, 0, 0, Axis Label, Legend
+v486_n7404_6_f1.png, mrc, 1, 0, 0, 0, 0, 0, 0, 
+v486_n7404_6_f1.png, abl, 2, 0, 0, 0, 0, 0, 0, Legend
+v486_n7404_6_f1.png, lcm, 1, 0, 0, 0, 0, 0, 0, 
+v486_n7404_6_f1.png, rb, 3, 1, 0, 0, 0, 0, 0, 
+v486_n7404_6_f1.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+v486_n7404_9_f2.png, sok, 0, 0, 0, 0, 0, 1, 0, 
+v486_n7404_9_f2.png, mg, 2, 1, 0, 0, 0, 0, 0, Axis Label
+v486_n7404_9_f2.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v487_n7405_21_f2.png, sok, 1, 0, 0, 0, 0, 0, 1, 
+v487_n7405_21_f2.png, mg, 1, 0, 0, 0, 0, 0, 1, 
+v487_n7405_21_f2.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v487_n7405_22_f1.png, cmb, 1, 1, 0, 0, 0, 0, 0, 
+v487_n7405_22_f1.png, sok, 2, 1, 0, 0, 0, 0, 0, 
+v487_n7405_22_f1.png, mg, 3, 1, 0, 0, 0, 0, 0, Annotation
+v487_n7405_22_f1.png, ra, 1, 1, 0, 0, 0, 0, 0, 
+v487_n7405_22_f1.png, wab, 1, 1, 0, 0, 0, 0, 0, Pictogram
+v487_n7405_22_f1.png, abl, 0, 0, 1, 1, 0, 0, 0, 
+v487_n7405_22_f1.png, rb, 2, 1, 0, 0, 0, 0, 0, Annotation
+v487_n7405_6_f4.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+v487_n7405_6_f4.png, pi, 1, 1, 0, 0, 0, 0, 0, 
+v487_n7405_6_f4.png, lcm, 1, 0, 0, 0, 0, 0, 0, Annotation
+v487_n7405_7_f1.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+v487_n7405_7_f1.png, pi, 1, 1, 0, 0, 0, 0, 0, 
+v487_n7405_7_f1.png, sok, 1, 1, 0, 0, 0, 0, 0, 
+v487_n7405_7_f1.png, mg, 1, 0, 0, 0, 0, 0, 0, 
+v487_n7405_7_f1.png, lcm, 1, 1, 0, 0, 0, 0, 0, Legend
+v487_n7406_13_f2.png, cmb, 2, 1, 0, 0, 0, 0, 0, Pictogram, Legend, Label
+v487_n7406_13_f2.png, ls, 0, 0, 0, 0, 0, 0, 0, Pictogram
+v487_n7406_13_f2.png, jm, 0, 0, 0, 0, 0, 0, 0, Pictogram
+v487_n7406_13_f2.png, mc, 1, 1, 0, 0, 0, 0, 0, Pictogram
+v487_n7406_13_f2.png, mg, 1, 0, 0, 0, 0, 0, 0, Pictogram
+v487_n7406_13_f2.png, mrc, 0, 0, 0, 0, 0, 0, 0, 
+v487_n7406_13_f2.png, ad, 2, 1, 0, 0, 0, 0, 0, 
+v487_n7406_13_f2.png, abl, 2, 1, 0, 0, 0, 0, 0, Pictogram
+v487_n7406_13_f2.png, rb, 2, 1, 0, 0, 0, 0, 0, Pictogram
+v487_n7406_13_f5.png, ls, 1, 1, 0, 0, 0, 0, 0, Pictogram, Label
+v487_n7406_13_f5.png, pi, 2, 1, 0, 0, 0, 0, 1, Pictogram, Label
+v487_n7406_13_f5.png, sok, 2, 1, 0, 0, 0, 0, 1, Pictogram, Label, Axis Label
+v487_n7406_13_f5.png, db, 1, 1, 0, 0, 0, 0, 0, Pictogram
+v487_n7406_13_f5.png, em, 0, 0, 1, 0, 0, 0, 0, 
+v487_n7406_13_f5.png, mg, 1, 0, 0, 0, 0, 0, 1, Pictogram, Legend
+v487_n7406_13_f5.png, ad, 1, 0, 0, 0, 0, 0, 0, 
+v487_n7406_13_f5.png, am, 0, 0, 1, 0, 0, 0, 0, Annotation
+v487_n7406_13_f5.png, lcm, 1, 0, 1, 0, 0, 0, 0, Pictogram, Legend
+v487_n7406_13_f5.png, pk, 1, 0, 1, 0, 0, 0, 0, Legend
+v487_n7406_13_f5.png, rb, 2, 1, 0, 0, 0, 0, 1, Pictogram, Legend
+v487_n7407_15_f3.png, wab, 3, 1, 0, 0, 0, 0, 0, Header Row, Axis, Pictogram, Data
+v487_n7407_15_f3.png, sok, 0, 0, 0, 0, 0, 1, 0, 
+v487_n7407_15_f3.png, mg, 1, 1, 0, 0, 0, 0, 0, Table Header Row
+v487_n7407_15_f3.png, abl, 3, 1, 0, 0, 0, 0, 0, Table
+v487_n7407_15_f3.png, lcm, 2, 1, 1, 0, 0, 0, 0, Table
+v487_n7407_15_f3.png, md, 0, 0, 0, 0, 0, 1, 0, Pictogram
+v487_n7407_15_f3.png, rb, 3, 1, 0, 0, 0, 0, 0, Table
+v487_n7407_22_f2.png, cmb, 3, 1, 0, 0, 0, 1, 0, Data, Data (Diagram)
+v487_n7407_22_f2.png, wab, 2, 1, 1, 0, 0, 0, 0, 
+v487_n7407_22_f2.png, sok, 3, 1, 0, 0, 0, 0, 0, Data, Data (Diagram)
+v487_n7407_22_f2.png, db, 3, 1, 0, 0, 0, 0, 1, 
+v487_n7407_22_f2.png, em, 3, 1, 0, 0, 0, 0, 1, 
+v487_n7407_22_f2.png, mc, 3, 1, 0, 0, 0, 0, 1, Annotation
+v487_n7407_22_f2.png, mg, 2, 1, 1, 0, 0, 0, 0, 
+v487_n7407_22_f2.png, vm, 2, 1, 0, 0, 0, 0, 0, Annotation
+v487_n7407_22_f2.png, ad, 2, 1, 1, 0, 0, 0, 0, 
+v487_n7407_22_f2.png, abl, 3, 1, 1, 0, 0, 0, 0, 
+v487_n7407_22_f2.png, lcm, 2, 1, 0, 0, 0, 0, 0, 
+v487_n7407_22_f2.png, pk, 1, 1, 0, 0, 0, 0, 0, 
+v487_n7407_22_f2.png, rb, 2, 1, 0, 0, 0, 0, 0, 
+v487_n7407_22_f2.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+v487_n7407_22_f4.png, wab, 3, 1, 0, 0, 0, 0, 0, Data (Diagram)
+v487_n7407_22_f4.png, pi, 3, 1, 0, 0, 0, 0, 1, 
+v487_n7407_22_f4.png, sok, 1, 1, 0, 0, 0, 0, 0, 
+v487_n7407_22_f4.png, db, 3, 1, 0, 0, 0, 0, 1, 
+v487_n7407_22_f4.png, mg, 2, 1, 0, 0, 0, 0, 0, 
+v487_n7407_22_f4.png, sh, 1, 1, 0, 0, 0, 0, 0, 
+v487_n7407_22_f4.png, abl, 3, 1, 0, 0, 0, 0, 1, 
+v487_n7407_22_f4.png, am, 1, 1, 0, 0, 0, 0, 0, 
+v487_n7407_22_f4.png, lcm, 1, 1, 1, 0, 0, 0, 0, 
+v487_n7407_22_f4.png, pk, 1, 1, 1, 0, 0, 0, 0, 
+v487_n7407_22_f4.png, rb, 3, 1, 1, 0, 0, 0, 0, 
+v487_n7407_22_f4.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+v487_n7408_15_f3.png, cmb, 0, 0, 0, 0, 0, 1, 0, 
+v487_n7408_15_f3.png, wab, 0, 0, 0, 0, 0, 0, 0, Legend, Data
+v487_n7408_15_f3.png, mg, 0, 0, 0, 0, 0, 1, 0, 
+v487_n7408_15_f3.png, ad, 1, 1, 0, 0, 0, 0, 0, 
+v488_n7410_13_f4.png, cmb, 3, 0, 0, 0, 0, 0, 1, Data, Pictogram
+v488_n7410_13_f4.png, sk, 1, 0, 0, 0, 0, 0, 0, Pictogram
+v488_n7410_13_f4.png, em, 2, 0, 0, 0, 0, 0, 0, 
+v488_n7410_13_f4.png, ra, 1, 0, 0, 0, 0, 0, 0, 
+v488_n7410_13_f4.png, wab, 2, 0, 0, 0, 0, 0, 0, 
+v488_n7410_13_f4.png, abl, 2, 0, 0, 0, 0, 0, 0, 
+v488_n7410_13_f4.png, lcm, 2, 0, 0, 0, 0, 0, 0, 
+v488_n7410_13_f4.png, pj, 2, 0, 0, 0, 0, 0, 0, 
+v488_n7410_13_f4.png, pk, 1, 0, 0, 0, 0, 0, 0, 
+v488_n7410_13_f4.png, rb, 2, 0, 0, 0, 0, 0, 0, 
+v488_n7410_13_f4.png, rk, 1, 0, 0, 0, 0, 0, 0, 
+v488_n7410_15_f3.png, pi, 3, 1, 1, 0, 0, 0, 0, Label
+v488_n7410_15_f3.png, mg, 3, 1, 0, 0, 0, 0, 0, Label
+v488_n7410_15_f3.png, wab, 2, 0, 0, 0, 0, 1, 0, 
+v488_n7410_15_f3.png, abl, 2, 0, 1, 0, 0, 0, 0, Axis Label
+v488_n7411_6_f4.png, wab, 0, 0, 0, 0, 0, 0, 1, Legend
+v488_n7411_6_f4.png, db, 0, 0, 0, 0, 0, 0, 0, 
+v488_n7411_6_f4.png, mc, 0, 0, 0, 0, 0, 0, 0, Label
+v488_n7411_6_f4.png, mg, 0, 0, 0, 0, 0, 1, 0, Legend, Data
+v488_n7411_6_f4.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v488_n7411_6_f4.png, rb, 2, 0, 0, 0, 0, 0, 0, Legend, Axis Label
+v488_n7411_9_f1.png, cmb, 1, 0, 0, 0, 0, 0, 0, 
+v488_n7411_9_f1.png, sok, 1, 0, 0, 0, 0, 1, 1, Data
+v488_n7411_9_f1.png, jm, 1, 0, 0, 0, 0, 0, 0, Data
+v488_n7411_9_f1.png, db, 1, 0, 0, 0, 0, 0, 0, 
+v488_n7411_9_f1.png, mc, 1, 0, 0, 0, 0, 1, 0, 
+v488_n7411_9_f1.png, rs, 0, 0, 0, 0, 0, 0, 0, 
+v488_n7411_9_f1.png, wab, 2, 0, 0, 0, 0, 0, 0, Axis Label
+v488_n7411_9_f1.png, lcm, 2, 0, 0, 0, 0, 0, 0, Axis Label
+v488_n7411_9_f1.png, rb, 2, 0, 0, 0, 0, 0, 1, Axis Label
+v488_n7411_9_f1.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+v488_n7412_1_f3.png, ls, 2, 0, 0, 0, 0, 0, 1, Axis Label
+v488_n7412_1_f3.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+v488_n7412_1_f3.png, abl, 2, 0, 0, 0, 0, 0, 0, Axis Label
+v488_n7412_1_f3.png, lcm, 2, 0, 0, 0, 0, 0, 0, Axis Label
+v488_n7412_1_f4.png, ls, 2, 0, 0, 0, 0, 0, 0, Axis Label
+v488_n7412_1_f4.png, mg, 1, 0, 1, 0, 0, 0, 0, Axis Label, Axis
+v488_n7412_1_f4.png, wab, 2, 0, 0, 0, 0, 0, 0, Axis Label
+v488_n7412_1_f4.png, abl, 2, 0, 0, 0, 0, 0, 0, Axis Label
+v488_n7412_1_f4.png, rb, 3, 0, 1, 0, 0, 0, 0, Axis Label, Axis
+v488_n7412_4_f1.png, pi, 2, 0, 0, 0, 0, 0, 1, Label, Data
+v488_n7412_4_f1.png, sok, 2, 1, 0, 0, 0, 0, 1, 
+v488_n7412_4_f1.png, cy, 1, 1, 0, 0, 0, 0, 1, 
+v488_n7412_4_f1.png, mg, 1, 0, 0, 0, 0, 0, 1, Label
+v488_n7412_4_f1.png, vm, 1, 0, 0, 0, 0, 0, 0, 
+v488_n7412_4_f1.png, wab, 1, 0, 0, 0, 0, 0, 1, Label
+v488_n7412_4_f1.png, abl, 1, 0, 1, 0, 0, 0, 1, Label
+v488_n7412_4_f1.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v488_n7412_4_f1.png, rb, 2, 0, 0, 0, 0, 0, 0, Label
+v488_n7412_7_f1.png, cmb, 3, 1, 0, 0, 0, 1, 1, Data, Text
+v488_n7412_7_f1.png, wab, 1, 0, 0, 0, 0, 0, 0, 
+v488_n7412_7_f1.png, db, 2, 1, 0, 0, 0, 0, 0, 
+v488_n7412_7_f1.png, em, 1, 1, 0, 0, 0, 0, 0, 
+v488_n7412_7_f1.png, ra, 1, 1, 0, 0, 0, 0, 0, 
+v488_n7412_7_f1.png, abl, 1, 1, 0, 0, 0, 0, 0, 
+v488_n7412_7_f1.png, lcm, 1, 1, 0, 0, 0, 0, 0, 
+v488_n7412_7_f1.png, md, 1, 1, 0, 0, 0, 0, 0, 
+v488_n7412_7_f1.png, rb, 1, 1, 0, 0, 0, 0, 0, 
+v488_n7412_8_f1.png, wab, 1, 0, 1, 0, 0, 0, 0, Axis Label, Text
+v488_n7412_8_f1.png, pi, 2, 1, 1, 0, 0, 0, 1, 
+v488_n7412_8_f1.png, mc, 1, 0, 1, 0, 0, 0, 1, 
+v488_n7412_8_f1.png, ms, 2, 1, 1, 0, 0, 0, 1, 
+v488_n7412_8_f1.png, rs, 2, 1, 1, 0, 0, 0, 1, 
+v488_n7412_8_f1.png, lcm, 1, 0, 0, 0, 0, 0, 1, 
+v488_n7412_9_f1.png, cmb, 2, 0, 0, 0, 0, 0, 1, Legend, Label
+v488_n7412_9_f1.png, sok, 2, 0, 1, 0, 0, 0, 0, Legend, Label
+v488_n7412_9_f1.png, mg, 2, 0, 0, 0, 0, 0, 0, Legend, Label
+v488_n7412_9_f1.png, sh, 2, 0, 0, 0, 0, 0, 0, Legend
+v488_n7412_9_f1.png, abl, 1, 0, 0, 0, 0, 0, 0, Label
+v488_n7412_9_f1.png, am, 1, 0, 0, 0, 0, 0, 0, Label
+v488_n7412_9_f1.png, lcm, 1, 0, 0, 0, 0, 0, 0, Label
+v488_n7413_3_f2.png, cmb, 0, 0, 0, 0, 0, 1, 0, 
+v488_n7413_3_f2.png, pi, 2, 0, 0, 0, 0, 0, 0, Data, Axis, Axis Label
+v488_n7413_3_f2.png, sok, 1, 0, 0, 0, 0, 0, 1, 
+v488_n7413_3_f2.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+v488_n7413_3_f2.png, sh, 0, 0, 0, 0, 0, 0, 0, Label
+v488_n7413_3_f2.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+v488_n7413_3_f2.png, lcm, 1, 1, 0, 0, 0, 0, 0, Legend, Axis
+v489_n7414_20_f1.png, cmb, 2, 0, 0, 0, 0, 1, 1, Data, Label, Pictogram
+v489_n7414_20_f1.png, wab, 0, 0, 1, 0, 0, 0, 0, Pictogram
+v489_n7414_20_f1.png, sok, 3, 1, 0, 0, 0, 0, 0, Label
+v489_n7414_20_f1.png, db, 2, 0, 1, 0, 0, 0, 0, 
+v489_n7414_20_f1.png, ag, 1, 0, 0, 0, 0, 0, 0, Label
+v489_n7414_20_f1.png, am, 1, 0, 0, 0, 0, 0, 0, Label
+v489_n7414_20_f1.png, lcm, 1, 0, 0, 0, 0, 0, 0, 
+v489_n7414_20_f1.png, rb, 2, 0, 0, 0, 0, 0, 0, Label
+v489_n7414_25_f2.png, abl, 2, 0, 0, 0, 0, 0, 0, Axis Label
+v489_n7414_25_f2.png, rb, 2, 0, 0, 0, 0, 0, 0, Axis Label
+v489_n7415_12_f5.png, pi, 2, 1, 0, 0, 0, 0, 0, Axis Label
+v489_n7415_12_f5.png, sok, 2, 1, 0, 0, 0, 0, 0, Axis Label
+v489_n7415_12_f5.png, mg, 2, 1, 1, 0, 0, 0, 0, Axis Label, Legend
+v489_n7415_12_f5.png, abl, 0, 0, 0, 0, 0, 0, 0, Legend
+v489_n7415_7_f2.png, cmb, 2, 1, 0, 0, 0, 0, 1, Label, Diagram
+v489_n7415_7_f2.png, pi, 2, 1, 0, 0, 0, 0, 0, Label
+v489_n7415_7_f2.png, sok, 2, 1, 0, 0, 0, 0, 0, 
+v489_n7415_7_f2.png, em, 1, 1, 0, 0, 0, 0, 0, 
+v489_n7415_7_f2.png, mg, 2, 1, 0, 0, 0, 0, 0, Label
+v489_n7415_7_f2.png, ms, 2, 1, 0, 0, 0, 0, 0, Label
+v489_n7415_7_f2.png, rs, 2, 0, 0, 0, 0, 0, 0, Label
+v489_n7415_7_f2.png, wab, 2, 1, 0, 0, 0, 0, 0, 
+v489_n7415_7_f2.png, ag, 2, 1, 0, 0, 0, 0, 0, 
+v489_n7415_7_f2.png, lcm, 1, 0, 0, 0, 0, 0, 0, Label
+v489_n7415_7_f2.png, rb, 1, 0, 0, 0, 0, 0, 0, 
+v489_n7416_15_f2.png, wab, 3, 0, 0, 0, 0, 0, 1, Data, Legend
+v489_n7416_15_f2.png, pi, 1, 0, 0, 0, 0, 0, 1, "LegendData"
+v489_n7416_15_f2.png, sok, 2, 0, 0, 0, 0, 0, 0, Legend
+v489_n7416_15_f2.png, jm, 2, 0, 0, 0, 0, 0, 0, Legend
+v489_n7416_15_f2.png, db, 3, 0, 0, 0, 0, 0, 1, "LegendData"
+v489_n7416_15_f2.png, abl, 1, 0, 0, 0, 0, 0, 0, Legend
+v489_n7416_15_f2.png, lcm, 1, 0, 0, 0, 0, 0, 0, Legend
+v489_n7416_15_f2.png, rk, 2, 0, 0, 0, 0, 0, 1, "LegendData"
+v489_n7416_3_f4.png, cmb, 1, 0, 0, 0, 0, 0, 1, Data
+v489_n7416_3_f4.png, pi, 2, 0, 0, 0, 0, 0, 0, Axis, Label
+v489_n7416_3_f4.png, sok, 2, 0, 0, 0, 0, 0, 0, Axis, Label
+v489_n7416_3_f4.png, cy, 1, 0, 0, 0, 0, 0, 0, Axis
+v489_n7416_3_f4.png, db, 2, 0, 0, 0, 0, 0, 0, Axis, Label
+v489_n7416_3_f4.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+v489_n7416_3_f4.png, vm, 1, 0, 0, 0, 0, 0, 0, Axis
+v489_n7416_3_f4.png, wab, 2, 0, 0, 0, 0, 0, 0, Axis, Label
+v489_n7416_3_f4.png, lcm, 2, 0, 0, 0, 0, 0, 0, Axis, Label
+v489_n7416_3_f4.png, rb, 2, 0, 0, 0, 0, 0, 0, Axis, Label
+v489_n7416_4_f6.png, cmb, 2, 0, 1, 0, 0, 0, 1, Labels
+v489_n7416_4_f6.png, wab, 0, 0, 1, 0, 0, 0, 0, Label
+v489_n7416_4_f6.png, pi, 2, 0, 0, 0, 0, 0, 1, Labels
+v489_n7416_4_f6.png, db, 1, 1, 0, 0, 0, 0, 0, Labels
+v489_n7416_4_f6.png, krm, 0, 0, 1, 0, 0, 0, 0, Labels
+v489_n7416_4_f6.png, mc, 1, 0, 1, 0, 0, 0, 0, Labels
+v489_n7416_4_f6.png, mg, 1, 0, 0, 0, 0, 0, 0, Labels
+v489_n7416_4_f6.png, mrc, 0, 0, 0, 0, 0, 0, 0, Labels
+v489_n7416_4_f6.png, ag, 0, 0, 0, 0, 0, 0, 0, 
+v489_n7416_4_f6.png, lcm, 1, 1, 0, 0, 0, 0, 0, 
+v489_n7416_4_f6.png, pk, 1, 0, 0, 0, 0, 0, 0, Labels
+v489_n7416_4_f6.png, rb, 0, 0, 0, 0, 0, 0, 0, Labels
+v489_n7416_4_f6.png, rk, 0, 0, 0, 0, 0, 0, 0, Labels
+v490_n7418_12_f1.png, pi, 2, 1, 0, 0, 0, 0, 0, Axis
+v490_n7418_12_f1.png, sok, 1, 1, 1, 0, 0, 0, 0, 
+v490_n7418_14_f2.png, cmb, 2, 1, 0, 0, 0, 0, 0, Label
+v490_n7418_14_f2.png, sh, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7418_14_f2.png, abl, 2, 1, 0, 0, 0, 0, 0, Label
+v490_n7418_14_f2.png, lcm, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7418_14_f2.png, rb, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7418_1_f2.png, wab, 2, 0, 0, 0, 0, 0, 0, Label, Data
+v490_n7418_1_f2.png, dn, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7418_1_f2.png, mc, 2, 1, 0, 0, 0, 0, 0, 
+v490_n7418_1_f2.png, mg, 2, 1, 0, 0, 0, 0, 1, 
+v490_n7418_1_f2.png, sh, 2, 1, 0, 0, 0, 0, 0, 
+v490_n7418_1_f2.png, ad, 2, 1, 0, 0, 0, 0, 0, 
+v490_n7418_1_f2.png, lcm, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7418_1_f2.png, rb, 2, 1, 0, 0, 0, 0, 0, 
+v490_n7418_6_f3.png, pi, 0, 0, 0, 0, 0, 0, 0, Label
+v490_n7418_6_f3.png, jm, 1, 1, 0, 0, 0, 0, 0, Label
+v490_n7418_6_f3.png, db, 3, 1, 1, 0, 0, 0, 1, Label, Axis
+v490_n7418_6_f3.png, mg, 2, 1, 0, 0, 0, 0, 1, Label, Axis
+v490_n7418_6_f3.png, wab, 1, 0, 0, 0, 0, 0, 0, Label
+v490_n7418_6_f3.png, abl, 2, 1, 1, 0, 0, 0, 0, Label, Axis
+v490_n7418_6_f3.png, md, 0, 0, 0, 0, 0, 0, 0, Label
+v490_n7418_6_f3.png, rb, 2, 0, 0, 0, 0, 0, 1, Label, Axis
+v490_n7419_11_f1.png, cmb, 1, 0, 0, 0, 0, 0, 0, Legend, Data
+v490_n7419_11_f1.png, pi, 2, 1, 1, 0, 0, 0, 0, Label
+v490_n7419_11_f1.png, sok, 1, 0, 0, 0, 0, 1, 0, 
+v490_n7419_11_f1.png, ch, 1, 1, 1, 0, 0, 0, 0, Label
+v490_n7419_11_f1.png, db, 2, 1, 0, 0, 0, 0, 0, Label
+v490_n7419_11_f1.png, mg, 2, 1, 0, 0, 0, 0, 0, Label
+v490_n7419_11_f1.png, lcm, 1, 0, 0, 0, 0, 0, 0, 
+v490_n7419_11_f1.png, rb, 2, 1, 0, 0, 0, 0, 0, 
+v490_n7419_2_f1.png, pi, 1, 1, 0, 1, 0, 0, 0, 
+v490_n7419_2_f1.png, db, 3, 1, 1, 0, 0, 0, 1, Label
+v490_n7419_2_f1.png, em, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7419_2_f1.png, wab, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7419_2_f1.png, md, 0, 0, 0, 0, 0, 0, 0, Label
+v490_n7419_2_f2.png, cmb, 2, 1, 0, 0, 0, 0, 0, Label, Data
+v490_n7419_2_f2.png, pi, 1, 1, 0, 0, 0, 0, 0, Data
+v490_n7419_2_f2.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+v490_n7419_2_f2.png, jm, 1, 1, 0, 0, 0, 0, 0, Data
+v490_n7419_2_f2.png, mg, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7419_2_f2.png, wab, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7419_2_f2.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v490_n7419_2_f2.png, rb, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7419_7_f4.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+v490_n7419_7_f4.png, pi, 0, 0, 0, 0, 0, 1, 0, 
+v490_n7419_7_f4.png, sok, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7419_7_f4.png, mg, 1, 0, 0, 0, 0, 0, 0, Legend, Axis
+v490_n7419_7_f4.png, sh, 0, 0, 1, 0, 0, 0, 0, 
+v490_n7419_7_f4.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+v490_n7420_13_f4.png, pi, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7420_13_f4.png, sok, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7420_23_f5.png, cmb, 0, 0, 1, 0, 0, 0, 0, 
+v490_n7420_23_f5.png, sok, 3, 1, 0, 0, 0, 0, 1, Label, Data
+v490_n7420_23_f5.png, cy, 1, 0, 0, 0, 0, 0, 0, Label
+v490_n7420_23_f5.png, db, 2, 1, 0, 0, 0, 0, 0, 
+v490_n7420_23_f5.png, mg, 2, 0, 1, 0, 0, 0, 1, 
+v490_n7420_23_f5.png, sh, 2, 1, 0, 0, 0, 0, 0, 
+v490_n7420_23_f5.png, tj, 1, 1, 0, 0, 0, 0, 0, Label
+v490_n7420_23_f5.png, vm, 1, 1, 0, 0, 0, 0, 0, Label
+v490_n7420_23_f5.png, wab, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7420_23_f5.png, abl, 1, 1, 0, 0, 0, 0, 0, Label
+v490_n7420_23_f5.png, lcm, 1, 1, 0, 0, 0, 0, 0, 
+v490_n7420_23_f5.png, rb, 1, 1, 0, 0, 0, 0, 0, 
+vis109.png, pi, 0, 0, , 1, 0, 0, 0, 
+vis109.png, sok, 2, 0, 0, 0, 1, 1, 0, Pictogram, Data, Label
+vis109.png, jm, 1, 0, 1, 0, 0, 0, 0, 
+vis109.png, mc, 2, 0, , 0, 0, 0, 1, Text, Label
+vis109.png, mg, 1, 0, , 0, 1, 1, 0, 
+vis109.png, mrc, 1, 0, , 0, 0, 1, 1, 
+vis109.png, rs, 1, 0, , 0, 0, 0, 0, Paragraph
+vis109.png, abl, 1, 0, , 0, 0, 0, 0, Text, Label, Paragraph
+vis109.png, lcm, 2, 0, , 0, 0, 0, 0, 
+vis230.png, cmb, 0, 0, 0, 0, 0, 1, 0, Axis, Label
+vis230.png, wab, 3, 0, 0, 0, 0, 0, 0, Axis, Label, Data, Pictogram
+vis230.png, pi, 3, 0, , 0, 0, 0, 1, Axis, Label
+vis230.png, sok, 2, 0, 0, 0, 0, 0, 1, Axis, Label, Data, Pictogram
+vis230.png, ch, 3, 0, , 0, 0, 0, 1, Axis, Label
+vis230.png, cy, 2, 0, , 0, 0, 0, 0, Axis, Label
+vis230.png, krm, 1, 0, , 0, 0, 0, 0, Label
+vis230.png, abl, 2, 0, , 0, 0, 0, 0, Axis, Label
+vis230.png, lcm, 1, 0, , 0, 0, 0, 0, 
+vis250.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+vis250.png, pi, 3, 0, , 0, 1, 0, 1, Legend
+vis250.png, sok, 3, 0, , 0, 1, 0, 0, 
+vis250.png, cy, 2, 0, , 0, 1, 0, 0, 
+vis250.png, db, 3, 1, , 0, 1, 1, 1, 
+vis250.png, em, 3, 1, , 0, 1, 0, 1, Axis
+vis250.png, mg, 2, 1, , 0, 1, 0, 0, Axis
+vis250.png, ra, 2, 0, , 0, 1, 0, 0, 
+vis250.png, rs, 2, 0, , 0, 1, 0, 0, 
+vis250.png, sh, 2, 0, , 0, 1, 0, 0, 
+vis250.png, wab, 3, 1, , 0, 1, 0, 1, Lengend, Axis
+vis250.png, abl, 3, 1, , 0, 1, 0, 1, Lengend, Axis
+vis250.png, lcm, 2, 0, , 0, 1, 0, 0, 
+vis250.png, md, 3, 1, , 0, 1, 1, 1, Axis
+vis250.png, rk, 2, 0, , 0, 1, 0, 0, 
+vis278.png, cmb, 3, 0, 0, 0, 0, 1, 0, Legend, Data, Paragraph
+vis278.png, ls, 2, 0, 0, 0, 0, 0, 0, Data, Paragraph
+vis278.png, wab, 2, 0, 0, 0, 0, 0, 1, Data, Paragraph, Legend
+vis278.png, pi, 3, 0, 0, 0, 0, 0, 0, Paragraph, Legend
+vis278.png, jm, 2, 0, 0, 0, 0, 0, 0, 
+vis278.png, db, 3, 1, 0, 0, 0, 0, 1, Paragraph, Legend
+vis278.png, mc, 3, 1, 0, 0, 0, 0, 1, Paragraph, Legend
+vis278.png, mg, 2, 1, 0, 0, 0, 0, 1, Paragraph, Legend
+vis278.png, rs, 2, 0, 0, 0, 0, 0, 0, Paragraph
+vis278.png, tj, 2, 0, 0, 0, 0, 0, 0, Paragraph
+vis278.png, vm, 2, 0, 1, 0, 0, 0, 0, Data
+vis278.png, abl, 3, 0, 0, 0, 0, 0, 1, Paragraph, Legend
+vis278.png, lcm, 2, 0, 0, 0, 0, 0, 0, Paragraph
+vis278.png, pk, 2, 0, 0, 0, 0, 0, 0, Paragraph
+vis278.png, rb, 3, 0, 1, 0, 0, 0, 1, Paragraph, Legend
+vis286.png, cmb, 2, 0, 0, 0, 0, 0, 1, Legend
+vis286.png, ls, 2, 0, 0, 0, 0, 0, 0, Lengend
+vis286.png, pi, 3, 0, 0, 0, 0, 0, 1, Lengend
+vis286.png, sok, 1, 0, 1, 0, 0, 1, 0, 
+vis286.png, mc, 3, 0, 0, 0, 0, 0, 1, Lengend
+vis286.png, mg, 2, 1, 1, 0, 0, 0, 0, Lengend
+vis286.png, ms, 2, 0, 1, 0, 0, 0, 0, Lengend
+vis286.png, wab, 2, 0, 1, 0, 0, 0, 0, Lengend
+vis286.png, ag, 2, 0, 0, 0, 1, 0, 0, Lengend
+vis286.png, am, 3, 0, 0, 0, 1, 0, 1, Lengend
+vis286.png, lcm, 2, 0, 0, 0, 0, 0, 0, Lengend
+vis286.png, pk, 1, 0, 0, 0, 0, 0, 0, 
+vis286.png, rk, 1, 0, 0, 0, 0, 0, 0, Lengend
+vis288.png, cmb, 1, 0, 0, 0, 0, 0, 0, Paragraph
+vis288.png, wab, 2, 0, 0, 0, 0, 0, 0, Data, Label, Paragraph
+vis288.png, pi, 3, 0, 0, 0, 1, 0, 0, Paragraph
+vis288.png, sok, 1, 1, 0, 0, 0, 0, 0, Paragraph, Annotation
+vis288.png, em, 2, 0, 0, 0, 0, 0, 0, 
+vis288.png, mrc, 2, 0, 1, 0, 1, 0, 0, Label
+vis288.png, vm, 0, 0, 0, 1, 0, 0, 0, 
+vis288.png, abl, 2, 0, 0, 0, 1, 0, 0, 
+vis328.png, cmb, 3, 0, 0, 0, 1, 0, 1, Label, Paragraph
+vis328.png, wab, 2, 0, 0, 0, 1, 0, 0, Label, Paragraph
+vis328.png, pi, 2, 0, 0, 0, 0, 0, 0, 
+vis328.png, db, 3, 0, 1, 0, 0, 0, 1, Label, Paragraph
+vis328.png, em, 3, 0, 0, 0, 0, 0, 1, Label, Paragraph
+vis328.png, mc, 1, 0, 1, 0, 0, 0, 1, 
+vis328.png, mg, 2, 0, 1, 0, 1, 0, 0, 
+vis328.png, ad, 2, 0, 0, 0, 0, 0, 0, 
+vis328.png, abl, 3, 0, 0, 0, 1, 0, 1, Label, Paragraph
+vis328.png, am, 2, 0, 0, 0, 1, 0, 1, Label, Paragraph
+vis328.png, rb, 2, 0, 0, 0, 0, 0, 1, Label, Paragraph
+vis328.png, rk, 2, 0, 0, 0, 1, 0, 1, Label, Paragraph
+vis409.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+vis409.png, ch, 3, 0, 1, 0, 1, 0, 0, Text, Label
+vis409.png, mg, 3, 0, 0, 0, 1, 0, 1, Text, Label, Paragraph
+vis409.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+vis409.png, rb, 3, 0, 1, 0, 1, 0, 0, Text, Label, Paragraph
+vis416.png, cmb, 3, 0, 0, 0, 1, 0, 0, Paragraph
+vis416.png, ls, 2, 0, 0, 0, 1, 0, 1, 
+vis416.png, sok, 2, 0, 0, 0, 1, 0, 0, 
+vis416.png, jm, 1, 0, 1, 0, 0, 0, 0, 
+vis416.png, em, 3, 1, 0, 0, 1, 0, 0, Paragraph
+vis416.png, krm, 2, 0, 0, 0, 0, 0, 0, Paragraph
+vis416.png, mg, 3, 1, 0, 0, 0, 0, 0, Paragraph
+vis416.png, ms, 2, 0, 0, 0, 1, 0, 0, 
+vis416.png, ra, 1, 0, 0, 0, 0, 0, 0, 
+vis416.png, tj, 2, 0, 1, 0, 0, 0, 0, Paragraph
+vis416.png, wab, 3, 0, 1, 0, 1, 0, 0, Paragraph
+vis416.png, ag, 2, 0, 0, 0, 0, 0, 0, Paragraph
+vis416.png, pj, 1, 0, 0, 0, 1, 0, 0, Paragraph
+vis416.png, rb, 3, 1, 0, 0, 1, 0, 0, Paragraph
+vis416.png, rk, 3, 1, 0, 0, 1, 0, 0, Paragraph
+vis417.png, cmb, 3, 0, 0, 0, 0, 0, 1, Paragraph, Data, Pictogram
+vis417.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+vis417.png, pi, 2, 0, 1, 0, 0, 0, 0, 
+vis417.png, sok, 3, 0, 0, 0, 0, 0, 0, Paragraph
+vis417.png, dn, 2, 0, 0, 0, 0, 0, 0, 
+vis417.png, krm, 2, 0, 0, 0, 1, 0, 0, 
+vis417.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+vis417.png, wab, 2, 0, 0, 0, 0, 0, 0, 
+vis417.png, abl, 2, 0, 0, 0, 1, 0, 0, 
+vis417.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+vis417.png, rb, 3, 0, 0, 0, 0, 0, 0, Paragraph
+vis417.png, rk, 3, 0, 0, 0, 0, 0, 0, Paragraph
+vis428.png, cmb, 3, 0, 0, 0, 1, 0, 0, Text, Pictogram
+vis428.png, sok, 3, 0, 0, 0, 1, 0, 1, Text
+vis428.png, db, 2, 0, 1, 0, 1, 0, 1, Text
+vis428.png, dn, 3, 0, 0, 0, 1, 0, 0, Paragraph
+vis428.png, em, 3, 0, 0, 0, 1, 0, 0, Text
+vis428.png, sh, 3, 0, 0, 0, 1, 0, 0, Text
+vis428.png, vm, 2, 0, 0, 0, 1, 0, 1, Text
+vis428.png, ad, 3, 0, 0, 0, 1, 0, 0, Text
+vis428.png, abl, 3, 0, 0, 0, 1, 0, 0, Text
+vis428.png, am, 1, 0, 0, 0, 1, 0, 1, Text
+vis428.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+vis499.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+vis499.png, pi, 3, 0, 0, 0, 1, 0, 0, Paragraph
+vis499.png, dn, 3, 0, 0, 0, 1, 0, 0, 
+vis499.png, em, 3, 0, 0, 0, 1, 0, 1, Paragraph
+vis499.png, mg, 3, 0, 0, 0, 1, 0, 1, Paragraph
+vis499.png, vm, 2, 0, 0, 0, 2, 0, 0, Source
+vis499.png, wab, 3, 0, 0, 0, 1, 0, 1, Paragraph
+vis499.png, ag, 1, 0, 1, 0, 1, 0, 0, Source, Paragraph
+vis499.png, am, 1, 0, 0, 0, 1, 0, 0, 
+vis499.png, lcm, 3, 0, 0, 0, 1, 0, 1, Paragraph
+vis499.png, pk, 3, 0, 0, 0, 1, 0, 1, Paragraph
+vis499.png, rb, 3, 0, 0, 0, 1, 0, 1, Paragraph
+vis499.png, rk, 1, 0, 0, 0, 1, 0, 0, 
+vis512.png, ls, 2, 0, 1, 0, 0, 0, 0, Labels, Table
+vis512.png, sok, 2, 1, 0, 0, 1, 0, 0, Table
+vis512.png, db, 3, 0, 1, 0, 1, 0, 0, Labels, Table
+vis512.png, dn, 1, 0, 1, 0, 0, 0, 0, Pictogram
+vis512.png, em, 2, 0, 1, 0, 1, 0, 0, Table
+vis512.png, mc, 2, 0, 1, 0, 1, 0, 0, Labels, Pictogram, Table
+vis512.png, mg, 3, 1, 0, 0, 1, 0, 0, Labels, Table
+vis512.png, tj, 2, 0, 1, 0, 0, 0, 0, Labels, Table
+vis512.png, wab, 2, 1, 0, 0, 1, 0, 0, Table
+vis512.png, ag, 1, 0, 0, 0, 0, 0, 0, Label
+vis512.png, lcm, 2, 1, 0, 0, 1, 0, 0, Table
+vis512.png, rb, 1, 0, 1, 0, 0, 0, 0, Label
+vis564.png, cmb, 3, 0, 0, 0, 0, 0, 0, Label, Annotation, Data
+vis564.png, wab, 3, 0, 0, 0, 0, 0, 0, Label, Annotation, Data
+vis564.png, db, 0, 0, 0, 0, 0, 0, 0, 
+vis564.png, dn, 2, 0, 1, 0, 1, 0, 0, Label
+vis564.png, mg, 3, 0, 1, 0, 0, 0, 0, Annotation
+vis564.png, mrc, 1, 0, 0, 0, 0, 0, 0, Annotation
+vis564.png, abl, 2, 0, 0, 0, 0, 0, 0, Annotation, Label
+vis564.png, am, 3, 0, 0, 0, 0, 0, 0, Annotation, Label
+vis564.png, rb, 3, 0, 1, 0, 0, 0, 0, Annotation, Label
+vis564.png, rk, 1, 0, 0, 0, 0, 0, 0, Label
+vis586.png, pi, 3, 1, 0, 0, 1, 0, 0, Axis, Line, Axis Label
+vis586.png, sok, 0, 0, 0, 1, 0, 0, 0, 
+vis586.png, db, 2, 0, 0, 0, 0, 0, 1, Legend, Line
+vis586.png, dn, 2, 0, 1, 0, 1, 0, 0, Legend, Axis Label
+vis586.png, mg, 2, 0, 0, 0, 1, 0, 0, Legend, Axis Label
+vis586.png, ms, 2, 0, 0, 0, 1, 0, 0, Legend, Axis Label
+vis586.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+vis586.png, abl, 2, 0, 0, 0, 1, 0, 0, Legend, Axis Label, Label
+vis586.png, lcm, 2, 0, 1, 0, 1, 0, 0, Legend
+vis586.png, rb, 3, 0, 0, 0, 1, 0, 0, Axis, Axis (Time), Axis Label, Line
+vis618.png, cmb, 3, 0, 0, 0, 1, 0, 1, Source, Legend
+vis618.png, pi, 2, 0, 0, 0, 1, 0, 1, Legend, Label
+vis618.png, cy, 2, 0, 0, 0, 1, 0, 0, 
+vis618.png, em, 3, 0, 0, 0, 1, 0, 1, 
+vis618.png, mg, 1, 0, 0, 0, 1, 0, 0, Legend
+vis618.png, wab, 2, 0, 0, 0, 1, 0, 1, Legend
+vis618.png, am, 1, 0, 1, 0, 0, 0, 1, Legend, Label
+vis618.png, lcm, 2, 1, 0, 0, 1, 0, 0, 
+vis618.png, rb, 3, 0, 0, 0, 1, 0, 1, Legend, Label
+vis618.png, rk, 2, 0, 1, 0, 1, 0, 0, 
+vis625.png, cmb, 2, 0, 1, 0, 1, 0, 0, Title, Label
+vis625.png, ls, 1, 0, 0, 0, 1, 0, 0, Pictogram, Paragraph
+vis625.png, wab, 2, 0, 0, 0, 1, 0, 0, Pictogram, Paragraph
+vis625.png, sok, 2, 0, 0, 0, 1, 0, 0, Title, Paragraph
+vis625.png, db, 3, 0, 0, 0, 1, 0, 0, Title, Paragraph, Label
+vis625.png, em, 3, 0, 1, 0, 1, 0, 0, Title, Label
+vis625.png, sh, 1, 0, 0, 0, 1, 0, 0, 
+vis625.png, abl, 2, 0, 0, 0, 1, 0, 0, Title, Paragraph
+vis625.png, pk, 2, 0, 1, 0, 1, 0, 0, Title, Paragraph
+vis625.png, rb, 3, 0, 1, 0, 1, 0, 0, Title, Paragraph, Label
+vis625.png, rk, 2, 0, 0, 0, 1, 1, 0, Title, Paragraph, Pictogram
+vis630.png, pi, 1, 0, 1, 0, 1, 0, 0, Label, Paragraph
+vis630.png, db, 1, 0, 0, 0, 0, 0, 0, Paragraph
+vis630.png, krm, 1, 0, 0, 0, 0, 0, 0, Label, Paragraph
+vis630.png, mg, 3, 0, 0, 0, 0, 0, 0, Label, Paragraph
+vis630.png, mrc, 1, 0, 1, 0, 0, 0, 1, Label, Paragraph
+vis630.png, ms, 1, 0, 0, 0, 0, 0, 0, Label
+vis630.png, rs, 2, 0, 1, 0, 0, 0, 0, Label
+vis630.png, sh, 2, 0, 1, 0, 0, 0, 0, Label, Paragraph
+vis630.png, wab, 1, 0, 1, 0, 0, 0, 0, Paragraph
+vis630.png, abl, 2, 0, 0, 0, 0, 0, 0, Label, Paragraph
+vis630.png, rb, 3, 0, 0, 0, 0, 0, 0, Label, Paragraph
+vis652.png, cmb, 2, 0, 1, 0, 1, 0, 0, Text
+vis652.png, pi, 3, 0, 0, 0, 1, 0, 1, Text
+vis652.png, sok, 3, 0, 0, 0, 1, 0, 1, Text, Label
+vis652.png, mc, 3, 0, 0, 0, 1, 0, 1, Text, Label, Pictogram
+vis652.png, mg, 3, 0, 0, 0, 1, 0, 0, Text, Label
+vis652.png, ad, 3, 0, 0, 0, 1, 0, 0, Text, Label
+vis652.png, abl, 3, 0, 1, 0, 1, 0, 1, Text, Label
+vis652.png, lcm, 2, 0, 0, 0, 0, 0, 0, Label
+vis67.png, cmb, 3, 0, 0, 0, 0, 0, 1, Label, Data, Pictogram
+vis67.png, wab, 2, 0, 0, 0, 0, 0, 1, Label, Data, Pictogram
+vis67.png, sok, 3, 1, 0, 0, 0, 1, 0, Label
+vis67.png, db, 3, 1, 0, 0, 0, 0, 0, Label
+vis67.png, dn, 2, 0, 0, 0, 0, 0, 0, Label
+vis67.png, em, 2, 0, 0, 0, 0, 0, 0, 
+vis67.png, mg, 3, 1, 0, 0, 0, 1, 0, Label
+vis67.png, ms, 2, 0, 0, 0, 0, 0, 0, 
+vis67.png, tj, 2, 0, 0, 0, 1, 0, 0, Label
+vis67.png, abl, 2, 0, 0, 0, 1, 0, 0, Label
+vis67.png, lcm, 2, 1, 0, 0, 1, 0, 0, 
+vis67.png, md, 2, 1, 0, 0, 1, 1, 0, Label
+vis67.png, pk, 1, 0, 0, 0, 0, 0, 0, Label
+vis67.png, rb, 2, 1, 0, 0, 0, 0, 0, Label
+vis67.png, rk, 1, 0, 0, 0, 0, 0, 0, Label
+vis678.png, cmb, 1, 0, 0, 0, 0, 1, 0, Pictogram
+vis678.png, ls, 2, 0, 0, 0, 1, 0, 0, Pictogram
+vis678.png, wab, 1, 0, 1, 0, 0, 0, 0, Pictogram
+vis678.png, sok, 2, 1, 0, 0, 1, 0, 0, 
+vis678.png, db, 0, 0, 0, 0, 0, 0, 0, 
+vis678.png, mc, 2, 1, 0, 0, 1, 1, 0, Pictogram
+vis678.png, sh, 2, 1, 0, 0, 1, 0, 0, Pictogram
+vis678.png, tj, 2, 1, 0, 0, 1, 0, 0, Paragraph
+vis678.png, ad, 1, 0, 0, 0, 0, 0, 0, Pictogram
+vis678.png, abl, 2, 0, 1, 0, 0, 0, 0, Pictogram
+vis678.png, am, 2, 0, 0, 0, 1, 0, 0, Pictogram
+vis678.png, lcm, 1, 0, 0, 0, 0, 0, 0, Pictogram
+vis678.png, rb, 2, 0, 0, 0, 0, 0, 0, Pictogram, Paragraph
+vis697.png, cmb, 2, 0, 0, 0, 1, 0, 0, Data
+vis697.png, sok, 2, 0, 0, 0, 1, 0, 0, Paragraph
+vis697.png, db, 3, 0, 0, 0, 1, 0, 0, Paragraph, Annotation
+vis697.png, krm, 2, 0, 0, 0, 1, 0, 0, Annotation
+vis697.png, rs, 3, 0, 0, 0, 1, 0, 0, Paragraph, Annotation
+vis697.png, vm, 2, 0, 0, 0, 1, 0, 0, Paragraph, Annotation
+vis697.png, ad, 2, 0, 0, 0, 1, 0, 0, Paragraph
+vis697.png, abl, 3, 0, 0, 0, 1, 0, 0, Paragraph, Annotation
+vis697.png, am, 3, 0, 0, 0, 1, 0, 0, Paragraph, Annotation
+vis697.png, lcm, 2, 0, 1, 0, 1, 0, 0, Annotation
+vis697.png, pk, 3, 0, 0, 0, 1, 0, 0, Paragraph, Annotation
+vis697.png, rb, 2, 0, 0, 0, 1, 0, 0, Paragraph
+vis697.png, rk, 3, 0, 1, 0, 1, 0, 0, Paragraph, Annotation
+vis708.png, cmb, 3, 0, 0, 0, 1, 0, 0, Label
+vis708.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+vis708.png, sok, 2, 0, 1, 0, 1, 0, 0, 
+vis708.png, db, 3, 0, 0, 0, 1, 0, 0, Label, Pictogram
+vis708.png, em, 2, 0, 0, 0, 1, 0, 0, 
+vis708.png, rs, 2, 0, 1, 0, 1, 0, 0, Label
+vis708.png, sh, 1, 0, 0, 0, 1, 0, 0, 
+vis708.png, wab, 2, 0, 1, 0, 1, 0, 0, Label
+vis708.png, abl, 2, 0, 1, 0, 1, 0, 0, Label
+vis708.png, lcm, 1, 0, 0, 0, 1, 0, 0, 
+vis708.png, rb, 1, 0, 1, 0, 1, 0, 0, 
+vis708.png, rk, 1, 0, 0, 0, 1, 0, 0, Pictogram
+vis729.png, cmb, 1, 0, 0, 0, 1, 0, 0, Text, Label
+vis729.png, pi, 2, 0, 0, 0, 1, 0, 0, Label, Data
+vis729.png, sok, 3, 0, 0, 0, 1, 0, 0, Label, Data
+vis729.png, mg, 3, 0, 0, 0, 1, 0, 0, Label
+vis729.png, tj, 2, 0, 0, 0, 1, 0, 0, 
+vis729.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+vis729.png, abl, 3, 0, 0, 0, 1, 0, 0, Label
+vis729.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+vis729.png, md, 1, 0, 0, 0, 1, 0, 0, 
+vis729.png, rb, 2, 0, 0, 0, 1, 0, 0, Label
+vis729.png, rk, 1, 0, 0, 0, 1, 0, 0, 
+vis768.png, cmb, 1, 0, 0, 0, 1, 0, 0, 
+vis768.png, pi, 2, 0, 0, 0, 0, 0, 0, Axis Label
+vis768.png, sok, 2, 0, 0, 0, 0, 0, 0, Axis Label, Legend
+vis768.png, db, 1, 0, 0, 0, 0, 0, 0, Label
+vis768.png, em, 2, 1, 0, 0, 1, 0, 0, Label, Axis Label, Data
+vis768.png, mg, 2, 1, 0, 0, 1, 0, 0, Label, Axis Label, Data
+vis768.png, sh, 1, 0, 0, 0, 0, 0, 0, Paragraph
+vis768.png, wab, 1, 1, 0, 0, 1, 0, 0, 
+vis768.png, abl, 2, 0, 0, 0, 1, 0, 0, Axis Label
+vis768.png, rb, 3, 1, 0, 0, 1, 0, 0, Legend, Data, Axis Label
+vis831.png, cmb, 2, 1, 0, 0, 0, 1, 1, Pictograms, Paragraph
+vis831.png, wab, 2, 0, 0, 0, 0, 0, 0, Paragraph
+vis831.png, sok, 2, 1, 0, 0, 0, 1, 1, Pictograms, Paragraph
+vis831.png, mc, 2, 1, 1, 0, 0, 1, 1, Pictograms, Paragraph
+vis831.png, mg, 2, 1, 0, 0, 0, 1, 1, Pictograms, Paragraph
+vis831.png, sh, 1, 0, 1, 0, 0, 0, 0, Pictograms
+vis831.png, ad, 2, 1, 0, 0, 0, 1, 1, Pictograms, Paragraph
+vis831.png, abl, 2, 1, 0, 0, 0, 0, 0, Pictograms, Paragraph
+vis831.png, lcm, 2, 1, 0, 0, 0, 1, 1, Pictograms, Paragraph
+vis831.png, rb, 2, 1, 0, 0, 0, 1, 1, Pictograms, Paragraph
+vis831.png, rk, 2, 1, 0, 0, 0, 0, 0, Pictograms, Paragraph
+vis850.png, cmb, 1, 0, 0, 0, 0, 1, 0, Labels
+vis850.png, ls, 2, 0, 1, 0, 1, 0, 0, Paragraph
+vis850.png, wab, 3, 0, 0, 0, 1, 0, 0, Paragraph, Pictogram, Label
+vis850.png, pi, 3, 1, 0, 0, 1, 0, 0, Paragraph, Label
+vis850.png, sok, 2, 1, 0, 0, 1, 1, 0, 
+vis850.png, jm, 3, 0, 1, 0, 1, 0, 0, Annotation, Paragraph
+vis850.png, ch, 3, 0, 0, 0, 1, 0, 0, Paragraph, Label
+vis850.png, cy, 1, 0, 0, 0, 1, 0, 0, Paragraph, Source
+vis850.png, em, 3, 0, 0, 0, 1, 0, 0, Paragraph, Label
+vis850.png, mc, 2, 0, 0, 0, 1, 0, 0, Paragraph, Label
+vis850.png, mrc, 3, 0, 1, 0, 1, 0, 0, Paragraph, Label
+vis850.png, tj, 2, 1, 1, 0, 0, 0, 0, Label
+vis850.png, vm, 3, 0, 1, 0, 1, 0, 0, Annotation
+vis850.png, ag, 3, 0, 1, 0, 1, 0, 0, Paragraph, Pictogram, Label
+vis850.png, lcm, 2, 0, 1, 0, 1, 0, 0, Paragraph
+vis850.png, md, 0, 0, 0, 0, 0, 0, 0, Pictogram
+vis850.png, pk, 2, 0, 0, 0, 1, 0, 0, Annotation, Paragraph
+vis850.png, rk, 3, 0, 0, 0, 1, 0, 0, Annotation, Paragraph
+vis859.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+vis859.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+vis859.png, sok, 2, 0, 0, 0, 0, 0, 0, Data
+vis859.png, em, 2, 0, 0, 0, 1, 0, 0, Data
+vis859.png, mg, 2, 0, 0, 0, 0, 0, 0, Data
+vis859.png, ra, 2, 0, 0, 0, 1, 0, 0, 
+vis859.png, abl, 2, 0, 0, 0, 1, 0, 0, Paragraph
+vis859.png, lcm, 2, 0, 0, 0, 1, 0, 0, Data
+vis859.png, md, 0, 0, 0, 1, 0, 0, 0, 
+vis859.png, pk, 2, 0, 0, 0, 1, 0, 0, 
+vis859.png, rk, 2, 0, 0, 0, 1, 0, 0, 
+vis87.png, cmb, 2, 0, 0, 0, 1, 0, 0, Legend
+vis87.png, pi, 2, 0, 0, 0, 1, 0, 0, Legend
+vis87.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+vis87.png, mc, 2, 0, 0, 0, 1, 0, 0, Legend
+vis87.png, mg, 3, 0, 0, 0, 1, 0, 0, Legend
+vis87.png, ms, 2, 0, 0, 0, 1, 0, 0, Legend, Label
+vis87.png, sh, 1, 0, 0, 0, 0, 0, 0, 
+vis87.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+vis87.png, abl, 2, 0, 0, 0, 1, 0, 0, 
+vis87.png, rb, 2, 0, 0, 0, 1, 0, 0, Legend
+visMost108.png, cmb, 2, 0, 1, 0, 1, 1, 1, Legend, Data
+visMost108.png, pi, 3, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost108.png, sok, 3, 0, 1, 0, 1, 0, 0, Legend, Data, Pictogram
+visMost108.png, krm, 1, 0, 0, 0, 1, 0, 0, Legend, Pictogram
+visMost108.png, mg, 3, 1, 0, 0, 1, 0, 0, Legend, Pictogram
+visMost108.png, ad, 3, 0, 0, 0, 1, 0, 0, Legend, Pictogram
+visMost108.png, lcm, 3, 0, 0, 0, 1, 0, 0, Legend, Pictogram
+visMost108.png, rb, 3, 0, 0, 0, 1, 0, 0, Legend, Pictogram
+visMost108.png, rk, 3, 0, 0, 0, 1, 0, 0, Legend, Pictogram
+visMost132.png, ls, 1, 1, 0, 0, 0, 0, 0, 
+visMost132.png, wab, 3, 0, 0, 0, 1, 0, 1, Data, Legend, Label
+visMost132.png, sok, 2, 1, 1, 0, 0, 0, 0, Legend
+visMost132.png, db, 0, 0, 0, 0, 0, 0, 0, 
+visMost132.png, mg, 3, 0, 0, 0, 1, 0, 0, Legend, Labels, Data
+visMost132.png, mrc, 2, 0, 1, 0, 0, 0, 0, Legend, Labels, Data
+visMost132.png, am, 1, 0, 0, 0, 0, 0, 0, Pictogram
+visMost132.png, lcm, 1, 0, 0, 0, 1, 0, 0, 
+visMost143.png, sok, 1, 0, 0, 0, 0, 0, 0, 
+visMost143.png, db, 0, 0, 0, 0, 0, 0, 0, 
+visMost143.png, em, 2, 0, 0, 0, 0, 0, 0, Axis Label
+visMost143.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+visMost143.png, ad, 3, 0, 0, 0, 0, 0, 0, Axis Label, Data
+visMost147.png, cmb, 3, 0, 1, 0, 0, 0, 1, Legend
+visMost147.png, pi, 3, 0, 0, 0, 0, 0, 1, Legend, Paragraph
+visMost147.png, sok, 2, 0, 0, 0, 1, 0, 0, Legend, Paragraph, Data
+visMost147.png, jm, 1, 0, 1, 0, 1, 0, 0, Legend, Data
+visMost147.png, db, 0, 0, 0, 0, 0, 0, 0, 
+visMost147.png, mc, 3, 0, 1, 0, 0, 0, 1, Legend
+visMost147.png, mg, 3, 0, 0, 0, 0, 0, 1, Legend, Paragraph
+visMost147.png, rs, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost147.png, vm, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost147.png, wab, 3, 0, 0, 0, 1, 0, 1, Paragraph
+visMost147.png, ag, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost147.png, lcm, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost147.png, rk, 1, 0, 0, 0, 1, 0, 0, 
+visMost187.png, cmb, 3, 0, 0, 0, 1, 0, 1, Data, Label
+visMost187.png, ls, 1, 0, 0, 0, 1, 0, 0, 
+visMost187.png, sk, 1, 0, 0, 0, 1, 0, 1, Label, Paragraph
+visMost187.png, sok, 2, 0, 0, 0, 1, 0, 1, Data, Label
+visMost187.png, jm, 3, 0, 1, 0, 1, 0, 0, Label, Paragraph
+visMost187.png, em, 3, 0, 0, 0, 1, 0, 1, Data, Label, Paragraph
+visMost187.png, krm, 1, 0, 1, 0, 0, 0, 1, Label
+visMost187.png, mg, 3, 0, 0, 0, 1, 0, 1, Data, Label
+visMost187.png, ad, 3, 0, 0, 0, 1, 0, 1, Data, Label, Paragraph
+visMost187.png, abl, 3, 0, 1, 0, 1, 0, 0, Data, Label, Source
+visMost187.png, lcm, 1, 0, 0, 0, 1, 0, 0, Label
+visMost187.png, md, 2, 0, 0, 0, 1, 0, 0, Paragraph, Label
+visMost187.png, rb, 2, 0, 0, 0, 1, 0, 0, Paragraph, Label, Source
+visMost187.png, rk, 1, 0, 0, 0, 1, 0, 0, 
+visMost190.png, cmb, 2, 0, 0, 0, 1, 0, 0, Pictogram
+visMost190.png, sok, 3, 0, 0, 0, 1, 0, 0, Paragraph
+visMost190.png, db, 0, 0, 0, 1, 0, 0, 0, 
+visMost190.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+visMost190.png, vm, 1, 0, 0, 0, 0, 0, 0, Label, Pictogram
+visMost190.png, wab, 2, 0, 0, 0, 1, 0, 0, 
+visMost190.png, abl, 2, 0, 0, 0, 1, 0, 0, Label, Pictogram
+visMost190.png, lcm, 2, 0, 0, 0, 1, 0, 0, Axis label
+visMost215.png, cmb, 0, 0, 0, 0, 0, 1, 0, Pictogram
+visMost215.png, wab, 2, 0, 0, 0, 1, 1, 0, Data
+visMost215.png, pi, 2, 0, 0, 0, 1, 0, 0, Label
+visMost215.png, em, 2, 0, 0, 0, 1, 1, 0, 
+visMost215.png, krm, 1, 0, 0, 0, 0, 0, 0, Label
+visMost215.png, mc, 2, 0, 0, 0, 1, 1, 0, 
+visMost215.png, mg, 2, 0, 0, 0, 1, 1, 0, 
+visMost215.png, abl, 2, 0, 0, 0, 1, 1, 0, Label
+visMost215.png, am, 2, 0, 0, 0, 1, 0, 0, 
+visMost215.png, lcm, 2, 0, 0, 0, 1, 1, 0, 
+visMost215.png, rb, 3, 0, 0, 0, 1, 1, 0, 
+visMost215.png, rk, 2, 0, 0, 0, 1, 1, 0, 
+visMost217.png, cmb, 3, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost217.png, ls, 2, 0, 0, 0, 1, 0, 0, Data
+visMost217.png, pi, 2, 0, 0, 0, 1, 0, 0, Data
+visMost217.png, mc, 2, 0, 0, 0, 1, 0, 0, Data
+visMost217.png, mg, 3, 0, 0, 0, 1, 0, 0, Data
+visMost217.png, wab, 2, 0, 0, 0, 1, 0, 0, Data
+visMost217.png, abl, 2, 0, 0, 0, 1, 0, 0, Data
+visMost217.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+visMost217.png, pk, 3, 0, 0, 0, 1, 0, 0, Data
+visMost217.png, rb, 2, 0, 0, 0, 1, 0, 0, Data, Source
+visMost217.png, rk, 3, 0, 0, 0, 1, 0, 0, Data
+visMost227.png, cmb, 3, 0, 0, 0, 1, 1, 0, Labels, Pictograms
+visMost227.png, pi, 3, 0, 0, 0, 1, 0, 0, Labels, Pictograms
+visMost227.png, jm, 1, 0, 1, 0, 1, 0, 0, Data
+visMost227.png, db, 2, 0, 0, 0, 1, 0, 0, Labels, Pictograms
+visMost227.png, em, 2, 0, 0, 0, 1, 0, 0, 
+visMost227.png, mc, 3, 0, 0, 0, 1, 1, 0, Labels, Pictograms
+visMost227.png, mg, 3, 0, 0, 0, 1, 1, 0, Labels, Pictograms
+visMost227.png, sh, 1, 0, 0, 0, 1, 0, 0, 
+visMost227.png, abl, 2, 0, 0, 0, 1, 0, 0, Labels
+visMost227.png, lcm, 2, 0, 0, 0, 1, 1, 0, Labels, Pictograms, Paragraph
+visMost227.png, pj, 1, 0, 0, 0, 1, 1, 0, Pictograms
+visMost227.png, rb, 2, 0, 0, 0, 1, 0, 0, 
+visMost227.png, rk, 1, 0, 0, 0, 1, 0, 0, Label, Pictogram
+visMost232.png, cmb, 3, 0, 0, 0, 1, 1, 0, Paragraph, Pictogram
+visMost232.png, pi, 3, 0, 0, 0, 1, 0, 0, Paragraph
+visMost232.png, sok, 2, 0, 0, 0, 0, 0, 0, Paragraph
+visMost232.png, mg, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost232.png, rs, 3, 0, 0, 0, 0, 0, 0, Paragraph
+visMost232.png, tj, 3, 0, 0, 0, 1, 0, 0, Paragraph
+visMost232.png, ad, 2, 0, 0, 0, 0, 0, 0, Paragraph
+visMost232.png, abl, 3, 0, 0, 0, 1, 0, 0, Paragraph
+visMost232.png, lcm, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost232.png, md, 3, 0, 0, 0, 0, 0, 0, Paragraph
+visMost232.png, pk, 3, 0, 0, 0, 1, 0, 0, Paragraph
+visMost232.png, rb, 3, 0, 0, 0, 0, 0, 0, Paragraph
+visMost232.png, rk, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost240.png, cmb, 3, 0, 1, 0, 1, 0, 1, Data, Label
+visMost240.png, wab, 3, 0, 0, 0, 1, 1, 0, Label
+visMost240.png, pi, 3, 0, 0, 0, 1, 0, 0, Label
+visMost240.png, mc, 3, 0, 0, 0, 1, 0, 0, Label
+visMost240.png, mg, 3, 0, 1, 0, 1, 0, 1, Data, Label
+visMost240.png, ad, 2, 0, 0, 0, 1, 0, 0, 
+visMost240.png, abl, 3, 0, 0, 0, 1, 0, 0, Label
+visMost240.png, lcm, 0, 0, 0, 0, 0, 1, 0, 
+visMost240.png, rk, 0, 0, 0, 0, 0, 0, 0, Label
+visMost244.png, cmb, 2, 0, 1, 0, 0, 1, 0, Text
+visMost244.png, pi, 2, 0, 0, 0, 1, 1, 0, 
+visMost244.png, sok, 2, 1, 0, 0, 1, 1, 0, 
+visMost244.png, db, 2, 0, 0, 0, 1, 0, 0, 
+visMost244.png, krm, 1, 0, 0, 0, 0, 0, 0, Text
+visMost244.png, mg, 3, 0, 0, 0, 1, 0, 0, Text
+visMost244.png, ms, 0, 0, 0, 1, 0, 0, 0, 
+visMost244.png, sh, 0, 0, 0, 0, 0, 1, 0, 
+visMost244.png, ad, 3, 1, 0, 0, 0, 0, 0, 
+visMost244.png, abl, 2, 0, 0, 0, 1, 0, 0, 
+visMost244.png, lcm, 1, 0, 0, 0, 1, 0, 0, Text, Pictogram
+visMost244.png, rb, 3, 1, 0, 0, 0, 0, 0, Text
+visMost255.png, cmb, 2, 0, 0, 0, 1, 0, 0, Data
+visMost255.png, wab, 2, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost255.png, ch, 3, 1, 0, 0, 1, 1, 1, Axis, Pictograms
+visMost255.png, db, 2, 0, 1, 0, 1, 1, 1, Pictograms
+visMost255.png, mc, 3, 0, 0, 0, 1, 1, 1, Axis, Pictograms
+visMost255.png, mg, 2, 0, 0, 0, 1, 0, 0, 
+visMost255.png, ms, 1, 0, 0, 0, 0, 0, 1, 
+visMost255.png, sh, 2, 0, 0, 0, 1, 0, 0, Data
+visMost255.png, vm, 2, 0, 0, 0, 1, 0, 0, 
+visMost255.png, ad, 2, 0, 0, 0, 1, 0, 0, Axis, Data
+visMost255.png, ag, 2, 0, 1, 0, 1, 0, 0, Axis, Data
+visMost255.png, lcm, 2, 0, 0, 0, 1, 0, 0, Data
+visMost255.png, rb, 3, 0, 0, 0, 1, 0, 0, Axis, Pictograms, Data
+visMost255.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+visMost261.png, cmb, 2, 0, 0, 0, 1, 0, 0, Legend, Pictogram
+visMost261.png, ls, 2, 0, 0, 0, 1, 0, 1, Pictogram, Data
+visMost261.png, sok, 3, 0, 1, 0, 1, 0, 1, Legend, Data, Pictogram, Header Row
+visMost261.png, db, 2, 0, 0, 0, 0, 0, 0, Legend, Pictogram
+visMost261.png, krm, 2, 0, 0, 0, 1, 0, 0, Paragraph, Legend
+visMost261.png, mg, 2, 1, 0, 0, 1, 0, 0, Legend, Pictogram, Header Row, Paragraph
+visMost261.png, vm, 2, 0, 1, 0, 1, 0, 0, Legend, Pictogram
+visMost261.png, wab, 2, 0, 1, 0, 1, 0, 0, Legend, Pictogram
+visMost261.png, ag, 2, 0, 0, 0, 1, 0, 0, Legend, Data, Pictogram
+visMost261.png, lcm, 2, 0, 1, 0, 1, 0, 0, Paragraph
+visMost261.png, rb, 2, 0, 0, 0, 1, 0, 0, Legend, Pictogram
+visMost267.png, ch, 3, 0, 0, 0, 1, 1, 1, Label, Pictogram
+visMost267.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+visMost267.png, ad, 2, 0, 0, 0, 1, 0, 0, 
+visMost267.png, rb, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost271.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+visMost271.png, wab, 3, 0, 0, 0, 1, 0, 1, Pictogram, Data, Label
+visMost271.png, pi, 3, 0, 0, 0, 1, 0, 1, Legend, Pictogram
+visMost271.png, krm, 3, 0, 0, 0, 1, 0, 1, Legend, Pictogram
+visMost271.png, mc, 3, 0, 0, 0, 1, 0, 1, Legend, Pictogram
+visMost271.png, mg, 3, 0, 0, 0, 1, 0, 1, Pictogram
+visMost271.png, sh, 3, 0, 0, 0, 1, 0, 1, Legend, Pictogram
+visMost271.png, abl, 2, 0, 0, 0, 1, 0, 0, 
+visMost271.png, lcm, 3, 0, 0, 0, 1, 0, 1, Pictogram, Circle
+visMost271.png, pj, 0, 0, 0, 0, 0, 0, 0, 
+visMost271.png, rb, 2, 0, 0, 0, 1, 1, 1, Legend, Pictogram
+visMost271.png, rk, 2, 0, 0, 0, 1, 0, 0, 
+visMost274.png, cmb, 2, 0, 0, 0, 0, 0, 0, Pictogram
+visMost274.png, pi, 2, 0, 1, 0, 0, 0, 0, Label, Paragraph
+visMost274.png, sok, 1, 0, 0, 0, 0, 1, 0, Label, Pictogram
+visMost274.png, krm, 1, 0, 0, 0, 0, 0, 0, Label
+visMost274.png, mc, 1, 0, 0, 0, 0, 0, 0, Label
+visMost274.png, mg, 1, 0, 0, 0, 0, 1, 0, Label
+visMost274.png, wab, 1, 0, 0, 0, 0, 0, 0, Label
+visMost274.png, abl, 1, 0, 0, 0, 0, 0, 0, Pictogram
+visMost274.png, lcm, 2, 0, 0, 0, 0, 0, 0, Legend, Paragraph
+visMost274.png, md, 1, 0, 0, 0, 0, 1, 0, Pictogram
+visMost274.png, pk, 1, 0, 0, 0, 0, 0, 0, Label
+visMost274.png, rb, 1, 0, 0, 0, 0, 0, 0, Source, Paragraph, Pictogram, Label
+visMost274.png, rk, 1, 0, 0, 0, 0, 0, 0, Label
+visMost282.png, ls, 2, 0, 0, 0, 1, 0, 0, Data
+visMost282.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+visMost282.png, sok, 1, 1, 0, 0, 0, 0, 0, 
+visMost282.png, db, 2, 0, 0, 0, 0, 0, 0, Label
+visMost282.png, mc, 2, 0, 0, 0, 1, 0, 0, Label
+visMost282.png, mg, 3, 0, 0, 0, 1, 0, 0, Label
+visMost282.png, mrc, 0, 0, 0, 0, 0, 1, 0, 
+visMost282.png, ra, 3, 0, 1, 0, 1, 0, 0, Label
+visMost282.png, abl, 3, 0, 0, 0, 1, 0, 0, Label, Source
+visMost282.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+visMost282.png, rb, 2, 0, 0, 0, 1, 0, 0, Label
+visMost357.png, wab, 2, 0, 0, 0, 0, 0, 0, Source, Data, Label
+visMost357.png, mg, 2, 0, 1, 0, 1, 0, 1, Label
+visMost357.png, tj, 2, 0, 0, 0, 1, 0, 0, Label
+visMost357.png, ad, 3, 1, 0, 0, 1, 0, 0, Pictogram, Label, Source
+visMost357.png, abl, 2, 1, 0, 0, 1, 0, 0, Pictogram, Label, Source
+visMost357.png, rk, 2, 0, 0, 0, 1, 0, 0, 
+visMost362.png, cmb, 2, 0, 0, 0, 1, 0, 1, Label
+visMost362.png, wab, 2, 0, 0, 0, 1, 0, 0, 
+visMost362.png, pi, 3, 0, 0, 0, 1, 0, 1, Label
+visMost362.png, sok, 2, 0, 0, 0, 1, 0, 1, Label
+visMost362.png, cy, 2, 0, 0, 0, 1, 0, 0, 
+visMost362.png, db, 3, 0, 0, 0, 1, 0, 0, Label
+visMost362.png, dn, 2, 0, 0, 0, 1, 0, 0, 
+visMost362.png, mc, 3, 0, 0, 0, 1, 0, 1, Label
+visMost362.png, mg, 3, 0, 0, 0, 1, 0, 1, Label
+visMost362.png, ms, 2, 0, 0, 0, 1, 0, 0, 
+visMost362.png, tj, 2, 0, 0, 0, 1, 0, 0, 
+visMost362.png, abl, 3, 0, 0, 0, 1, 0, 0, Label
+visMost362.png, lcm, 3, 0, 0, 0, 1, 0, 1, Label
+visMost362.png, rb, 2, 0, 0, 0, 1, 0, 1, Label
+visMost362.png, rk, 2, 0, 0, 0, 1, 0, 0, 
+visMost374.png, cmb, 2, 0, 0, 0, 1, 0, 1, Legend
+visMost374.png, pi, 3, 0, 0, 0, 1, 0, 1, Label
+visMost374.png, sok, 2, 0, 0, 0, 1, 0, 0, 
+visMost374.png, db, 0, 0, 0, 0, 0, 0, 0, 
+visMost374.png, mc, 2, 0, 1, 0, 1, 0, 0, 
+visMost374.png, mg, 3, 0, 0, 0, 1, 0, 1, 
+visMost374.png, mrc, 2, 0, 0, 0, 1, 0, 0, 
+visMost374.png, vm, 1, 0, 0, 0, 1, 0, 0, 
+visMost374.png, wab, 3, 0, 0, 0, 1, 0, 1, 
+visMost374.png, ag, 1, 0, 0, 0, 1, 0, 0, 
+visMost374.png, lcm, 1, 0, 0, 0, 1, 0, 0, 
+visMost376.png, cmb, 3, 0, 1, 0, 1, 0, 1, Legend
+visMost376.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+visMost376.png, cy, 2, 0, 0, 0, 1, 0, 1, Label
+visMost376.png, db, 3, 0, 0, 0, 1, 0, 1, Label
+visMost376.png, mc, 3, 0, 0, 0, 1, 0, 1, Label
+visMost376.png, mg, 3, 0, 0, 0, 1, 1, 1, Label
+visMost376.png, sh, 2, 0, 0, 0, 2, 0, 0, 
+visMost376.png, tj, 3, 0, 0, 0, 1, 0, 1, Label, Text
+visMost376.png, wab, 3, 0, 0, 0, 1, 0, 1, Label
+visMost376.png, abl, 3, 0, 0, 0, 1, 0, 1, Label
+visMost376.png, lcm, 3, 0, 0, 0, 1, 0, 1, Label
+visMost376.png, rb, 3, 0, 0, 0, 1, 1, 1, Label
+visMost376.png, rk, 3, 0, 0, 0, 1, 0, 1, Label
+visMost378.png, cmb, 2, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost378.png, ls, 0, 0, 0, 0, 0, 0, 0, 
+visMost378.png, pi, 3, 0, 1, 0, 1, 0, 1, Table
+visMost378.png, sok, 2, 0, 0, 0, 1, 0, 0, 
+visMost378.png, db, 3, 0, 1, 0, 1, 0, 1, Table
+visMost378.png, em, 2, 0, 0, 0, 1, 0, 0, Title
+visMost378.png, krm, 2, 0, 0, 0, 1, 0, 0, 
+visMost378.png, mc, 3, 0, 0, 0, 1, 0, 1, Table, Title
+visMost378.png, mg, 3, 0, 0, 0, 1, 0, 1, Table, Title
+visMost378.png, mrc, 3, 0, 0, 0, 1, 0, 1, Table, Title
+visMost378.png, ms, 2, 0, 0, 0, 1, 0, 0, 
+visMost378.png, rs, 0, 0, 0, 0, 0, 0, 0, 
+visMost378.png, wab, 2, 0, 0, 0, 1, 0, 0, Title
+visMost378.png, abl, 3, 0, 0, 0, 1, 0, 1, Table, Title
+visMost378.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+visMost378.png, pk, 2, 0, 0, 0, 1, 0, 1, Table
+visMost378.png, rk, 1, 0, 0, 0, 1, 0, 0, 
+visMost420.png, cmb, 3, 0, 0, 0, 1, 0, 0, Data, Label
+visMost420.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+visMost420.png, wab, 3, 0, 0, 0, 1, 0, 0, Data, Label
+visMost420.png, pi, 3, 0, 0, 0, 1, 0, 1, Label, Paragraph
+visMost420.png, sok, 0, 0, 0, 0, 0, 0, 0, Pictogram
+visMost420.png, db, 0, 0, 0, 0, 0, 0, 0, 
+visMost420.png, em, 2, 0, 0, 0, 1, 0, 0, 
+visMost420.png, ad, 2, 0, 1, 0, 1, 0, 0, 
+visMost420.png, ag, 1, 0, 0, 0, 0, 0, 0, Label
+visMost420.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+visMost420.png, pk, 3, 0, 0, 0, 1, 1, 0, Label
+visMost420.png, rb, 3, 0, 0, 0, 1, 0, 1, Label, Paragraph
+visMost420.png, rk, 2, 0, 0, 0, 1, 0, 0, 
+visMost451.png, cmb, 3, 1, 0, 0, 1, 0, 1, Table
+visMost451.png, ls, 2, 0, 0, 0, 1, 0, 0, Table
+visMost451.png, wab, 2, 0, 0, 0, 1, 0, 0, Header Row, Data
+visMost451.png, pi, 3, 0, 0, 0, 1, 1, 1, Table
+visMost451.png, dn, 2, 1, 0, 0, 1, 0, 0, 
+visMost451.png, em, 2, 0, 0, 0, 1, 0, 0, Header Row
+visMost451.png, mc, 3, 0, 1, 0, 1, 0, 1, Header Row, Table
+visMost451.png, mg, 3, 0, 0, 0, 1, 0, 1, Table
+visMost451.png, sh, 2, 0, 0, 0, 1, 0, 0, 
+visMost451.png, abl, 3, 0, 0, 0, 1, 0, 1, Table
+visMost451.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+visMost451.png, pj, 2, 0, 1, 0, 0, 0, 0, Header Row
+visMost451.png, pk, 3, 0, 0, 0, 1, 0, 1, Table
+visMost451.png, rb, 2, 0, 0, 0, 1, 1, 1, Header Row, Pictogram
+visMost451.png, rk, 1, 0, 0, 0, 1, 0, 0, 
+visMost456.png, wab, 2, 0, 0, 0, 1, 0, 0, 
+visMost456.png, db, 3, 0, 0, 0, 1, 1, 0, Label, Axis, Pictogram
+visMost456.png, mc, 1, 0, 0, 0, 1, 1, 0, Pictogram
+visMost456.png, mg, 3, 0, 0, 0, 1, 0, 0, Axis, Label
+visMost456.png, lg, 3, 0, 0, 0, 1, 0, 0, Axis, Label
+visMost456.png, ag, 2, 0, 0, 0, 1, 1, 0, Axis, Label
+visMost456.png, lcm, 1, 0, 0, 0, 1, 0, 0, 
+visMost456.png, rb, 2, 0, 1, 0, 1, 0, 0, Label
+visMost468.png, cmb, 3, 1, 0, 0, 1, 0, 1, Axis
+visMost468.png, sok, 2, 0, 0, 0, 1, 0, 0, Axis
+visMost468.png, db, 0, 0, 0, 0, 0, 0, 0, 
+visMost468.png, wab, 2, 0, 0, 0, 1, 0, 0, Axis
+visMost468.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+visMost468.png, rb, 3, 1, 0, 0, 1, 0, 1, Axis
+visMost468.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+visMost505.png, cmb, 3, 0, 0, 0, 1, 0, 1, Axis, Label
+visMost505.png, ls, 2, 0, 1, 0, 1, 0, 0, Axis Label
+visMost505.png, pi, 3, 0, 0, 0, 1, 0, 1, Axis, Label
+visMost505.png, sok, 2, 0, 1, 0, 1, 0, 0, 
+visMost505.png, krm, 1, 0, 1, 0, 0, 0, 1, Label
+visMost505.png, mg, 3, 0, 0, 0, 1, 0, 1, 
+visMost505.png, wab, 2, 0, 0, 0, 1, 0, 0, Axis
+visMost505.png, abl, 3, 0, 0, 0, 1, 0, 1, Label
+visMost505.png, lcm, 1, 0, 0, 0, 0, 0, 0, Axis, Label
+visMost505.png, rb, 2, 0, 0, 0, 0, 0, 1, Axis, Label
+visMost523.png, cmb, 2, 0, 0, 0, 1, 0, 0, 
+visMost523.png, pi, 3, 1, 0, 0, 1, 0, 1, Legend
+visMost523.png, sok, 2, 0, 0, 0, 1, 0, 1, 
+visMost523.png, db, 2, 0, 0, 0, 1, 0, 1, 
+visMost523.png, mg, 3, 1, 0, 0, 1, 0, 1, 
+visMost523.png, ra, 1, 0, 0, 0, 1, 0, 0, 
+visMost523.png, wab, 2, 0, 0, 0, 1, 0, 0, 
+visMost523.png, abl, 2, 0, 0, 0, 1, 0, 0, Source
+visMost523.png, lcm, 2, 1, 0, 0, 1, 0, 0, 
+visMost523.png, md, 2, 0, 0, 0, 1, 0, 1, 
+visMost523.png, pk, 2, 1, 0, 0, 1, 0, 0, 
+visMost523.png, rb, 2, 0, 0, 0, 1, 0, 1, Legend
+visMost523.png, rk, 1, 0, 0, 0, 1, 0, 0, 
+visMost526.png, cmb, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data
+visMost526.png, ls, 2, 0, 1, 0, 0, 0, 0, Paragraph, Data
+visMost526.png, wab, 3, 0, 0, 0, 0, 0, 0, Text, Paragraph
+visMost526.png, sok, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data
+visMost526.png, jm, 2, 0, 0, 0, 0, 0, 0, Text, Paragraph
+visMost526.png, ch, 2, 0, 0, 0, 1, 0, 0, 
+visMost526.png, em, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data
+visMost526.png, mc, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data
+visMost526.png, mg, 2, 0, 0, 0, 0, 0, 0, Text, Paragraph
+visMost526.png, mrc, 2, 0, 0, 0, 0, 0, 0, Paragraph
+visMost526.png, rs, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data
+visMost526.png, abl, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data
+visMost526.png, lcm, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data
+visMost526.png, md, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data
+visMost526.png, rb, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data
+visMost526.png, rk, 2, 0, 0, 0, 0, 0, 0, Paragraph
+visMost537.png, cmb, 2, 0, 0, 0, 1, 1, 0, Pictogram
+visMost537.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+visMost537.png, pi, 2, 0, 0, 0, 1, 0, 1, Data
+visMost537.png, mg, 2, 0, 1, 0, 1, 0, 0, 
+visMost537.png, wab, 3, 0, 0, 0, 1, 0, 0, Data, Legend
+visMost537.png, abl, 3, 0, 0, 0, 1, 0, 0, Data, Legend
+visMost537.png, lcm, 2, 0, 1, 0, 1, 0, 0, 
+visMost537.png, rb, 3, 0, 0, 0, 1, 0, 1, Data, Legend
+visMost537.png, rk, 2, 0, 0, 0, 1, 0, 1, 
+visMost54.png, cmb, 3, 0, 1, 0, 1, 0, 1, Data, Legend, Axis, Pictogram
+visMost54.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+visMost54.png, pi, 2, 0, 0, 0, 1, 0, 1, Data, Legend, Axis, Pictogram, Label
+visMost54.png, sok, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost54.png, db, 3, 0, 0, 0, 1, 0, 0, Paragraph
+visMost54.png, em, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost54.png, krm, 2, 0, 0, 0, 1, 0, 0, 
+visMost54.png, mg, 3, 0, 0, 0, 1, 0, 1, Paragraph, Legend, Label
+visMost54.png, ad, 2, 0, 0, 0, 1, 0, 0, Paragraph, Axis
+visMost54.png, ag, 2, 0, 0, 0, 1, 0, 1, Paragraph, Label
+visMost54.png, lcm, 2, 0, 0, 0, 1, 0, 0, Paragraph, Data, Label, Legend
+visMost54.png, pj, 2, 0, 0, 0, 1, 0, 0, Data, Legend, Label, Paragraph
+visMost54.png, rb, 2, 0, 0, 0, 1, 0, 0, Paragraph, Data, Label
+visMost54.png, rk, 3, 0, 0, 0, 1, 0, 0, Paragraph
+visMost545.png, ls, 2, 0, 0, 0, 1, 0, 0, Pictogram
+visMost545.png, wab, 2, 0, 0, 0, 1, 0, 0, Pictogram, Paragraph
+visMost545.png, sok, 2, 0, 1, 0, 0, 0, 0, Pictogram, Paragraph, Data
+visMost545.png, em, 2, 0, 0, 0, 1, 0, 0, Pictogram, Paragraph, Data
+visMost545.png, krm, 1, 0, 0, 0, 0, 0, 0, Pictogram, Paragraph
+visMost545.png, mc, 1, 0, 0, 0, 0, 1, 0, Pictogram
+visMost545.png, mg, 1, 0, 0, 0, 0, 1, 0, Pictogram, Paragraph
+visMost545.png, rs, 1, 0, 0, 0, 0, 1, 0, Pictogram, Paragraph
+visMost545.png, sh, 1, 0, 0, 0, 1, 0, 0, Pictogram, Paragraph
+visMost545.png, abl, 2, 0, 0, 0, 1, 0, 0, Pictogram, Paragraph, Data
+visMost545.png, am, 1, 0, 0, 0, 0, 1, 0, Pictogram, Paragraph
+visMost545.png, lcm, 0, 0, 0, 1, 0, 0, 0, 
+visMost545.png, rb, 2, 0, 0, 0, 1, 0, 1, Pictogram, Paragraph, Data
+visMost55.png, cmb, 3, 0, 0, 0, 1, 0, 1, Pictogram, Data
+visMost55.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+visMost55.png, wab, 3, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost55.png, sok, 2, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost55.png, jm, 3, 0, 0, 0, 1, 0, 1, Pictogram, Data
+visMost55.png, em, 3, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost55.png, mrc, 3, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost55.png, sh, 3, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost55.png, abl, 3, 0, 0, 0, 1, 0, 1, Pictogram, Data
+visMost55.png, am, 3, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost55.png, lcm, 2, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost55.png, pk, 2, 0, 1, 0, 1, 0, 1, Data, Pictogram
+visMost55.png, rb, 3, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost55.png, rk, 2, 0, 0, 0, 1, 0, 1, Data, Pictogram
+visMost575.png, cmb, 2, 0, 1, 0, 1, 0, 1, Axis, Axis Label
+visMost575.png, ad, 3, 0, 0, 0, 1, 0, 1, Axis, Axis Label, Data, Label
+visMost575.png, abl, 3, 0, 0, 0, 1, 0, 0, Axis, Axis Label, Data, Label
+visMost575.png, am, 2, 0, 0, 0, 1, 0, 0, 
+visMost575.png, lcm, 1, 0, 0, 0, 1, 0, 0, Data
+visMost575.png, rb, 3, 0, 0, 0, 1, 0, 1, Data, Label
+visMost601.png, cmb, 3, 0, 0, 0, 1, 0, 1, Paragraph, Data
+visMost601.png, sok, 2, 0, 0, 0, 1, 0, 0, Source
+visMost601.png, mc, 2, 0, 1, 0, 1, 0, 1, Data
+visMost601.png, mg, 2, 0, 1, 0, 1, 0, 0, Axis Label, Axis
+visMost601.png, rs, 2, 0, 1, 0, 1, 0, 0, Paragraph
+visMost601.png, sh, 2, 0, 0, 0, 1, 0, 0, 
+visMost601.png, vm, 2, 0, 0, 0, 1, 0, 0, 
+visMost601.png, ad, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost601.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+visMost601.png, pk, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost601.png, rb, 2, 0, 1, 0, 1, 0, 0, Axis Label, Axis, Label, Data
+visMost601.png, rk, 2, 0, 0, 0, 1, 0, 0, 
+visMost623.png, ls, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost623.png, sok, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost623.png, db, 2, 0, 1, 0, 1, 1, 0, Paragraph, Header Row, Pictogram
+visMost623.png, mg, 3, 0, 0, 0, 1, 1, 0, Paragraph, Header Row, Pictogram
+visMost623.png, ad, 2, 0, 0, 0, 1, 0, 0, Paragraph, Header Row
+visMost623.png, abl, 3, 0, 0, 0, 1, 1, 0, Paragraph, Header Row, Pictogram
+visMost623.png, am, 2, 0, 0, 0, 1, 0, 0, Header Row
+visMost623.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+visMost623.png, pk, 3, 0, 1, 0, 1, 1, 0, Paragraph, Header Row, Pictogram
+visMost623.png, rb, 3, 0, 0, 0, 1, 1, 0, Paragraph, Header Row, Pictogram
+visMost623.png, rk, 1, 0, 0, 0, 0, 0, 0, Paragraph, Header Row
+visMost635.png, cmb, 2, 0, 0, 0, 1, 0, 0, Data
+visMost635.png, pi, 2, 0, 0, 0, 1, 0, 0, 
+visMost635.png, sok, 2, 0, 1, 0, 1, 0, 0, 
+visMost635.png, db, 2, 0, 0, 0, 1, 0, 0, 
+visMost635.png, mc, 1, 0, 0, 0, 0, 0, 1, Data, Legend
+visMost635.png, mg, 3, 0, 0, 0, 1, 0, 1, Data, Legend
+visMost635.png, mrc, 2, 0, 1, 0, 1, 0, 1, Data
+visMost635.png, rs, 2, 0, 0, 0, 1, 0, 1, Data
+visMost635.png, vm, 2, 0, 0, 0, 1, 0, 0, 
+visMost635.png, ad, 2, 0, 0, 0, 1, 0, 1, Data, Legend
+visMost635.png, abl, 2, 0, 0, 0, 1, 0, 1, Data, Legend
+visMost635.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+visMost635.png, pk, 2, 0, 0, 0, 1, 0, 1, Data
+visMost635.png, rb, 2, 0, 0, 0, 1, 0, 1, Data, Legend
+visMost635.png, rk, 2, 0, 0, 0, 1, 0, 0, 
+visMost645.png, wab, 3, 0, 0, 0, 1, 0, 0, Label
+visMost645.png, pi, 2, 0, 1, 0, 1, 0, 0, Data
+visMost645.png, sok, 2, 0, 1, 0, 1, 0, 0, Data
+visMost645.png, krm, 1, 0, 0, 0, 0, 0, 0, 
+visMost645.png, vm, 1, 0, 0, 0, 0, 0, 0, Paragraph
+visMost645.png, abl, 1, 0, 0, 0, 0, 0, 0, Data, Label, Pictogram
+visMost645.png, am, 1, 0, 0, 0, 1, 0, 0, 
+visMost645.png, rb, 2, 0, 0, 0, 1, 0, 0, Data, Paragraph
+visMost657.png, cmb, 2, 0, 0, 0, 1, 0, 0, Header Row
+visMost657.png, sk, 2, 0, 0, 0, 1, 0, 1, Data
+visMost657.png, pi, 3, 0, 0, 0, 1, 0, 1, Data, Header Row, Label
+visMost657.png, sok, 2, 0, 0, 0, 1, 0, 1, Header Row, Label, Data
+visMost657.png, db, 0, 0, 0, 0, 0, 0, 0, 
+visMost657.png, em, 2, 0, 0, 0, 1, 0, 0, Header Row
+visMost657.png, mg, 2, 0, 0, 0, 1, 0, 0, Header Row, Label
+visMost657.png, sh, 1, 0, 0, 0, 1, 0, 0, 
+visMost657.png, vm, 2, 0, 0, 0, 1, 0, 0, 
+visMost657.png, wab, 2, 0, 1, 0, 1, 0, 1, 
+visMost657.png, lg, 2, 0, 0, 0, 1, 0, 1, Header Row, Label
+visMost657.png, lcm, 1, 0, 0, 0, 1, 0, 0, Data
+visMost657.png, rb, 2, 0, 0, 0, 1, 0, 1, Header Row, Label
+visMost673.png, cmb, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost673.png, sok, 2, 0, 0, 0, 1, 0, 1, Paragraph
+visMost673.png, db, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost673.png, mc, 3, 0, 0, 0, 1, 0, 1, Paragraph, Data
+visMost673.png, mg, 2, 0, 1, 0, 1, 0, 0, Paragraph, Data
+visMost673.png, ad, 2, 0, 1, 0, 1, 0, 1, Paragraph
+visMost673.png, ag, 2, 0, 1, 0, 1, 0, 0, Paragraph
+visMost673.png, lcm, 2, 0, 0, 0, 1, 0, 0, Paragraph
+visMost673.png, pj, 1, 0, 0, 0, 0, 0, 1, Data, Pictogram
+visMost673.png, rb, 3, 0, 0, 0, 1, 0, 1, Paragraph, Data, Label
+visMost735.png, ls, 2, 0, 1, 0, 1, 0, 1, Data
+visMost735.png, wab, 2, 0, 1, 0, 1, 0, 0, 
+visMost735.png, pi, 3, 0, 0, 0, 1, 1, 1, Data
+visMost735.png, db, 2, 0, 1, 0, 1, 0, 0, Data
+visMost735.png, mg, 3, 0, 0, 0, 1, 1, 1, Data, Pictogram
+visMost735.png, ad, 2, 0, 0, 0, 1, 0, 0, 
+visMost735.png, lg, 2, 0, 1, 0, 1, 1, 0, Data
+visMost735.png, ag, 2, 0, 0, 0, 1, 0, 0, Data
+visMost735.png, md, 2, 0, 0, 0, 1, 0, 0, Data
+visMost735.png, rb, 3, 0, 0, 0, 1, 0, 1, Data
+visMost745.png, ls, 2, 0, 0, 0, 1, 1, 0, Data, Label, Pictogram
+visMost745.png, jm, 2, 0, 1, 0, 0, 0, 1, Data, Label
+visMost745.png, db, 3, 0, 1, 0, 1, 0, 1, Data, Label
+visMost745.png, em, 3, 0, 0, 0, 1, 0, 0, Data, Label
+visMost745.png, mg, 3, 0, 0, 0, 1, 0, 0, Data, Label
+visMost745.png, mrc, 1, 0, 0, 0, 0, 1, 0, Pictogram, Label
+visMost745.png, tj, 1, 0, 0, 0, 1, 1, 0, Pictogram, Label
+visMost745.png, wab, 2, 0, 1, 0, 1, 0, 1, Data
+visMost745.png, ag, 2, 0, 1, 0, 1, 0, 0, Data, Label
+visMost745.png, lcm, 2, 0, 0, 0, 0, 0, 1, Data, Label, Pictogram
+visMost745.png, md, 2, 0, 0, 0, 1, 1, 1, Data, Pictogram
+visMost745.png, pk, 2, 0, 0, 0, 0, 0, 1, Data, Label
+visMost745.png, rb, 3, 0, 0, 0, 1, 0, 1, Data, Label
+visMost745.png, rk, 2, 0, 0, 0, 1, 0, 1, Data, Label
+visMost755.png, wab, 1, 0, 0, 0, 0, 0, 0, Paragraph, Data
+visMost755.png, pi, 1, 0, 0, 0, 0, 1, 1, Paragraph, Text, Pictogram
+visMost755.png, db, 0, 0, 0, 0, 0, 0, 0, 
+visMost755.png, abl, 3, 0, 1, 0, 0, 0, 1, Paragraph, Text, Pictogram
+visMost755.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+visMost758.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+visMost758.png, pi, 3, 1, 0, 0, 1, 1, 0, Paragraph, Pictogram
+visMost758.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+visMost758.png, mg, 3, 0, 0, 0, 1, 1, 1, Paragraph, Pictogram, Data
+visMost758.png, mrc, 0, 0, 0, 0, 0, 0, 0, 
+visMost758.png, ms, 0, 0, 0, 0, 0, 1, 0, Pictogram
+visMost758.png, wab, 3, 0, 0, 0, 1, 0, 0, Paragraph
+visMost758.png, rk, 0, 0, 0, 1, 0, 0, 0, 
+visMost77.png, cmb, 2, 0, 0, 0, 1, 0, 1, Data
+visMost77.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+visMost77.png, sok, 2, 0, 0, 0, 1, 1, 1, Pictogram
+visMost77.png, jm, 2, 0, 0, 0, 1, 0, 0, Data
+visMost77.png, db, 3, 0, 0, 0, 1, 1, 1, Pictogram, Data
+visMost77.png, dn, 2, 0, 0, 0, 1, 0, 0, 
+visMost77.png, mg, 2, 0, 0, 0, 1, 0, 0, 
+visMost77.png, mrc, 1, 0, 0, 0, 0, 1, 0, 
+visMost77.png, rs, 2, 0, 0, 0, 1, 0, 0, 
+visMost77.png, wab, 3, 0, 0, 0, 1, 1, 1, Pictogram, Data
+visMost77.png, abl, 3, 0, 0, 0, 1, 0, 0, Data
+visMost77.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+visMost77.png, rb, 3, 0, 0, 0, 1, 0, 0, Data
+visMost77.png, rk, 2, 0, 1, 0, 0, 0, 0, Label
+visMost82.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+visMost82.png, wab, 2, 0, 0, 0, 1, 1, 1, Data, Pictogram
+visMost82.png, krm, 3, 0, 0, 0, 1, 0, 1, Data, Label
+visMost82.png, mg, 2, 0, 0, 0, 1, 1, 1, Data, Pictogram
+visMost82.png, ms, 2, 0, 0, 0, 1, 0, 0, Pictograph
+visMost82.png, tj, 2, 0, 0, 0, 1, 0, 0, 
+visMost82.png, abl, 3, 0, 0, 0, 1, 0, 1, Data, Label
+visMost82.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+visMost82.png, md, 2, 0, 0, 0, 1, 1, 0, Label, Pictogram
+visMost82.png, pk, 2, 0, 0, 0, 1, 1, 0, Label, Pictogram
+visMost82.png, rb, 2, 0, 0, 0, 1, 1, 1, Data, Pictogram
+visMost82.png, rk, 2, 0, 0, 0, 1, 0, 0, 
+visMost83.png, ls, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, pi, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, ch, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, db, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, mc, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, mg, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, mrc, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, ms, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, tj, 2, 0, 0, 0, 1, 0, 0, Axis
+visMost83.png, wab, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, ag, 3, 0, 0, 0, 1, 0, 0, Axis, Data, Legend
+visMost83.png, am, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, lcm, 2, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, pk, 3, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, rb, 2, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost83.png, rk, 2, 0, 0, 0, 1, 0, 1, Legend, Axis, Data
+visMost92.png, cmb, 2, 0, 0, 0, 1, 0, 0, 
+visMost92.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+visMost92.png, pi, 2, 0, 0, 0, 1, 0, 0, Pictogram
+visMost92.png, jm, 2, 0, 0, 0, 1, 0, 0, 
+visMost92.png, db, 0, 0, 0, 0, 0, 0, 0, 
+visMost92.png, mc, 2, 0, 0, 0, 1, 0, 0, Pictogram, Legend
+visMost92.png, mg, 2, 0, 0, 0, 1, 0, 0, Pictogram, Legend, Label, Paragraph
+visMost92.png, sh, 2, 0, 0, 0, 1, 0, 0, Pictogram
+visMost92.png, vm, 2, 0, 0, 0, 1, 0, 0, Pictogram, Label, Paragraph
+visMost92.png, abl, 2, 0, 0, 0, 1, 0, 0, Pictogram, Label, Paragraph, Legend, Axis
+visMost92.png, lcm, 2, 0, 0, 0, 1, 0, 0, Pictogram
+visMost92.png, md, 2, 0, 0, 0, 1, 0, 1, Pictogram, Legend
+visMost92.png, rb, 2, 0, 0, 0, 1, 0, 0, Pictogram, Label, Paragraph, Legend, Axis
+visMost92.png, rk, 2, 0, 0, 0, 1, 0, 0, Pictogram, Axis
+whoB03_1.png, sok, 2, 0, 0, 0, 1, 0, 1, Axis
+whoB03_1.png, db, 2, 0, 1, 0, 1, 0, 0, 
+whoB03_1.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+whoB05_1.png, ls, 1, 0, 0, 0, 1, 0, 0, Legend
+whoB05_1.png, pi, 3, 0, 0, 0, 1, 0, 1, Data, Axis, Legend
+whoB05_1.png, sok, 2, 0, 1, 0, 1, 0, 0, Axis, Legend
+whoB05_1.png, db, 2, 0, 0, 0, 1, 0, 0, Legend
+whoB05_1.png, abl, 2, 0, 0, 0, 1, 0, 0, Axis
+whoB05_1.png, am, 1, 0, 0, 0, 1, 0, 0, 
+whoB05_1.png, rb, 2, 0, 0, 0, 1, 0, 0, Data, Legend
+whoB13_2.png, pi, 2, 0, 0, 0, 1, 0, 0, Label
+whoB13_2.png, db, 2, 0, 0, 0, 1, 0, 0, Label
+whoB13_2.png, em, 2, 0, 0, 0, 1, 0, 0, Paragraph
+whoB13_2.png, krm, 0, 0, 0, 0, 0, 0, 0, Label
+whoB13_2.png, mg, 2, 0, 1, 0, 1, 0, 1, Paragraph, Label
+whoB13_2.png, ad, 2, 0, 0, 0, 1, 0, 0, 
+whoB13_2.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+whoB15_1.png, ls, 2, 0, 0, 0, 1, 0, 0, Legend, Axis
+whoB15_1.png, pi, 2, 0, 0, 0, 1, 0, 0, 
+whoB15_1.png, sok, 2, 0, 1, 0, 1, 0, 0, 
+whoB15_1.png, cy, 2, 0, 0, 0, 1, 0, 0, 
+whoB15_1.png, db, 2, 0, 0, 0, 1, 0, 0, 
+whoB15_1.png, mg, 2, 0, 0, 0, 1, 0, 0, Axis
+whoB15_1.png, mrc, 3, 0, 0, 0, 1, 0, 0, Axis, Legend, Data
+whoB15_1.png, abl, 2, 0, 0, 0, 1, 0, 0, 
+whoB15_1.png, lcm, 1, 0, 0, 0, 1, 0, 0, 
+whoB19_1.png, wab, 3, 0, 0, 0, 1, 0, 0, Paragraph, Axis Label, Data
+whoB19_1.png, pi, 1, 0, 0, 0, 1, 0, 0, 
+whoB19_1.png, mg, 3, 0, 0, 0, 1, 0, 0, Paragraph, Legend
+whoB19_1.png, abl, 3, 0, 0, 0, 1, 0, 1, Paragraph, Legend, Data
+whoB19_1.png, lcm, 3, 0, 1, 0, 1, 0, 0, Paragraph, Legend
+whoB19_1.png, rb, 2, 0, 0, 0, 1, 0, 0, Legend
+whoB20_1.png, cmb, 1, 0, 0, 0, 1, 0, 1, Axis, Data
+whoB20_1.png, pi, 1, 0, 0, 0, 1, 0, 1, Axis, Data
+whoB20_1.png, sok, 2, 0, 0, 0, 1, 0, 0, Axis
+whoB20_1.png, cy, 2, 0, 0, 0, 1, 0, 0, 
+whoB20_1.png, mg, 2, 0, 1, 0, 1, 0, 0, Legend
+whoB20_1.png, ra, 1, 0, 0, 0, 1, 0, 0, 
+whoB20_1.png, abl, 2, 0, 0, 0, 1, 0, 0, Axis
+whoB20_1.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+whoB22_1.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+whoB22_1.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+whoB22_1.png, ms, 2, 0, 1, 0, 1, 0, 0, 
+whoB22_1.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+whoB24_1.png, mg, 3, 0, 0, 0, 1, 0, 0, Data, Axis, Axis Label
+whoB24_1.png, ad, 2, 0, 0, 0, 1, 0, 0, 
+whoB24_1.png, abl, 2, 0, 1, 0, 1, 0, 0, Axis Label
+whoB24_1.png, lcm, 2, 0, 1, 0, 1, 0, 0, Axis Label
+whoB24_1.png, rb, 2, 0, 0, 0, 1, 0, 0, Axis Label
+whoB25_2.png, cmb, 2, 0, 0, 0, 1, 0, 1, Label, Axis, Axis Label, Data
+whoB25_2.png, ls, 2, 0, 0, 0, 1, 0, 0, Axis
+whoB25_2.png, pi, 3, 0, 1, 0, 1, 0, 1, Label, Axis, Axis Label, Data, Legend
+whoB25_2.png, cy, 2, 0, 0, 0, 1, 0, 0, Legend
+whoB25_2.png, dn, 2, 0, 0, 0, 1, 0, 0, Label
+whoB25_2.png, sh, 1, 0, 0, 0, 0, 0, 0, 
+whoB25_2.png, abl, 2, 0, 0, 0, 1, 0, 0, 
+whoB25_2.png, lcm, 2, 0, 0, 0, 1, 0, 0, Legend
+whoB25_2.png, md, 3, 0, 0, 0, 1, 0, 1, Legend, Label, Data, Axis, Axis Label
+whoB32_1.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+whoI11_1.png, cmb, 2, 0, 0, 0, 1, 0, 0, Paragraph
+whoI11_1.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+whoI11_1.png, pi, 2, 0, 0, 0, 1, 0, 0, 
+whoI11_1.png, ch, 1, 0, 0, 0, 1, 0, 0, Paragraph
+whoI11_1.png, mg, 2, 0, 1, 0, 1, 0, 1, Legend, Axis
+whoI11_1.png, rs, 1, 0, 0, 0, 1, 0, 0, Paragraph
+whoI11_1.png, vm, 1, 0, 0, 0, 1, 0, 0, Paragraph
+whoI11_1.png, abl, 2, 0, 1, 0, 1, 0, 1, Legend, Axis
+whoI11_1.png, lcm, 1, 0, 0, 0, 1, 0, 0, Paragraph
+whoI11_1.png, pk, 1, 0, 0, 0, 0, 0, 0, Paragraph
+whoI11_2.png, pi, 2, 0, 0, 0, 1, 0, 0, 
+whoI11_2.png, db, 0, 0, 0, 0, 0, 0, 0, 
+whoI11_2.png, mc, 0, 0, 0, 0, 0, 1, 0, 
+whoI11_2.png, mg, 2, 0, 0, 0, 1, 0, 1, Legend
+whoI11_2.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+whoI12_2.png, pi, 2, 0, 0, 0, 1, 0, 0, Legend, Data, Paragraph
+whoI12_2.png, mg, 2, 0, 0, 0, 1, 0, 0, Paragraph
+whoI12_2.png, rs, 0, 0, 0, 0, 0, 0, 0, Axis
+whoI12_2.png, wab, 1, 0, 0, 0, 1, 0, 0, 
+whoI12_2.png, abl, 1, 0, 0, 0, 1, 0, 0, 
+whoI12_2.png, am, 1, 0, 0, 0, 1, 0, 0, Legend
+whoI12_2.png, lcm, 1, 0, 0, 0, 1, 0, 0, Paragraph, Legend
+whoI12_2.png, rb, 2, 0, 0, 0, 1, 0, 0, Legend, Data, Paragraph, Axis Label
+whoI12_2.png, rk, 1, 0, 0, 0, 1, 0, 0, Legend
+whoI14.png, wab, 1, 0, 0, 0, 1, 0, 0, Data
+whoI14.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+whoI14.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+whoI14.png, abl, 3, 0, 0, 0, 1, 0, 0, Data, Header Row
+whoI19.png, db, 0, 0, 0, 0, 0, 0, 0, Axis, Data
+whoI19.png, mg, 3, 0, 0, 0, 1, 0, 0, Data, Legend, Axis
+whoI19.png, abl, 3, 0, 0, 0, 1, 0, 0, Data, Legend, Axis
+whoI22.png, cmb, 0, 0, 0, 0, 0, 1, 0, 
+whoI22.png, sok, 2, 0, 0, 0, 1, 0, 0, Axis, Data
+whoJ15_1.png, wab, 1, 0, 0, 0, 1, 0, 1, Axis
+whoJ23.png, em, 0, 0, 0, 0, 1, 0, 0, 
+whoJ23.png, mg, 3, 0, 1, 0, 1, 0, 1, Legend, Data
+whoJ23.png, lcm, 0, 0, 0, 0, 1, 0, 0, 
+whoJ32.png, wab, 2, 0, 0, 0, 1, 0, 0, Paragraph, Axis
+whoJ32.png, sok, 1, 0, 1, 0, 1, 0, 1, Axis, Data
+whoJ32.png, mc, 1, 0, 0, 0, 0, 0, 1, Axis, Data
+whoJ32.png, mg, 0, 0, 0, 1, 0, 0, 0, 
+whoJ32.png, abl, 1, 0, 0, 0, 1, 0, 1, Axis, Data
+whoJ33.png, cmb, 2, 0, 0, 0, 1, 0, 0, Legend
+whoJ33.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+whoJ33.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+whoJ33.png, mg, 2, 0, 0, 0, 1, 0, 0, Paragraph, Legend
+whoJ36_1.png, db, 0, 0, 0, 0, 0, 0, 0, 
+whoJ36_1.png, mg, 0, 0, 0, 1, 0, 0, 0, 
+whoJ36_2.png, sok, 2, 0, 0, 0, 1, 0, 0, Paragraph, Data
+whoJ36_2.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+whoJ40_2.png, wab, 2, 0, 0, 0, 1, 0, 1, Paragraph, Legend, Data
+whoJ40_2.png, dn, 0, 0, 0, 1, 0, 0, 0, 
+whoJ40_2.png, mg, 3, 0, 0, 0, 0, 0, 1, Legend, Data, Paragraph
+whoJ40_2.png, abl, 3, 0, 0, 0, 0, 0, 0, Paragraph
+whoJ40_2.png, lcm, 2, 0, 0, 0, 1, 0, 0, Paragraph, Legend
+whoJ43_2.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+whoJ43_2.png, abl, 0, 0, 0, 0, 0, 0, 0, 
+whoJ44.png, vm, 1, 0, 0, 0, 1, 0, 0, Paragraph
+whoJ48_2.png, pi, 2, 0, 0, 0, 1, 0, 0, Paragraph
+whoJ48_2.png, mg, 1, 0, 0, 0, 0, 0, 0, 
+whoJ48_2.png, lcm, 0, 0, 0, 0, 0, 0, 1, 
+whoK04_2.png, wab, 1, 0, 0, 0, 0, 0, 1, Data, Axis
+whoK04_2.png, pi, 1, 0, 0, 0, 1, 0, 1, Label
+whoK04_2.png, mg, 2, 0, 0, 0, 1, 0, 0, 
+whoK06_2.png, ls, 2, 0, 0, 0, 1, 0, 0, 
+whoK06_2.png, wab, 2, 0, 0, 0, 1, 0, 0, 
+whoK06_2.png, sok, 0, 0, 0, 1, 0, 0, 0, 
+whoK06_2.png, db, 0, 0, 0, 0, 0, 0, 0, 
+whoK06_2.png, dn, 1, 0, 0, 0, 1, 0, 0, 
+whoK06_2.png, em, 3, 0, 0, 0, 1, 0, 0, 
+whoK06_2.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+whoK06_2.png, pj, 1, 0, 0, 0, 1, 0, 0, 
+whoK07_2.png, sok, 0, 0, 0, 1, 0, 0, 0, 
+whoK07_2.png, db, 0, 0, 0, 0, 0, 0, 0, 
+whoK07_2.png, mg, 0, 0, 0, 0, 0, 0, 1, 
+whoK07_2.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+whoK08.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+whoK08.png, mc, 0, 0, 0, 0, 0, 0, 0, Header Row, Data
+whoK08.png, wab, 1, 0, 1, 0, 0, 0, 0, Paragraph
+whoK08.png, pk, 0, 0, 0, 0, 0, 0, 0, 
+whoK12_2.png, wab, 2, 0, 0, 0, 1, 0, 0, Paragraph, Legend
+whoK12_2.png, sok, 2, 0, 0, 0, 1, 0, 0, Paragraph, Legend
+whoK12_2.png, mc, 2, 0, 1, 0, 1, 0, 0, Legend
+whoK12_2.png, mg, 3, 0, 0, 0, 1, 0, 0, Legend, Data
+whoK12_2.png, ms, 0, 0, 0, 1, 0, 0, 1, 
+whoK12_2.png, ad, 2, 0, 0, 0, 1, 0, 1, Legend
+whoK12_2.png, am, 2, 0, 1, 0, 1, 0, 0, 
+whoK12_2.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+whoK12_2.png, rb, 2, 0, 1, 0, 1, 0, 1, Legend
+whoK17_1.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+whoK17_1.png, em, 2, 0, 0, 0, 1, 0, 0, Axis
+whoK17_1.png, mg, 2, 0, 1, 0, 1, 0, 0, Axis
+whoK17_1.png, abl, 3, 0, 0, 0, 1, 0, 0, Axis, Data, Label, Paragraph
+whoK19_1.png, cmb, 1, 0, 0, 0, 0, 0, 0, Legend
+whoK19_1.png, wab, 1, 0, 0, 0, 0, 0, 0, Legend
+whoK19_1.png, sok, 1, 0, 0, 0, 1, 0, 0, 
+whoK19_1.png, cy, 0, 0, 0, 0, 1, 0, 0, Axis Label
+whoK19_1.png, em, 2, 0, 0, 0, 1, 0, 0, Axis Label, Axis
+whoK19_1.png, mg, 2, 0, 0, 0, 1, 0, 1, Axis Label, Axis, Legend
+whoK19_1.png, mrc, 0, 0, 0, 0, 0, 0, 1, Legend
+whoK19_1.png, ms, 1, 0, 0, 0, 0, 0, 0, Legend
+whoK19_1.png, sh, 1, 0, 0, 0, 0, 0, 0, Legend
+whoK19_1.png, ad, 2, 0, 0, 0, 1, 0, 0, 
+whoK19_1.png, abl, 2, 0, 0, 0, 1, 0, 0, Legend
+whoK19_1.png, lcm, 0, 0, 0, 1, 0, 0, 0, 
+whoK19_1.png, md, 0, 0, 0, 1, 0, 0, 0, 
+whoK19_1.png, rb, 2, 0, 0, 0, 1, 0, 1, Legend
+whoK19_1.png, rk, 1, 0, 0, 0, 1, 0, 0, 
+whoK23_2.png, wab, 2, 0, 0, 0, 1, 0, 0, Legend, Paragraph
+whoK23_2.png, pi, 2, 0, 0, 0, 1, 0, 0, Axis Label, Paragraph
+whoK23_2.png, sok, 1, 0, 0, 0, 0, 0, 0, Paragraph
+whoK23_2.png, krm, 0, 0, 0, 0, 0, 0, 0, Legend
+whoK23_2.png, mg, 2, 0, 0, 0, 1, 0, 0, Axis Label, Legend, Paragraph
+whoK23_2.png, ms, 0, 0, 0, 0, 0, 0, 0, 
+whoK23_2.png, vm, 2, 0, 0, 0, 0, 0, 0, Paragraph
+whoK23_2.png, abl, 2, 0, 0, 0, 1, 0, 0, Data, Axis Label, Legend, Paragraph
+whoK23_2.png, lcm, 1, 0, 0, 0, 1, 0, 0, Legend, Paragraph
+whoK23_2.png, md, 0, 0, 0, 1, 0, 0, 0, 
+whoK23_2.png, rb, 2, 0, 0, 0, 1, 0, 1, Data, Axis Label, Legend, Paragraph
+whoK31.png, cmb, 2, 0, 0, 0, 0, 0, 0, Legend, Data
+whoK31.png, wab, 2, 0, 0, 0, 0, 0, 1, Legend, Data
+whoK31.png, pi, 2, 1, 0, 0, 0, 0, 1, Legend, Data
+whoK31.png, sok, 1, 0, 0, 0, 0, 0, 1, Legend, Data
+whoK31.png, krm, 2, 0, 0, 0, 0, 0, 1, Legend, Data
+whoK31.png, mc, 2, 0, 0, 0, 0, 0, 1, Legend, Data
+whoK31.png, mg, 2, 0, 0, 0, 0, 0, 1, Legend, Data
+whoK31.png, vm, 0, 0, 0, 0, 0, 0, 0, Data
+whoK31.png, abl, 2, 0, 0, 0, 0, 0, 1, Legend, Data
+whoK31.png, lcm, 1, 0, 0, 0, 0, 0, 1, Legend, Data
+whoK31.png, rk, 0, 0, 0, 0, 0, 0, 1, 
+whoL03.png, cmb, 0, 0, 0, 0, 0, 0, 0, 
+whoL03.png, pi, 2, 0, 0, 0, 1, 0, 0, 
+whoL03.png, mc, 1, 0, 0, 0, 1, 0, 0, Data
+whoL03.png, mg, 3, 0, 0, 0, 1, 0, 0, Data, Header Row
+whoL03.png, wab, 2, 0, 0, 0, 1, 0, 0, Data, Header Row
+whoL03.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+whoL06.png, ls, 1, 0, 0, 0, 1, 0, 0, Axis
+whoL06.png, em, 2, 0, 0, 0, 1, 0, 0, 
+whoL06.png, wab, 2, 0, 0, 0, 1, 0, 1, Legend, Data, Axis
+whoL09.png, ls, 2, 0, 0, 0, 0, 0, 1, Label, Axis Label
+whoL09.png, wab, 3, 0, 0, 0, 1, 0, 0, Label, Axis Label, Legend
+whoL09.png, db, 3, 0, 0, 0, 1, 0, 1, Label, Axis Label
+whoL09.png, em, 0, 0, 0, 1, 0, 0, 0, 
+whoL09.png, mg, 2, 0, 0, 0, 0, 0, 1, Label, Axis Label, Legend
+whoL09.png, ms, 0, 0, 0, 0, 0, 0, 1, 
+whoL09.png, vm, 3, 0, 0, 0, 1, 0, 1, Data, Label
+whoL09.png, abl, 2, 0, 0, 0, 0, 0, 1, Label, Axis Label, Legend
+whoL09.png, am, 1, 1, 0, 0, 0, 0, 0, Legend
+whoL09.png, lcm, 2, 0, 0, 0, 0, 0, 0, Label, Axis Label, Legend
+whoL09.png, pk, 1, 0, 0, 0, 0, 0, 1, Label
+whoL09.png, rb, 1, 0, 0, 0, 0, 0, 1, Label
+whoL10.png, pi, 2, 0, 0, 0, 0, 0, 0, Text, Label
+whoL10.png, db, 0, 0, 0, 0, 0, 0, 0, 
+whoL10.png, em, 1, 0, 0, 0, 0, 0, 0, Text, Label
+whoL10.png, krm, 1, 0, 0, 0, 0, 0, 0, Text, Label
+whoL10.png, mg, 1, 0, 0, 0, 0, 0, 1, Text, Label
+whoL10.png, rs, 0, 0, 0, 0, 0, 0, 1, 
+whoL10.png, vm, 1, 0, 0, 0, 0, 0, 0, Text, Label
+whoL10.png, abl, 0, 0, 0, 0, 0, 0, 0, 
+whoL10.png, rb, 1, 0, 0, 0, 0, 0, 0, Text, Label
+whoL11.png, jm, 2, 0, 0, 0, 1, 0, 0, Legend
+whoL11.png, cy, 1, 0, 0, 0, 1, 0, 0, 
+whoL11.png, em, 2, 0, 0, 0, 1, 0, 0, Legend
+whoL11.png, mg, 3, 0, 0, 0, 1, 0, 1, Legend, Data
+whoL11.png, wab, 1, 0, 0, 0, 1, 0, 0, 
+whoL11.png, lg, 2, 0, 1, 0, 1, 0, 0, Legend
+whoL11.png, lcm, 2, 0, 1, 0, 1, 0, 0, Legend
+whoL11.png, rb, 1, 0, 1, 0, 1, 0, 0, Legend
+whoL11.png, rk, 0, 0, 0, 0, 0, 0, 1, 
+whoL12.png, ls, 0, 0, 0, 0, 0, 0, 0, 
+whoL12.png, wab, 2, 0, 0, 0, 1, 0, 0, Data, Label
+whoL12.png, pi, 3, 0, 0, 0, 1, 0, 1, Data, Label
+whoL12.png, db, 2, 0, 0, 0, 1, 0, 1, Data, Label
+whoL12.png, krm, 2, 0, 1, 0, 1, 0, 0, 
+whoL12.png, mrc, 1, 0, 0, 0, 0, 0, 0, Label
+whoL12.png, ms, 2, 0, 0, 0, 1, 0, 1, Data
+whoL12.png, ag, 1, 0, 1, 0, 0, 0, 0, Data
+whoL12.png, rb, 2, 0, 0, 0, 1, 0, 1, Data
+whoL12.png, rk, 2, 0, 0, 0, 1, 0, 0, 
+whoL14.png, cmb, 0, 0, 0, 0, 0, 0, 0, 
+whoL14.png, pi, 1, 0, 0, 0, 0, 0, 1, Label
+whoL14.png, db, 0, 0, 0, 0, 0, 0, 0, 
+whoL14.png, wab, 1, 0, 1, 0, 1, 0, 0, Label
+whoL14.png, abl, 2, 0, 0, 0, 1, 0, 0, Label
+whoL14.png, am, 1, 0, 0, 0, 0, 0, 0, Label
+whoL14.png, lcm, 1, 0, 0, 0, 0, 0, 0, Label
+whoL14.png, pk, 1, 0, 0, 0, 0, 0, 0, Label
+whoL14.png, rk, 1, 0, 0, 0, 0, 0, 0, Label
+whoM05.png, cmb, 3, 0, 0, 0, 1, 0, 0, Data
+whoM05.png, pi, 2, 0, 0, 0, 1, 0, 0, Data, Header Row
+whoM05.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+whoM05.png, db, 0, 0, 0, 0, 0, 0, 0, Header Row
+whoM05.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+whoM05.png, wab, 2, 0, 0, 0, 1, 0, 0, Data, Header Row
+whoM05.png, abl, 0, 0, 0, 0, 0, 0, 0, Header Row
+whoN05.png, pi, 2, 0, 0, 0, 1, 0, 0, 
+whoN05.png, sok, 3, 0, 0, 0, 1, 0, 1, Data, Legend
+whoN05.png, wab, 1, 0, 0, 0, 1, 0, 0, 
+whoN05.png, abl, 2, 0, 0, 0, 1, 0, 0, 
+whoN05.png, lcm, 2, 0, 0, 0, 1, 0, 0, 
+whoN08.png, pi, 1, 0, 0, 0, 1, 0, 0, 
+whoN08.png, sok, 0, 0, 0, 0, 0, 0, 0, Data
+whoN08.png, db, 0, 0, 0, 0, 0, 0, 0, Data
+whoN08.png, ad, 1, 0, 1, 0, 1, 0, 0, Data
+whoN10.png, wab, 2, 0, 0, 0, 1, 0, 0, 
+whoN10.png, mg, 3, 0, 0, 0, 1, 0, 0, Header Row
+whoN10.png, abl, 2, 0, 1, 0, 1, 0, 0, Header Row
+whoN10.png, rb, 0, 0, 0, 0, 1, 0, 0, Axis
+whoN16_1.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+whoN16_1.png, em, 2, 0, 0, 0, 1, 0, 0, Legend
+whoN16_1.png, krm, 1, 0, 0, 0, 1, 0, 0, 
+whoN16_1.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+whoN16_1.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+whoN16_1.png, pk, 0, 0, 0, 0, 0, 0, 0, 
+whoN18.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+whoN18.png, pi, 2, 0, 0, 0, 1, 0, 0, Header Row
+whoN18.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+whoN18.png, dn, 2, 0, 1, 0, 1, 0, 0, Header Row, Data
+whoN18.png, mg, 2, 0, 0, 0, 1, 0, 0, Header Row, Data
+whoN18.png, lcm, 1, 0, 0, 0, 1, 0, 0, Header Row
+whoN21_1.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+whoN21_1.png, mg, 1, 0, 1, 0, 1, 0, 0, Legend, Axis
+whoN22.png, pi, 1, 0, 0, 0, 1, 0, 0, Legend
+whoN22.png, jm, 0, 0, 0, 0, 0, 0, 0, 
+whoN22.png, ch, 2, 0, 0, 0, 1, 0, 0, Legend, Data
+whoN22.png, em, 2, 0, 0, 0, 1, 0, 0, 
+whoN22.png, mg, 0, 0, 0, 1, 0, 0, 0, 
+whoN22.png, wab, 2, 0, 0, 0, 1, 0, 0, 
+whoN22.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+whoN22.png, md, 0, 0, 0, 1, 0, 0, 0, 
+whoN23_2.png, mg, 3, 0, 0, 0, 1, 0, 0, Axis, Axis Label, Data
+whoN32_2.png, ls, 2, 0, 0, 0, 1, 0, 0, Axis Label
+whoN32_2.png, pi, 0, 0, 0, 0, 0, 0, 0, 
+whoN32_2.png, db, 3, 0, 1, 0, 1, 0, 0, Axis, Data
+whoN32_2.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+whoN32_2.png, abl, 3, 0, 1, 0, 1, 0, 0, Axis, Data
+whoN33.png, wab, 2, 0, 0, 0, 1, 0, 0, Data, Label
+whoN33.png, db, 0, 0, 0, 0, 0, 0, 1, 
+whoN33.png, mc, 2, 0, 0, 0, 1, 0, 1, Data, Label
+whoN33.png, mg, 2, 0, 0, 0, 1, 0, 0, Data, Label
+whoN33.png, abl, 3, 0, 0, 0, 1, 0, 1, Data, Label
+whoN33.png, md, 2, 0, 0, 0, 1, 0, 1, Data, Label
+whoO06_2.png, krm, 1, 0, 0, 0, 0, 0, 0, Legend, Axis
+whoO06_2.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+whoO06_2.png, ra, 1, 0, 0, 0, 1, 0, 0, 
+whoO06_2.png, ad, 0, 0, 0, 1, 0, 0, 0, 
+whoO06_2.png, lcm, 1, 0, 0, 0, 1, 0, 0, Legend
+whoO12.png, wab, 3, 0, 1, 0, 1, 0, 0, Data, Header Row
+whoP16.png, pi, 1, 0, 0, 0, 0, 0, 0, Header Row
+whoP16.png, jm, 0, 0, 0, 0, 0, 0, 0, 
+whoP16.png, mg, 3, 0, 0, 0, 1, 0, 0, Data
+whoP16.png, abl, 2, 0, 0, 0, 1, 0, 0, Data
+whoQ06_2.png, pi, 0, 0, 0, 1, 0, 0, 0, 
+whoQ06_2.png, jm, 1, 0, 0, 0, 0, 0, 0, Legend
+whoQ06_2.png, db, 2, 0, 1, 0, 1, 0, 0, Legend
+whoQ06_2.png, mc, 0, 0, 0, 0, 0, 0, 0, 
+whoQ06_2.png, abl, 1, 0, 0, 0, 1, 0, 0, 
+whoQ06_2.png, lcm, 1, 0, 0, 0, 1, 0, 0, 
+whoQ06_2.png, rb, 1, 0, 0, 0, 1, 0, 0, Legend
+whoQ09_2.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+whoQ09_2.png, mg, 3, 1, 0, 0, 1, 0, 0, Legend, Data
+whoQ11_1.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+whoQ11_1.png, pi, 3, 0, 0, 0, 1, 0, 0, Data, Axis, Axis Label, Legend
+whoQ11_1.png, sok, 1, 0, 1, 0, 1, 0, 0, Legend, Axis
+whoQ11_1.png, db, 0, 0, 0, 0, 0, 0, 0, 
+whoQ11_1.png, mg, 2, 1, 0, 0, 1, 0, 0, Legend
+whoQ11_1.png, ad, 1, 0, 0, 0, 1, 0, 0, 
+whoQ11_1.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+whoQ14_2.png, em, 1, 0, 0, 0, 1, 0, 0, 
+whoQ14_2.png, mg, 0, 0, 0, 1, 0, 0, 0, 
+whoQ14_2.png, wab, 0, 0, 0, 0, 0, 0, 0, Axis
+whoQ15_1.png, cmb, 0, 0, 0, 0, 0, 0, 0, Legend
+whoQ15_1.png, sok, 0, 0, 0, 0, 0, 0, 0, Annotation, Label
+whoQ15_1.png, mc, 2, 0, 0, 0, 1, 0, 0, 
+whoQ15_1.png, mg, 1, 0, 0, 0, 0, 0, 0, Legend, Data, Annotation
+whoQ18_3.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+whoQ18_3.png, vm, 0, 0, 0, 0, 0, 0, 0, Axis, Data
+whoQ26.png, sok, 2, 0, 1, 0, 1, 0, 0, Legend, Data, Source
+whoQ26.png, jm, 0, 0, 0, 0, 0, 0, 0, Label
+whoQ26.png, mg, 2, 0, 0, 0, 0, 0, 0, Paragraph, Legend
+whoQ26.png, sh, 0, 0, 0, 0, 0, 0, 0, 
+whoQ26.png, tj, 2, 0, 0, 0, 0, 0, 1, Paragraph, Legend, Label
+whoQ26.png, wab, 1, 0, 1, 0, 0, 0, 0, Paragraph
+whoQ26.png, ag, 0, 0, 0, 0, 0, 0, 0, 
+whoQ26.png, lcm, 1, 0, 0, 0, 0, 0, 0, 
+whoQ26.png, rb, 2, 0, 0, 0, 0, 0, 0, Paragraph, Legend, Source
+whoQ32_2.png, mrc, 0, 0, 0, 0, 0, 0, 0, 
+whoQ32_2.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+whoQ32_2.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+whoQ41_1.png, cmb, 2, 0, 0, 0, 0, 0, 1, Legend, Axis, Data
+whoQ41_1.png, pi, 3, 0, 0, 0, 0, 0, 1, Legend, Axis, Data
+whoQ41_1.png, mc, 1, 0, 0, 0, 0, 0, 0, Legend
+whoQ41_1.png, mg, 3, 0, 0, 0, 1, 0, 1, Legend, Data, Axis
+whoQ41_1.png, vm, 2, 0, 0, 0, 0, 0, 0, Legend, Data, Axis
+whoQ41_1.png, ad, 1, 0, 0, 0, 0, 0, 1, Legend, Axis
+whoQ41_1.png, lcm, 2, 0, 0, 0, 0, 0, 0, Legend, Axis, Data
+whoQ41_1.png, md, 0, 0, 0, 1, 0, 0, 0, 
+whoQ42_1.png, pi, 3, 0, 0, 0, 1, 0, 0, Axis, Data
+whoQ42_1.png, mg, 1, 0, 0, 0, 0, 0, 0, Axis
+whoQ42_1.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+whoQ42_1.png, lcm, 3, 0, 0, 0, 1, 0, 0, Axis
+whoQ42_1.png, md, 0, 0, 0, 1, 0, 0, 0, 
+whoQ44_4.png, sok, 0, 0, 0, 1, 0, 0, 0, 
+whoQ44_4.png, mc, 1, 0, 0, 0, 1, 0, 0, Legend, Data
+whoQ44_4.png, mg, 1, 0, 0, 0, 0, 0, 0, Axis, Data
+whoQ44_4.png, am, 1, 0, 0, 0, 0, 0, 0, Legend
+whoQ44_4.png, lcm, 1, 0, 0, 0, 0, 0, 0, Legend
+whoQ44_4.png, rb, 1, 0, 0, 0, 0, 0, 0, Legend
+whoQ48_4.png, ls, 0, 0, 0, 0, 0, 0, 0, Legend
+whoQ48_4.png, pi, 2, 0, 0, 0, 1, 0, 0, Legend
+whoQ48_4.png, sok, 1, 0, 0, 0, 0, 0, 0, Legend
+whoQ48_4.png, jm, 0, 0, 0, 0, 0, 0, 0, Legend
+whoQ48_4.png, ag, 1, 0, 0, 0, 0, 0, 0, Legend
+whoQ48_4.png, am, 1, 0, 0, 0, 0, 0, 0, Legend
+whoQ48_4.png, lcm, 1, 0, 0, 0, 0, 0, 0, Legend
+whoQ48_5.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+whoQ48_5.png, pi, 0, 0, 0, 1, 0, 0, 0, 
+whoQ48_5.png, mg, 2, 1, 0, 0, 1, 0, 0, Data, Axis, Legend
+whoQ48_5.png, vm, 1, 1, 0, 0, 0, 0, 0, Axis
+whoQ50_2.png, sok, 1, 0, 0, 0, 1, 0, 0, Axis
+whoQ50_2.png, mg, 2, 0, 0, 0, 1, 0, 0, Data, Axis
+whoQ50_2.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+whoQ51_2.png, db, 0, 0, 0, 0, 0, 0, 0, Axis Label
+whoQ51_2.png, mc, 2, 1, 0, 0, 1, 0, 0, Data, Axis
+whoQ51_2.png, mg, 0, 0, 0, 1, 0, 0, 0, 
+whoQ51_2.png, ad, 0, 0, 0, 0, 0, 0, 0, Axis Label
+whoQ51_2.png, abl, 2, 0, 1, 0, 1, 0, 0, Data, Axis
+whoQ51_2.png, md, 1, 0, 0, 0, 1, 0, 0, Axis
+whoQ52_4.png, pi, 2, 0, 0, 0, 1, 0, 0, Legend
+whoQ52_4.png, mg, 3, 1, 0, 0, 1, 0, 1, Legend, Data, Axis Label
+whoQ52_4.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+whoQ52_4.png, lcm, 1, 0, 0, 0, 0, 0, 0, Legend
+wsj10.png, cmb, 2, 0, 0, 0, 0, 0, 0, Legend, Data
+wsj10.png, ls, 2, 0, 0, 0, 0, 0, 0, Legend, Label
+wsj10.png, pi, 2, 1, 0, 0, 0, 0, 0, Legend, Data
+wsj10.png, em, 2, 0, 0, 0, 0, 0, 0, Legend, Data
+wsj10.png, mc, 1, 0, 0, 0, 0, 0, 1, Legend, Data, Label
+wsj10.png, mg, 3, 0, 0, 0, 0, 0, 0, Legend, Data
+wsj10.png, tj, 2, 0, 1, 0, 0, 0, 0, Legend, Data
+wsj10.png, wab, 3, 0, 0, 0, 0, 0, 0, Legend, Data, Label
+wsj10.png, abl, 3, 0, 0, 0, 0, 0, 0, Legend, Data
+wsj10.png, lcm, 3, 0, 0, 0, 0, 0, 0, Legend, Data
+wsj10.png, rb, 2, 0, 0, 0, 0, 0, 0, Legend, Data
+wsj104.png, cmb, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj104.png, ls, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj104.png, sok, 2, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj104.png, cy, 2, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj104.png, em, 2, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj104.png, mc, 1, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj104.png, mg, 2, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj104.png, rs, 0, 0, 0, 1, 0, 0, 0, 
+wsj104.png, tj, 2, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj104.png, wab, 3, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj104.png, abl, 3, 0, 1, 0, 0, 0, 0, Paragraph, Pictogram
+wsj104.png, lcm, 1, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj104.png, rb, 3, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj108.png, pi, 3, 0, 0, 0, 0, 0, 0, Paragraph
+wsj108.png, ad, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj108.png, md, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj108.png, rb, 1, 0, 1, 0, 0, 0, 0, Paragraph
+wsj11.png, mc, 1, 0, 0, 0, 0, 0, 1, Data, Axis, Paragraph
+wsj11.png, mg, 3, 1, 0, 0, 0, 0, 0, Data, Axis, Paragraph, Label
+wsj116.png, cmb, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj116.png, ls, 1, 0, 0, 0, 0, 0, 0, Pictogram
+wsj116.png, pi, 3, 0, 0, 0, 1, 0, 0, Paragraph
+wsj116.png, ch, 2, 0, 1, 0, 0, 0, 0, Data, Paragraph
+wsj116.png, em, 2, 0, 0, 0, 1, 0, 0, 
+wsj116.png, mc, 2, 0, 1, 0, 0, 0, 0, Data, Label
+wsj116.png, mg, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data
+wsj116.png, ra, 1, 0, 1, 0, 0, 0, 0, 
+wsj116.png, wab, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj116.png, am, 2, 0, 0, 0, 1, 0, 0, Label, Paragraph
+wsj116.png, lcm, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj116.png, rb, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj129.png, cmb, 2, 0, 1, 0, 0, 0, 0, Paragraph, Pictogram
+wsj129.png, wab, 2, 0, 1, 0, 0, 0, 0, Paragraph
+wsj129.png, pi, 1, 0, 0, 0, 1, 0, 0, Data, Pictogram
+wsj129.png, sok, 1, 0, 1, 0, 1, 0, 1, Data, Pictogram
+wsj129.png, db, 1, 0, 0, 0, 1, 0, 0, Data, Pictogram
+wsj129.png, mg, 2, 0, 0, 0, 1, 0, 1, Data, Pictogram, Paragraph
+wsj129.png, sh, 1, 0, 1, 0, 1, 0, 0, 
+wsj129.png, abl, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj129.png, md, 2, 0, 0, 0, 0, 0, 0, Data, Paragraph
+wsj129.png, pk, 2, 0, 1, 0, 1, 0, 1, Data, Pictogram, Paragraph
+wsj129.png, rb, 1, 0, 1, 0, 0, 0, 0, Data, Paragraph
+wsj135.png, ls, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj135.png, tj, 1, 0, 0, 0, 0, 0, 0, Paragraph, Label
+wsj135.png, lg, 2, 0, 0, 0, 0, 0, 1, Paragraph, Label
+wsj144.png, cmb, 2, 0, 0, 0, 1, 0, 1, Paragraph, Data
+wsj144.png, pi, 2, 0, 0, 0, 1, 0, 1, Legend, Data
+wsj144.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+wsj144.png, em, 2, 0, 0, 0, 1, 0, 0, Paragraph, Data
+wsj144.png, ra, 0, 0, 0, 1, 0, 0, 0, 
+wsj144.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+wsj144.png, abl, 3, 0, 0, 0, 1, 0, 1, Paragraph, Data, Legend
+wsj144.png, lcm, 2, 0, 0, 0, 1, 0, 0, Paragraph, Data, Legend
+wsj144.png, rk, 2, 0, 0, 0, 1, 0, 0, Label
+wsj147.png, cmb, 2, 0, 0, 0, 0, 0, 0, Paragraph, Label
+wsj147.png, ls, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj147.png, pi, 3, 1, 0, 0, 1, 0, 0, Paragraph, Label, Data
+wsj147.png, sok, 3, 1, 0, 0, 1, 0, 0, Paragraph, Label, Data
+wsj147.png, ch, 3, 1, 0, 0, 1, 0, 0, Label, Data
+wsj147.png, mg, 2, 1, 0, 0, 1, 0, 0, Data, Label
+wsj147.png, wab, 2, 0, 0, 0, 1, 0, 0, Label
+wsj147.png, abl, 2, 0, 0, 0, 1, 0, 0, Label
+wsj147.png, am, 2, 0, 0, 0, 1, 0, 0, Label
+wsj147.png, lcm, 1, 0, 0, 0, 1, 0, 0, Label
+wsj147.png, pk, 1, 0, 0, 0, 1, 0, 0, Label
+wsj147.png, rb, 3, 0, 0, 0, 1, 0, 0, Paragraph, Label, Data
+wsj162.png, cmb, 2, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram, Label, Data
+wsj162.png, pi, 3, 0, 0, 0, 1, 0, 0, 
+wsj162.png, db, 3, 0, 0, 0, 1, 0, 0, Label, Pictogram, Data
+wsj162.png, em, 3, 0, 0, 0, 1, 0, 0, Data, Label
+wsj162.png, mc, 3, 0, 0, 0, 1, 0, 0, 
+wsj162.png, ms, 3, 0, 1, 0, 1, 1, 0, Pictogram, Data
+wsj162.png, wab, 3, 1, 0, 0, 1, 0, 0, 
+wsj162.png, abl, 3, 0, 0, 0, 1, 0, 0, 
+wsj162.png, lcm, 3, 0, 0, 0, 1, 0, 0, 
+wsj162.png, pk, 3, 0, 0, 0, 1, 0, 0, 
+wsj162.png, rb, 3, 0, 0, 0, 1, 0, 0, Label
+wsj162.png, rk, 3, 1, 0, 0, 1, 0, 0, 
+wsj167.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+wsj167.png, mg, 2, 0, 1, 0, 0, 0, 0, Paragraph, Data, Axis
+wsj167.png, abl, 2, 0, 0, 0, 0, 0, 0, Label, Paragraph
+wsj170.png, wab, 0, 0, 0, 1, 0, 0, 0, 
+wsj170.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+wsj170.png, vm, 1, 0, 1, 0, 0, 0, 0, 
+wsj170.png, ad, 2, 0, 0, 0, 0, 0, 0, Label, Paragraph, Axis
+wsj172.png, cmb, 0, 0, 0, 0, 0, 0, 1, Data, Legend, Paragraph
+wsj172.png, wab, 1, 0, 1, 0, 0, 0, 0, Legend, Paragraph
+wsj172.png, mg, 2, 1, 0, 0, 0, 0, 0, Paragraph, Legend, Axis
+wsj172.png, lcm, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj172.png, rb, 2, 0, 0, 0, 0, 0, 0, Paragraph, Axis, Label, Legend
+wsj172.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+wsj176.png, pi, 1, 0, 0, 0, 0, 0, 1, Label, Data
+wsj176.png, lcm, 2, 0, 0, 0, 0, 0, 0, Paragraph, Axis, Label
+wsj184.png, pi, 1, 0, 0, 0, 1, 0, 0, Data, Paragraph
+wsj184.png, sok, 3, 0, 0, 0, 1, 1, 1, Data, Paragraph, Pictogram
+wsj184.png, jm, 1, 0, 0, 0, 1, 0, 0, Paragraph
+wsj184.png, cy, 0, 0, 0, 0, 0, 1, 0, Pictogram
+wsj184.png, db, 1, 0, 0, 0, 0, 1, 0, Text, Pictogram
+wsj184.png, em, 3, 0, 0, 0, 1, 0, 0, Data, Paragraph, Pictogram, Annotation
+wsj184.png, rs, 2, 0, 0, 0, 1, 1, 0, Pictogram, Paragraph
+wsj184.png, tj, 2, 0, 0, 0, 1, 0, 0, 
+wsj184.png, wab, 2, 0, 1, 0, 1, 1, 0, Pictogram, Paragraph
+wsj184.png, abl, 0, 0, 0, 0, 0, 1, 0, Pictogram
+wsj184.png, am, 2, 0, 0, 0, 1, 1, 0, Pictogram
+wsj184.png, lcm, 2, 0, 0, 0, 0, 0, 0, Data
+wsj184.png, pk, 2, 0, 0, 0, 1, 0, 0, Paragraph, Data
+wsj184.png, rk, 0, 0, 0, 0, 0, 1, 0, Pictogram
+wsj20.png, cmb, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data, Label
+wsj20.png, ls, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data, Label
+wsj20.png, pi, 2, 0, 0, 0, 1, 0, 0, Paragraph, Data
+wsj20.png, db, 3, 0, 1, 0, 1, 0, 1, Paragraph, Data, Annotation
+wsj20.png, dn, 3, 0, 1, 0, 0, 0, 1, Paragraph, Data, Annotation
+wsj20.png, mg, 3, 0, 0, 0, 1, 0, 1, Paragraph, Data, Annotation, Pictogram
+wsj20.png, sh, 1, 0, 0, 0, 0, 0, 0, 
+wsj20.png, tj, 1, 0, 1, 0, 1, 0, 0, Annotation
+wsj20.png, abl, 3, 0, 1, 0, 1, 0, 1, Paragraph, Data, Annotation, Pictogram
+wsj20.png, lcm, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data
+wsj20.png, rb, 3, 0, 1, 0, 1, 0, 1, Paragraph, Data, Annotation, Pictogram
+wsj20.png, rk, 2, 0, 0, 0, 1, 0, 0, Paragraph, Data
+wsj21.png, pi, 2, 0, 0, 0, 1, 0, 1, Legend, Data, Label, Pictogram, Paragraph
+wsj21.png, mc, 2, 0, 1, 0, 1, 1, 0, Pictogram, Paragraph
+wsj21.png, mg, 2, 0, 0, 0, 1, 0, 0, Paragraph, Label
+wsj21.png, ad, 3, 0, 0, 0, 0, 1, 0, Pictogram, Paragraph
+wsj21.png, rb, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj214.png, sk, 3, 0, 0, 0, 1, 0, 1, Paragraph, Data
+wsj214.png, pi, 3, 0, 0, 0, 1, 0, 1, Paragraph, Data
+wsj214.png, sok, 2, 0, 0, 0, 1, 0, 1, Paragraph, Pictogram, Data
+wsj214.png, jm, 1, 0, 0, 0, 1, 0, 0, 
+wsj214.png, db, 2, 1, 0, 0, 0, 0, 0, Paragraph, Data, Label, Paragraph
+wsj214.png, krm, 1, 0, 0, 0, 0, 0, 0, 
+wsj214.png, mrc, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj214.png, ad, 3, 0, 0, 0, 1, 0, 0, Paragraph
+wsj214.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+wsj214.png, rb, 3, 1, 0, 0, 1, 0, 0, Paragraph, Data
+wsj220.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+wsj220.png, mg, 3, 0, 1, 0, 1, 0, 1, Data, Axis, Paragraph
+wsj226.png, ls, 1, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram, Axis, Label
+wsj226.png, wab, 3, 0, 0, 0, 1, 0, 0, Paragraph, Data, Axis, Pictogram
+wsj226.png, cy, 1, 0, 1, 0, 1, 0, 0, Axis, Pictogram
+wsj226.png, em, 1, 0, 1, 0, 1, 0, 0, Paragraph
+wsj226.png, krm, 1, 0, 1, 0, 0, 0, 0, Axis, Pictogram, Label
+wsj226.png, mg, 3, 0, 1, 0, 0, 0, 0, Axis, Pictogram, Paragraph, Label
+wsj226.png, abl, 3, 0, 0, 0, 0, 0, 0, Axis, Pictogram, Paragraph, Label
+wsj226.png, md, 2, 0, 0, 0, 0, 0, 0, Axis, Pictogram, Paragraph
+wsj226.png, rb, 2, 0, 0, 0, 0, 0, 0, Axis, Pictogram, Paragraph
+wsj233.png, cmb, 2, 0, 0, 0, 0, 0, 0, Pictogram, Data
+wsj233.png, ls, 2, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj233.png, wab, 3, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram, Data
+wsj233.png, pi, 3, 0, 0, 0, 0, 0, 0, Pictogram, Label, Data
+wsj233.png, sok, 2, 0, 0, 0, 0, 0, 0, Data, Label, Paragraph, Pictogram
+wsj233.png, em, 3, 0, 0, 0, 0, 0, 0, Pictogram, Label, Data
+wsj233.png, mc, 3, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram, Label, Data
+wsj233.png, mg, 3, 0, 0, 0, 0, 0, 0, Pictogram, Label, Data
+wsj233.png, vm, 2, 0, 0, 0, 0, 0, 0, Pictogram, Label, Data
+wsj233.png, abl, 2, 0, 0, 0, 0, 0, 0, Pictogram, Label, Data
+wsj233.png, lcm, 1, 0, 0, 0, 0, 0, 0, 
+wsj233.png, rb, 3, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram, Label, Data
+wsj233.png, rk, 2, 0, 0, 0, 0, 0, 0, Pictogram, Label, Data
+wsj240.png, ls, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data
+wsj240.png, pi, 3, 0, 0, 0, 0, 0, 0, Paragraph
+wsj240.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+wsj240.png, ms, 0, 0, 0, 0, 0, 0, 0, Pictograms
+wsj240.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+wsj240.png, abl, 3, 1, 0, 0, 0, 0, 0, Paragraph
+wsj240.png, rk, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj259.png, pi, 3, 0, 0, 0, 0, 0, 1, Label, Axis, Paragraph
+wsj259.png, db, 3, 0, 0, 0, 0, 0, 0, Label, Axis, Paragraph, Pictogram
+wsj259.png, mg, 3, 0, 0, 0, 0, 0, 0, Label, Axis, Paragraph, Pictogram
+wsj259.png, ag, 2, 0, 0, 0, 1, 0, 0, Label
+wsj259.png, am, 2, 0, 0, 0, 1, 0, 0, Label
+wsj259.png, lcm, 1, 0, 0, 0, 0, 0, 0, Label
+wsj259.png, rb, 3, 0, 0, 0, 0, 0, 0, Label, Axis, Paragraph, Pictogram
+wsj262.png, cmb, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data, Label
+wsj262.png, ls, 1, 0, 0, 0, 0, 0, 0, Label
+wsj262.png, pi, 3, 0, 0, 0, 0, 0, 0, Label, Axis, Paragraph, Data
+wsj262.png, jm, 2, 0, 0, 0, 0, 0, 0, Paragraph, Axis, Data
+wsj262.png, db, 2, 0, 1, 0, 0, 0, 0, Label, Axis, Data
+wsj262.png, em, 2, 0, 1, 0, 0, 0, 0, Label, Axis, Paragraph
+wsj262.png, mg, 3, 0, 0, 0, 0, 0, 0, Label, Axis, Paragraph, Data
+wsj262.png, mrc, 1, 0, 0, 0, 0, 0, 0, Paragraph, Data
+wsj262.png, tj, 3, 0, 0, 0, 0, 0, 0, Source, Label, Data
+wsj262.png, vm, 2, 0, 0, 0, 0, 0, 0, Label, Paragraph
+wsj262.png, wab, 2, 0, 0, 0, 0, 0, 0, Label, Paragraph
+wsj262.png, lcm, 2, 0, 1, 0, 0, 0, 0, Label, Paragraph
+wsj262.png, rb, 3, 1, 0, 0, 0, 0, 1, Paragraph, Label, Data, Axis
+wsj264.png, wab, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data, Axis
+wsj264.png, pi, 1, 0, 0, 0, 0, 0, 0, 
+wsj264.png, sok, 1, 0, 0, 0, 0, 1, 0, Pictogram
+wsj264.png, jm, 2, 0, 1, 0, 0, 0, 0, Paragraph
+wsj264.png, db, 0, 0, 0, 0, 0, 0, 0, 
+wsj264.png, mg, 3, 0, 0, 0, 0, 1, 1, Pictogram, Axis Label, Paragraph
+wsj264.png, ms, 1, 0, 0, 0, 0, 0, 0, 
+wsj264.png, vm, 1, 0, 0, 0, 0, 0, 0, 
+wsj264.png, abl, 2, 0, 0, 0, 0, 0, 0, Axis Label
+wsj264.png, lcm, 2, 0, 0, 0, 0, 0, 0, Axis Label
+wsj264.png, md, 2, 0, 0, 0, 0, 1, 1, Paragraph
+wsj264.png, rb, 1, 0, 0, 0, 0, 1, 0, Paragraph, Pictogram
+wsj264.png, rk, 1, 0, 0, 0, 0, 0, 0, 
+wsj270.png, cmb, 0, 0, 0, 0, 0, 0, 0, Pictogram, Axis, Label
+wsj270.png, wab, 3, 0, 0, 0, 0, 0, 1, Paragraph, Label, Pictogram, Data
+wsj270.png, pi, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data, Label, Pictogram
+wsj270.png, db, 1, 0, 0, 0, 0, 0, 1, Label, Pictogram
+wsj270.png, mg, 3, 0, 0, 0, 1, 0, 1, Paragraph, Data, Label, Pictogram, Axis
+wsj270.png, ag, 2, 0, 0, 0, 1, 0, 0, Paragraph, Label, Pictogram
+wsj270.png, am, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data, Label, Pictogram
+wsj270.png, lcm, 1, 0, 1, 0, 0, 0, 0, Label, Pictogram, Paragraph
+wsj270.png, rk, 0, 0, 0, 0, 0, 1, 0, 
+wsj271.png, pi, 3, 0, 0, 0, 0, 0, 1, Paragraph, Axis, Data
+wsj271.png, rs, 1, 0, 0, 0, 0, 0, 0, 
+wsj271.png, wab, 3, 0, 0, 0, 0, 0, 0, Paragraph, Axis, Data, Label
+wsj271.png, abl, 3, 0, 0, 0, 0, 0, 0, Paragraph, Axis, Data, Label
+wsj271.png, lcm, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj277.png, ls, 1, 0, 0, 0, 0, 0, 0, Paragraph, Label
+wsj277.png, wab, 2, 0, 0, 0, 0, 0, 0, Paragraph, Label
+wsj277.png, em, 2, 0, 0, 0, 0, 0, 0, Paragraph, Label
+wsj277.png, rs, 2, 0, 0, 0, 0, 0, 0, Paragraph, Label
+wsj277.png, abl, 2, 0, 1, 0, 0, 0, 0, Label
+wsj277.png, lcm, 3, 0, 0, 0, 0, 0, 0, Paragraph, Label, Data
+wsj28.png, pi, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj28.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+wsj286.png, pi, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj286.png, sok, 0, 0, 0, 0, 1, 0, 0, 
+wsj286.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+wsj286.png, wab, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj286.png, lg, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj286.png, rb, 3, 0, 0, 0, 0, 0, 1, Paragraph, Label, Data, Axis Label
+wsj292.png, em, 3, 0, 0, 0, 0, 0, 0, Paragraph, Label
+wsj292.png, mg, 3, 0, 0, 0, 0, 0, 1, Paragraph, Label, Data
+wsj292.png, abl, 3, 0, 1, 0, 0, 0, 1, Label, Data
+wsj292.png, lcm, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj292.png, rb, 0, 0, 0, 0, 0, 0, 0, 
+wsj294.png, cmb, 3, 0, 0, 0, 0, 0, 1, Paragraph, Axis, Axis Label, Legend, Data, Label
+wsj294.png, pi, 3, 0, 0, 0, 0, 0, 0, Paragraph, Axis Label
+wsj294.png, sok, 2, 0, 0, 0, 0, 0, 1, Axis Label, Legend
+wsj294.png, cy, 3, 0, 0, 0, 0, 0, 0, Paragraph, Axis Label
+wsj294.png, em, 3, 0, 1, 0, 0, 0, 0, Axis Label, Legend, Paragraph
+wsj294.png, mc, 2, 0, 1, 0, 0, 0, 0, Axis Label
+wsj294.png, mg, 3, 0, 0, 0, 0, 0, 0, Paragraph
+wsj294.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+wsj297.png, ls, 1, 0, 0, 0, 0, 0, 0, Pictogram
+wsj297.png, pi, 3, 0, 0, 0, 1, 0, 1, Label, Data, Pictogram
+wsj297.png, db, 2, 0, 0, 0, 1, 0, 0, Data, Pictogram
+wsj297.png, dn, 2, 0, 1, 0, 1, 0, 0, 
+wsj297.png, em, 3, 0, 0, 0, 1, 0, 0, Paragraph, Pictogram
+wsj297.png, mc, 3, 0, 0, 0, 1, 0, 1, Label, Data, Pictogram
+wsj297.png, mg, 2, 0, 0, 0, 1, 0, 1, Label, Data, Pictogram
+wsj297.png, mrc, 1, 0, 0, 0, 0, 0, 0, Pictogram
+wsj297.png, ra, 2, 0, 0, 0, 0, 0, 1, Pictogram, Paragraph, Label
+wsj297.png, wab, 2, 1, 0, 0, 1, 0, 1, Pictogram, Label
+wsj297.png, abl, 3, 0, 0, 0, 1, 0, 1, Label, Data, Pictogram
+wsj297.png, lcm, 2, 0, 0, 0, 1, 0, 0, Data, Pictogram
+wsj297.png, rb, 0, 0, 0, 1, 0, 0, 0, 
+wsj297.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+wsj299.png, cmb, 2, 0, 0, 0, 0, 0, 1, Label, Pictogram, Paragraph
+wsj299.png, sk, 2, 0, 0, 0, 0, 0, 1, Data, Label, Paragraph, Pictogram
+wsj299.png, wab, 3, 0, 0, 0, 0, 0, 0, Data, Label, Paragraph, Pictogram, Axis
+wsj299.png, cy, 2, 0, 0, 0, 0, 0, 0, Paragraph, Label
+wsj299.png, em, 3, 0, 0, 0, 0, 0, 0, Paragraph, Label, Text
+wsj299.png, mc, 3, 0, 1, 0, 0, 0, 0, Paragraph, Label, Text
+wsj299.png, mg, 3, 0, 0, 0, 0, 0, 0, Paragraph, Label, Text
+wsj299.png, ra, 1, 0, 0, 0, 1, 0, 0, Text, Pictogram
+wsj299.png, ag, 2, 0, 0, 0, 1, 0, 1, Label, Paragraph, Axis Label
+wsj299.png, lcm, 1, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj299.png, rk, 2, 0, 0, 0, 0, 0, 0, Paragraph, Label
+wsj308.png, wab, 2, 0, 0, 0, 0, 0, 0, Axis Label, Legend, Paragraph
+wsj308.png, pi, 2, 0, 0, 0, 0, 0, 1, Axis Label, Legend, Paragraph
+wsj308.png, cy, 2, 0, 0, 0, 0, 0, 0, Paragraph, Legend
+wsj308.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+wsj308.png, lcm, 2, 0, 0, 0, 0, 0, 0, Paragraph, Legend
+wsj308.png, pj, 2, 0, 0, 0, 0, 0, 0, Paragraph, Legend
+wsj308.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+wsj316.png, pi, 2, 0, 1, 0, 1, 0, 0, Paragraph
+wsj316.png, sok, 2, 0, 1, 0, 0, 0, 1, Paragraph
+wsj316.png, jm, 1, 0, 1, 0, 0, 0, 0, Data, Paragraph, Axis Label
+wsj316.png, em, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj316.png, abl, 1, 0, 1, 0, 0, 0, 0, 
+wsj316.png, lcm, 1, 0, 0, 0, 1, 0, 0, 
+wsj316.png, pk, 1, 0, 1, 0, 1, 0, 0, Paragraph
+wsj316.png, rb, 1, 0, 0, 0, 0, 1, 0, Paragraph
+wsj340.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+wsj340.png, mc, 2, 0, 0, 0, 0, 0, 1, Label, Data
+wsj340.png, mg, 0, 0, 1, 0, 0, 0, 0, 
+wsj340.png, vm, 1, 0, 0, 0, 0, 0, 0, Data
+wsj340.png, wab, 0, 0, 0, 0, 0, 0, 0, 
+wsj340.png, abl, 3, 0, 0, 0, 0, 0, 1, Paragraph, Data, Label
+wsj340.png, lcm, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data, Label
+wsj340.png, rb, 2, 0, 0, 0, 0, 0, 1, Label, Data
+wsj359.png, pi, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data, Annotation
+wsj359.png, em, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj359.png, mg, 2, 0, 0, 0, 0, 0, 1, Paragraph, Annotation
+wsj359.png, vm, 2, 0, 1, 0, 1, 0, 0, 
+wsj359.png, ad, 0, 0, 0, 1, 0, 0, 0, 
+wsj359.png, lg, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj359.png, ag, 2, 0, 1, 0, 0, 0, 0, Paragraph, Data
+wsj360.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+wsj360.png, db, 0, 0, 0, 0, 0, 0, 0, 
+wsj360.png, mg, 0, 0, 0, 0, 0, 0, 0, 
+wsj392.png, cmb, 2, 0, 0, 0, 1, 0, 0, Data, Paragraph, Axis Label
+wsj392.png, pi, 2, 0, 1, 0, 0, 0, 0, Axis Label, Paragraph
+wsj392.png, db, 3, 0, 0, 0, 0, 0, 0, Axis Label, Paragraph, Label, Data
+wsj392.png, em, 2, 0, 1, 0, 0, 0, 0, Axis Label, Paragraph
+wsj392.png, krm, 1, 0, 1, 0, 0, 0, 0, Axis Label
+wsj392.png, mc, 1, 0, 0, 0, 0, 0, 0, Legend, Data
+wsj392.png, mg, 3, 0, 1, 0, 0, 0, 0, Axis Label, Data, Paragraph
+wsj392.png, mrc, 0, 0, 0, 0, 0, 0, 0, 
+wsj392.png, wab, 2, 0, 1, 0, 0, 0, 0, Axis Label, Paragraph, Label, Data
+wsj392.png, ag, 3, 0, 1, 0, 0, 0, 0, Axis Label, Paragraph, Data
+wsj392.png, rb, 3, 0, 1, 0, 0, 0, 0, Axis Label, Paragraph, Data
+wsj395.png, mg, 1, 0, 1, 1, 0, 0, 0, 
+wsj405.png, pi, 2, 1, 0, 0, 1, 1, 1, Paragraph
+wsj405.png, mg, 2, 0, 1, 0, 1, 0, 1, Paragraph, Axis
+wsj405.png, abl, 2, 0, 1, 0, 1, 0, 0, 
+wsj441.png, cmb, 2, 0, 0, 0, 0, 0, 1, Paragraph, Data, Legend
+wsj441.png, ls, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj441.png, wab, 3, 0, 0, 0, 0, 0, 1, Legend, Paragraph, Data
+wsj441.png, sok, 2, 0, 0, 0, 0, 0, 1, Paragraph, Data, Legend
+wsj441.png, em, 3, 0, 0, 0, 0, 0, 1, Legend, Paragraph, Data
+wsj441.png, mc, 2, 0, 0, 0, 0, 0, 1, Legend, Paragraph, Data
+wsj441.png, mg, 3, 0, 0, 0, 0, 0, 1, Legend, Paragraph, Data
+wsj441.png, abl, 1, 0, 0, 0, 0, 0, 0, Paragraph, Data
+wsj441.png, am, 3, 1, 0, 0, 0, 0, 1, Legend, Paragraph, Data
+wsj441.png, lcm, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj459.png, mg, 1, 0, 1, 0, 0, 0, 0, Label
+wsj459.png, abl, 3, 0, 1, 0, 0, 0, 1, Data, Axis Label
+wsj459.png, rb, 3, 0, 0, 0, 1, 0, 1, Data, Axis Label
+wsj462.png, cmb, 2, 0, 1, 0, 0, 0, 0, Paragraph
+wsj462.png, krm, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj462.png, mg, 3, 0, 0, 0, 0, 0, 0, Paragraph
+wsj462.png, ad, 3, 0, 0, 0, 0, 0, 1, Paragraph, Legend
+wsj462.png, abl, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj462.png, lcm, 0, 0, 0, 0, 0, 0, 0, 
+wsj462.png, pk, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj462.png, rb, 1, 0, 0, 0, 0, 0, 1, Paragraph
+wsj474.png, sok, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data
+wsj474.png, cy, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data
+wsj474.png, mg, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data, Label
+wsj474.png, mrc, 2, 0, 1, 0, 1, 0, 0, Paragraph
+wsj474.png, wab, 2, 0, 0, 0, 0, 0, 1, Paragraph, Data, Label
+wsj474.png, abl, 3, 0, 0, 0, 0, 0, 1, Paragraph, Data, Label
+wsj474.png, pk, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data, Label
+wsj474.png, rk, 0, 0, 0, 0, 0, 0, 0, 
+wsj481.png, wab, 0, 0, 0, 0, 0, 0, 0, Axis, Paragraph
+wsj481.png, pi, 3, 0, 0, 0, 0, 0, 1, Paragraph, Label
+wsj481.png, cy, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj481.png, em, 3, 0, 0, 0, 1, 0, 1, Paragraph, Label
+wsj481.png, mg, 3, 1, 0, 0, 1, 0, 1, Paragraph, Label
+wsj481.png, mrc, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj481.png, rs, 3, 0, 0, 0, 0, 0, 1, Paragraph, Label
+wsj481.png, abl, 2, 0, 1, 0, 0, 0, 0, Paragraph
+wsj505.png, cmb, 3, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram, Data
+wsj505.png, jm, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data, Header Row
+wsj505.png, db, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data, Header Row
+wsj505.png, em, 3, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram, Data
+wsj505.png, mg, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data, Header Row, Pictogram
+wsj505.png, abl, 2, 1, 0, 0, 0, 0, 0, Data, Paragraph
+wsj505.png, md, 2, 0, 0, 0, 0, 1, 0, Paragraph, Data, Header Row
+wsj508.png, jm, 0, 0, 0, 0, 0, 0, 0, 
+wsj508.png, mg, 3, 1, 0, 0, 0, 0, 0, Paragraph, Data, Axis
+wsj508.png, wab, 1, 0, 0, 0, 0, 0, 1, Axis, Data
+wsj508.png, pk, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj511.png, cmb, 2, 0, 1, 0, 0, 0, 0, Paragraph, Legend, Label
+wsj511.png, ls, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj511.png, pi, 2, 0, 0, 0, 0, 0, 1, Legend, Paragraph, Label, Data
+wsj511.png, jm, 1, 0, 0, 0, 0, 0, 0, Data, Label
+wsj511.png, dn, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj511.png, em, 2, 0, 0, 0, 0, 0, 0, Paragraph, Legend
+wsj511.png, mg, 2, 1, 0, 0, 0, 0, 1, Label, Paragraph, Legend
+wsj511.png, sh, 2, 0, 0, 0, 0, 0, 0, Paragraph, Label
+wsj511.png, ad, 2, 0, 1, 0, 0, 0, 1, Paragraph
+wsj511.png, abl, 2, 0, 0, 0, 0, 0, 0, Label, Paragraph, Legend
+wsj511.png, am, 2, 0, 1, 0, 0, 0, 0, Label, Paragraph, Legend
+wsj511.png, lcm, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj511.png, pk, 2, 0, 0, 0, 0, 0, 0, Paragraph, Legend
+wsj52.png, cmb, 3, 0, 0, 0, 1, 0, 0, Paragraph, Pictogram, Data, Axis
+wsj52.png, ls, 0, 0, 0, 1, 0, 0, 0, 
+wsj52.png, pi, 2, 0, 0, 0, 0, 1, 1, Data, Axis, Label
+wsj52.png, sok, 3, 0, 0, 0, 0, 0, 0, Data, Paragraph
+wsj52.png, db, 3, 0, 0, 0, 0, 0, 0, Data, Axis, Label, Paragraph
+wsj52.png, em, 2, 0, 0, 0, 1, 0, 1, Data
+wsj52.png, krm, 1, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj52.png, mc, 2, 0, 0, 0, 0, 0, 0, Data, Paragraph
+wsj52.png, mg, 3, 0, 0, 0, 0, 0, 1, Data, Axis, Label, Paragraph
+wsj52.png, mrc, 1, 0, 0, 0, 0, 0, 0, Paragraph, Pictogram
+wsj52.png, rs, 1, 0, 0, 0, 0, 1, 0, Pictogram
+wsj52.png, wab, 3, 0, 0, 0, 0, 0, 0, Data, Axis, Label, Paragraph
+wsj52.png, abl, 3, 0, 1, 0, 1, 0, 0, Paragraph
+wsj52.png, lcm, 3, 0, 1, 0, 1, 0, 0, Paragraph
+wsj52.png, pj, 2, 0, 1, 0, 0, 0, 0, Data, Paragraph
+wsj52.png, rb, 3, 0, 0, 0, 0, 0, 0, Data, Axis, Label, Paragraph
+wsj521.png, cmb, 3, 0, 0, 0, 1, 0, 0, Paragraph, Label, Data
+wsj521.png, db, 0, 0, 0, 1, 0, 0, 0, 
+wsj521.png, mg, 3, 0, 0, 0, 1, 0, 1, Paragraph, Label, Data
+wsj529.png, sok, 1, 0, 0, 0, 1, 0, 0, 
+wsj529.png, mg, 2, 0, 0, 0, 0, 0, 0, Legend, Labels, Data, Paragraph
+wsj529.png, wab, 2, 0, 1, 0, 0, 1, 0, Legend, Labels, Data, Paragraph
+wsj529.png, abl, 2, 1, 0, 0, 0, 0, 0, Legend, Labels, Data, Paragraph
+wsj529.png, md, 1, 0, 0, 0, 1, 0, 0, Paragraph
+wsj529.png, pk, 2, 0, 1, 0, 1, 0, 0, Labels, Data, Paragraph
+wsj533.png, sok, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data
+wsj533.png, db, 0, 0, 0, 0, 0, 0, 0, 
+wsj533.png, em, 2, 0, 0, 0, 0, 0, 0, Paragraph, Axis
+wsj533.png, mg, 3, 0, 0, 0, 0, 0, 0, Paragraph
+wsj533.png, ad, 2, 0, 0, 0, 0, 0, 1, Paragraph, Axis, Axis Label
+wsj533.png, lcm, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj536.png, ls, 2, 0, 1, 0, 0, 0, 0, Paragraph
+wsj536.png, jm, 1, 0, 1, 0, 1, 0, 0, Paragraph
+wsj536.png, em, 3, 0, 0, 0, 1, 0, 0, Paragraph
+wsj536.png, wab, 3, 0, 0, 0, 0, 0, 0, Paragraph
+wsj536.png, abl, 1, 0, 0, 0, 1, 0, 0, 
+wsj536.png, rk, 2, 0, 0, 0, 1, 0, 0, 
+wsj54.png, pi, 3, 0, 0, 0, 1, 0, 0, Paragraph, Axis, Label, Data
+wsj54.png, em, 3, 0, 0, 0, 1, 0, 0, Paragraph, Axis, Label, Data
+wsj54.png, mrc, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj54.png, ra, 2, 0, 0, 0, 1, 0, 0, Label, Data
+wsj54.png, wab, 3, 0, 0, 0, 1, 0, 0, Paragraph, Axis, Label, Data
+wsj54.png, lg, 2, 0, 0, 0, 0, 0, 1, Data, Axis, Paragraph
+wsj54.png, ag, 3, 0, 0, 0, 0, 0, 1, Paragraph, Axis, Label, Data
+wsj54.png, lcm, 3, 0, 1, 0, 0, 0, 0, Paragraph, Axis, Label, Data
+wsj54.png, pj, 2, 0, 0, 0, 0, 0, 0, Paragraph,Label, Data
+wsj54.png, rb, 2, 0, 0, 0, 0, 0, 0, Paragraph, Axis, Label, Data
+wsj540.png, cmb, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj540.png, sok, 3, 0, 0, 0, 0, 0, 0, Paragraph, Data
+wsj540.png, db, 0, 0, 0, 0, 0, 0, 0, 
+wsj540.png, ad, 0, 0, 0, 0, 0, 0, 0, 
+wsj540.png, abl, 2, 0, 1, 0, 1, 0, 0, Paragraph
+wsj540.png, lcm, 3, 0, 0, 0, 0, 0, 0, Paragraph
+wsj540.png, rb, 3, 0, 0, 0, 0, 0, 0, Paragraph
+wsj540.png, rk, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj55.png, mg, 2, 1, 0, 0, 0, 0, 0, Paragraph
+wsj55.png, ad, 1, 0, 0, 0, 0, 0, 0, Data, Axis Label
+wsj553.png, cmb, 3, 0, 1, 0, 0, 0, 1, Paragraph, Axis, Label
+wsj553.png, sk, 2, 0, 0, 0, 1, 0, 0, Axis Label, Axis, Data, Label, Pictogram
+wsj553.png, wab, 2, 0, 0, 0, 0, 0, 0, Axis Label, Axis, Data
+wsj553.png, pi, 3, 0, 1, 0, 0, 0, 1, Paragraph, Axis, Label
+wsj553.png, sok, 3, 0, 0, 0, 0, 0, 1, Paragraph, Axis, Label, Pictogram
+wsj553.png, cy, 2, 0, 1, 0, 0, 0, 0, Paragraph
+wsj553.png, dn, 3, 0, 0, 0, 0, 0, 1, Paragraph, Axis, Label
+wsj553.png, mg, 3, 0, 0, 0, 1, 0, 1, Paragraph, Axis, Label
+wsj553.png, ra, 2, 0, 0, 0, 1, 0, 0, 
+wsj553.png, rs, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj553.png, lcm, 2, 0, 1, 0, 0, 0, 0, Paragraph
+wsj553.png, md, 3, 0, 1, 0, 0, 0, 1, Paragraph, Axis, Label
+wsj553.png, pk, 3, 0, 0, 0, 0, 0, 1, Paragraph, Axis, Label
+wsj553.png, rb, 3, 0, 0, 0, 0, 0, 1, Paragraph, Axis, Label
+wsj553.png, rk, 3, 0, 1, 0, 0, 0, 1, Paragraph, Axis, Label
+wsj557.png, ls, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj557.png, wab, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj557.png, sok, 2, 1, 0, 0, 0, 0, 0, Paragraph
+wsj557.png, jm, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj557.png, cy, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj557.png, mg, 3, 0, 1, 0, 0, 0, 0, Paragraph
+wsj557.png, mrc, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj557.png, ad, 3, 0, 0, 0, 0, 0, 0, Paragraph
+wsj557.png, abl, 2, 0, 0, 0, 0, 0, 0, Paragraph, Data
+wsj557.png, lcm, 1, 0, 0, 0, 0, 0, 0, Paragraph
+wsj557.png, rb, 3, 0, 0, 0, 0, 1, 0, Paragraph, Pictogram
+wsj557.png, rk, 1, 0, 0, 0, 1, 0, 0, 
+wsj561.png, wab, 2, 0, 0, 0, 1, 0, 1, Data
+wsj561.png, sok, 2, 0, 0, 0, 1, 0, 1, Paragraph
+wsj561.png, dn, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj561.png, em, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj561.png, mg, 3, 0, 0, 0, 1, 0, 1, Paragraph, Annotation
+wsj561.png, mrc, 1, 0, 1, 0, 1, 0, 0, 
+wsj561.png, sh, 2, 0, 0, 0, 1, 0, 0, 
+wsj561.png, vm, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj561.png, abl, 3, 0, 0, 0, 1, 0, 1, Paragraph
+wsj561.png, pk, 3, 0, 0, 0, 1, 0, 0, Paragraph
+wsj561.png, rk, 2, 0, 0, 0, 1, 0, 0, 
+wsj593.png, cmb, 3, 0, 0, 0, 0, 0, 1, Paragraph, Data, Axis, Label
+wsj593.png, db, 3, 0, 1, 0, 0, 0, 1, Axis, Paragraph
+wsj593.png, krm, 1, 0, 0, 0, 0, 0, 0, Axis, Lable
+wsj593.png, ad, 2, 0, 0, 0, 0, 0, 1, Axis, Paragraph
+wsj593.png, abl, 2, 0, 1, 0, 1, 0, 0, Paragraph
+wsj593.png, pk, 3, 0, 0, 0, 0, 0, 0, Axis, Paragraph
+wsj593.png, rb, 3, 0, 0, 0, 0, 0, 1, Axis, Paragraph
+wsj612.png, cmb, 1, 0, 1, 0, 0, 0, 0, Paragraph, Label, Axis Label
+wsj612.png, sok, 0, 0, 0, 0, 0, 0, 0, 
+wsj612.png, jm, 3, 0, 0, 0, 0, 0, 0, Paragraph, Label
+wsj612.png, vm, 3, 0, 0, 0, 0, 0, 1, Paragraph, Label
+wsj612.png, wab, 3, 0, 0, 0, 0, 0, 1, Paragraph, Label
+wsj612.png, abl, 2, 0, 0, 0, 1, 0, 0, Paragraph, Label
+wsj612.png, lcm, 3, 0, 0, 0, 0, 0, 1, Paragraph, Label
+wsj612.png, rb, 2, 0, 0, 0, 0, 0, 1, Axis, Label, Paragraph
+wsj79.png, pi, 3, 1, 0, 0, 0, 0, 0, Header Row
+wsj79.png, sok, 2, 0, 0, 0, 0, 0, 0, Header Row
+wsj79.png, db, 3, 0, 0, 0, 0, 0, 0, Header Row
+wsj79.png, em, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj79.png, mg, 2, 1, 0, 0, 0, 0, 0, Data, Paragraph
+wsj79.png, wab, 3, 0, 0, 0, 0, 0, 0, Paragraph, Table
+wsj79.png, abl, 2, 0, 0, 0, 0, 0, 0, Header Row, Paragraph
+wsj79.png, lcm, 2, 0, 0, 0, 0, 0, 0, Data, Paragraph
+wsj79.png, rb, 3, 0, 0, 0, 0, 0, 0, Paragraph, Table, Header Row
+wsj79.png, rk, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj9.png, mg, 3, 0, 0, 0, 0, 0, 0, Paragraph, Legend, Label
+wsj9.png, abl, 2, 0, 1, 0, 0, 0, 0, Paragraph
+wsj99.png, cmb, 2, 9, 0, 0, 1, 0, 1, Paragraph, Label, Data
+wsj99.png, sok, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj99.png, db, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj99.png, mg, 3, 1, 0, 0, 0, 0, 0, Paragraph, Annotation, Label
+wsj99.png, tj, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj99.png, vm, 2, 0, 0, 0, 1, 0, 0, Paragraph
+wsj99.png, wab, 2, 0, 0, 0, 1, 0, 0, Paragraph, Annotation, Label, Legend
+wsj99.png, abl, 2, 0, 0, 0, 0, 0, 0, Paragraph
+wsj99.png, lcm, 2, 0, 0, 0, 0, 0, 0, Paragraph, Annotation, Label
+wsj99.png, md, 3, 1, 0, 0, 1, 0, 0, Paragraph, Annotation, Label, Legend
+wsj99.png, rb, 2, 0, 0, 0, 0, 0, 0, Paragraph, Legend
+wsj99.png, rk, 1, 0, 0, 0, 1, 0, 0, Paragraph
