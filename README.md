@@ -4,9 +4,9 @@ The user data included here corresponds to the following paper:
 
 <dl>
 ```
-Beyond Memorability: Visualization Recognition and Recall.<br>
-Borkin, M., Bylinskii, Z., Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.<br>
-IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2015)<br>
+Beyond Memorability: Visualization Recognition and Recall.
+Borkin, M., Bylinskii, Z., Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.
+IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2015)
 ```
 </dl>
 
