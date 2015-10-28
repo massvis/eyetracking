@@ -1,10 +1,10 @@
 # Dataset
 
-The user data included here corresponds to the following paper: 
+The user data included here corresponds to the following [paper](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf): 
 
 ```
 Beyond Memorability: Visualization Recognition and Recall.
-Borkin, M., Bylinskii, Z., Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.
+Borkin, M.*, Bylinskii, Z.*, Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.
 IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2015)
 ```
 
@@ -29,15 +29,15 @@ Additionally, here we include the eye tracking and text description data as well
 
 ###[fixationsByVis.zip](https://github.com/massvis/eyetracking/blob/master/csv_files/fixationsByVis.zip)
 
-For each filename corresponding to one of the 393 visualizations, and for both the encoding and recognition phases of our visualization studies (Borkin, Bylinskii, et al. 2015), there is a directory of user fixations. A comma-separated file corresponds to each user. Each line of the file corresponds to a single fixation and is formatted as follows: fixation number (order within fixation sequence), x and y locations of fixation in the image, fixation duration in ms. So, for example, `fixationsByVis/wsj612/enc/wab.csv` contains the fixations (during the encoding phase) of user labeled `wab` on visualizations labeled `wsj612`.
+For each filename corresponding to one of the 393 visualizations, and for both the encoding and recognition phases of our visualization studies ([Borkin, Bylinskii, et al. 2015](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf)), there is a directory of user fixations. A comma-separated file corresponds to each user. Each line of the file corresponds to a single fixation and is formatted as follows: fixation number (order within fixation sequence), x and y locations of fixation in the image, fixation duration in ms. So, for example, `fixationsByVis/wsj612/enc/wab.csv` contains the fixations (during the encoding phase) of user labeled `wab` on visualizations labeled `wsj612`.
 
 ###[userDescriptions.zip](https://github.com/massvis/eyetracking/blob/master/csv_files/userDescriptions.zip)
 
-For each of the 393 visualizations, we provide a filename with all user-generated free-form descriptions, from the recall phase of our visualization studies (Borkin, Bylinskii, et al. 2015). Each file is formatted as one user description per line, where the user's initials are separated by a colon: from the textual description.
+For each of the 393 visualizations, we provide a filename with all user-generated free-form descriptions, from the recall phase of our visualization studies ([Borkin, Bylinskii, et al. 2015](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf)). Each file is formatted as one user description per line, where the user's initials are separated by a colon: from the textual description.
 
 ###[descriptionAnnotations.csv](https://github.com/massvis/eyetracking/blob/master/csv_files/descriptionAnnotations.csv)
 
-These include the manually coded user-generated description texts as described in (Borkin, Bylinskii, et al. 2015). This file contains one user description per line, with the following columns:
+These include the manually coded user-generated description texts as described in ([Borkin, Bylinskii, et al. 2015](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf)). This file contains one user description per line, with the following columns:
 * `filename` is the name of the visualization (note: the visualization name will occur as many times as there are user descriptions for it)
 * `user` includes the code for the user name
 * `description quality` is the manual quality rating for the description (0-3)

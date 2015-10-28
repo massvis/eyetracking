@@ -1,13 +1,12 @@
 # Dataset
 
-The user data included here corresponds to the following paper: 
+The user data included here corresponds to the following [paper](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf): 
 
 ```
 Beyond Memorability: Visualization Recognition and Recall.
-Borkin, M., Bylinskii, Z., Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.
+Borkin, M.*, Bylinskii, Z.*, Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.
 IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2015)
 ```
-[paper pdf](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf)
 
 Please cite this paper if you use this data.
 
@@ -22,7 +21,7 @@ By using this dataset, you are agreeing to the following license agreement:
 *To use any of these images in a research paper or technical report, do not exceed thumbnail size.
 
 This data contains taxonomic labels and attributes for 393 visualizations, as described in:
-[Main data README](https://github.com/massvis/dataset/blob/master/README.md) 
+[README](https://github.com/massvis/dataset/blob/master/README.md) 
 
 These include the source, category, and type of each visualization, as well as the following attributes: data-ink ratio, number of distinctive colors, black & white, visual density, human recognizable object (HRO), and human depiction. We also provide the transcribed title for each visualization and where the title was located on the visualization, as well as whether the visualization contained data or message redundancy. From we include at-a-glance memorability scores (after 1 second of viewing) and from we include prolonged memorability scores (after 10 seconds of viewing). 
 
