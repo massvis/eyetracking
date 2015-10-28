@@ -2,11 +2,11 @@
 
 The user data included here corresponds to the following paper: 
 
-<dl>
-Beyond Memorability: Visualization Recognition and Recall.<br>
-Borkin, M., Bylinskii, Z., Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.<br>
-IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2015)<br>
-</dl>
+```
+Beyond Memorability: Visualization Recognition and Recall.
+Borkin, M., Bylinskii, Z., Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.
+IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2015)
+```
 
 Please cite this paper if you use this data.
 
@@ -57,11 +57,11 @@ Text coding:
 We include Matlab scripts for visualizing the eyetracking data.
 These visualizations were presented here:
 
-<dl>
-Eye Fixation Metrics for Large Scale Analysis of Information Visualizations<br>
-Bylinskii, Z., Borkin, M.<br>
-First Workshop on Eyetracking and Visualizations (ETVIS 2015) in conjunction with IEEE VIS 2015<br>
-</dl>
+```
+Eye Fixation Metrics for Large Scale Analysis of Information Visualizations
+Bylinskii, Z., Borkin, M.
+First Workshop on Eyetracking and Visualizations (ETVIS 2015) in conjunction with IEEE VIS 2015
+```
 
 Please cite this paper if you use this code.
 
