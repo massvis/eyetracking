@@ -35,7 +35,7 @@ For each filename corresponding to one of the 393 visualizations, and for both t
 
 For each of the 393 visualizations, we provide a filename with all user-generated free-form descriptions, from the recall phase of our visualization studies (Borkin, Bylinskii, et al. 2015). Each file is formatted as one user description per line, where the user's initials are separated by a colon: from the textual description.
 
-###[descriptionAnnotations](https://github.com/massvis/eyetracking/blob/master/csv_files/descriptionAnnotations.csv)
+###[descriptionAnnotations.csv](https://github.com/massvis/eyetracking/blob/master/csv_files/descriptionAnnotations.csv)
 
 These include the manually coded user-generated description texts as described in (Borkin, Bylinskii, et al. 2015). This file contains one user description per line, with the following columns:
 * `filename` is the name of the visualization (note: the visualization name will occur as many times as there are user descriptions for it)
