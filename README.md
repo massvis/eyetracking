@@ -27,7 +27,7 @@ These include the source, category, and type of each visualization, as well as t
 
 Additionally, here we include the eye tracking and text description data as well.
 
-###[targets393_metadata_withfixations.mat](https://github.com/massvis/eyetracking/blob/master/targets393_metadata_withfixations.mat)
+###[targets393_metadata_withuserdata.mat](https://github.com/massvis/eyetracking/blob/master/targets393_metadata_withuserdata.mat)
 
 This is a Matlab allImages struct, which contains all the fields as described in [README_targets393](https://github.com/massvis/dataset/blob/master/matlab_files/README_targets393.md) but with an additional userdata field.
 Here we describe what you can find in the `allImages(i).userdata` field for the i-th image. To access the data for the j-th user on the i-th image: `allImages(i).userdata(j)`
