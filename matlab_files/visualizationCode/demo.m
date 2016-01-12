@@ -2,6 +2,8 @@
 % https://github.com/massvis
 % massvis.mit.edu
 
+% Depends on code from: https://github.com/cvzoya/fixation-visualization
+
 
 %% set parameters for visualization purposes
 
@@ -14,7 +16,6 @@ params.scaleFact = 4; % a larger number speeds up computation
 % if you want to input your own images or fixations, skip to the code below
 
 load('allImages.mat');
-addpath('utils');
 
 whichfix = 'enc'; % or 'rec'
 whichim = 1;
