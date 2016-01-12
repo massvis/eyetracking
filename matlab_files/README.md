@@ -53,6 +53,7 @@ Text coding:
 * `userdata(j).coded_desc.confusion` indicates whether the description may be an erroneous recall of (or confusion with) a different visualization in the data set (1 = confusion, 0 = correct)
 
 ###[visualization code](https://github.com/massvis/eyetracking/blob/master/matlab_files/visualizationCode)
+See also: https://github.com/cvzoya/fixation-visualization
 
 We include Matlab scripts for visualizing the eyetracking data.
 These visualizations were presented in the following [paper](http://web.mit.edu/zoya/www/Bylinskii_eyefixations_small.pdf):
